@@ -5,9 +5,9 @@
 
 <head>
 <meta charset="utf-8">
-<title>Restoria - Restaurants HTML Template - Home 01</title>
+<title>The Diwaan Restaurant - Contact Us</title>
 <!-- Stylesheets -->
-   <?php include 'components/links.php' ?>
+    <?php include 'components/links.php' ?>
 
 </head>
 
@@ -39,30 +39,30 @@
                     <li class="dropdown"><a href="#">Home</a>
                         <ul>
                             <li><a href="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-1-Minimal-Hero/index.html">Home 1 - Minimal Hero</a></li>
-                            <li><a href="index.html">Home 2 - Standard Hero</a></li>
+                            <li><a href="index.php">Home 2 - Standard Hero</a></li>
                             <li><a href="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-3-Video-Hero/index.html">Home 3 - Video Hero</a></li>
                             <li><a href="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-4-Category-Hero/index.html">Home 4 - Category Hero</a></li>
                             <li><a href="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-5-Rollingimages-Hero-Center-Header/index.html">Home 5 - Rolling Images</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown"><a href="menu-list-1.html">Menus</a>
+                    <li class="dropdown"><a href="menu.php">Menus</a>
                         <ul>
-                            <li><a href="menu-list-1.html">Menu List 1</a></li>
+                            <li><a href="menu.php">Menu List 1</a></li>
                             <li><a href="menu-list-2.html">Menu List 2</a></li>
                             <li><a href="menu-list-3.html">Menu List 3</a></li>
                             <li><a href="menu-list-4.html">Menu List 4</a></li>
                         </ul>
                     </li>
-                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="about.php">About Us</a></li>
                     <li><a href="our-chef.html">Our chefs</a></li>
                     <li class="dropdown"><a href="#">Pages</a>
                         <ul>
-                            <li><a href="gallery-masonry.html">Photo Gallery</a></li>
-                            <li><a href="book-table.html">Reservation 1</a></li>
+                            <li><a href="gallery.php">Photo Gallery</a></li>
+                            <li><a href="book-table.php">Reservation 1</a></li>
                             <li><a href="book-table-option2.html">Reservation 2</a></li>
-                            <li><a href="testimonial.html">Testimonial</a></li>
-                            <li><a href="blog-list.html">Blog List</a></li>
-                            <li><a href="blog-single-post.html">Blog Single Post</a></li>
+                            <li><a href="testimonial.php">Testimonial</a></li>
+                            <li><a href="blog.php">Blog List</a></li>
+                            <li><a href="blog-single-post.php">Blog Single Post</a></li>
                             <li><a href="#">Dropdown Menu 1</a></li>
                             <li><a href="#">Dropdown Lorem 2</a></li>
                             <li class="dropdown"><a href="#">Dropdown Menu 3</a>
@@ -74,7 +74,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="contact-us.html">Contact</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </div><!-- /.Side-menu -->
         
@@ -94,13 +94,13 @@
 
             <h5>Visit Us</h5>
             <ul class="info">
-                <li>Restoria, Arrondissement, <br> Paris 9578</li>
-                <li> <span class="ib-ttl"> Lunch Time </span>- 10.00 am – 3:30 pm </li>
-                <li><span class="ib-ttl"> Dinner Time</span> - 08.00 pm – 10:30 pm</li>
-                <li><a href="mailto:booking@domainame.com">booking@domainame.com</a></li>
+                <li>The Diwaan Restaurant, Colombo, <br> Sri Lanka</li>
+                <li> <span class="ib-ttl"> Lunch Time </span>- 11.00 am – 3:00 pm </li>
+                <li><span class="ib-ttl"> Dinner Time</span> - 06.00 pm – 11:00 pm</li>
+                <li><a href="mailto:info@diwaanrestaurant.com">info@diwaanrestaurant.com</a></li>
             </ul>
             <div class="booking-info">
-                <div class="bk-no"><a href="tel:+88-123-123456">Booking: +88-123-123456</a></div>
+                <div class="bk-no"><a href="tel:+94-11-1234567">Booking: +94-11-1234567</a></div>
             </div>
         </div>
     </section>
@@ -113,7 +113,7 @@
         <div class="auto-container">
             <div class="inner">
                 <h1>Contact Us</h1>
-                <div class="sub_text"> <p> A taste of perfection in every dish - <span class="primary-color"> fine dining with a modern twist.</span></p> </div>
+                <div class="sub_text"> <p> Get in touch with The Diwaan Restaurant - <span class="primary-color"> where tradition meets excellence.</span></p> </div>
             </div>
         </div>
     </section>
@@ -130,16 +130,19 @@
 
                 <!--form image Section-->
                 <div class="loc-block info-block col-lg-5 col-md-12 col-sm-12">
-                    <div class="contact-image">
-                        <img src="images/resource/restaurant.jpg" alt="image">
-                    </div>
-                    <h5> visit us </h5>
-                    <div class="text">
-                        Restoria, Arrondissement, Paris 9578 <br> <br> 
-                        <span class="c-info-ttl"> Lunch Time </span> - 10.00 am – 3:30 pm <br>  <span class="c-info-ttl">Dinner Time </span> - 08.00 pm – 10:30 pm <br>  <br> 
-                        <span class="more-link"> Booking : <a href="tel:+85-123-456789">+85-123-456789</a> </span> <br>  
-                        <span class="more-link"> Email: <a href="mailto:booking@gmail.com">booking@gmail.com</a></span>
-
+                    <div class="visit-us-card">
+                        <div class="contact-image">
+                            <img src="images/resource/form-img-1.jpg" alt="The Diwaan Restaurant">
+                        </div>
+                        <div class="card-content">
+                            <h5> visit us </h5>
+                            <div class="text">
+                                The Diwaan Restaurant, Colombo, Sri Lanka <br> <br>
+                                <span class="c-info-ttl"> Lunch Time </span> - 11.00 am – 3:00 pm <br>  <span class="c-info-ttl">Dinner Time </span> - 06.00 pm – 11:00 pm <br>  <br>
+                                <span class="more-link"> Booking : <a href="tel:+94-11-1234567">+94-11-1234567</a> </span> <br>
+                                <span class="more-link"> Email: <a href="mailto:info@diwaanrestaurant.com">info@diwaanrestaurant.com</a></span>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -157,39 +160,39 @@
                     <div class="form-side">
                         <div class="title-box centered">
                             <div class="subtitle"><span>Write to us</span></div>
-                            <h2>Message us</h2>
-                            <div class="text desc">Contact us - we aim to reply within 24 hours and are happy to help!</div>
+                            <h2>Message Us</h2>
+                            <div class="text desc">Have questions about our menu, reservations, or anything else? We'd love to hear from you!</div>
                         </div>
                         <div class="default-form reservation-form">
-                            <form method="post" action="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-2-Standard-Hero/index.html">
+                            <form method="post" action="contact.php">
                                 <div class="clearfix">
                                     <div class="form-group">
                                         <div class="field-inner">
-                                            <input type="text" name="fieldname" value="" placeholder="Your Name" required="">
+                                            <input type="text" name="name" value="" placeholder="Your Name" required="">
                                         </div>
                                     </div>
                                     <div class="form-group">
                                         <div class="field-inner">
-                                            <input type="text" name="fieldname" value="" placeholder="Your Email" required="">
+                                            <input type="email" name="email" value="" placeholder="Your Email" required="">
                                         </div>
                                     </div>
                                     <div class="form-group ">
                                         <div class="field-inner">
-                                            <input type="text" name="fieldname" value="" placeholder="Phone Number" required="">
+                                            <input type="tel" name="phone" value="" placeholder="Phone Number" required="">
                                         </div>
                                     </div>
-                                
+
                                     <div class="form-group ">
                                         <div class="field-inner">
-                                            <textarea name="fieldname" placeholder="Special Request" required=""></textarea>
+                                            <textarea name="message" placeholder="Your Message" required=""></textarea>
                                         </div>
                                     </div>
 
                                     <div class="form-group">
                                         <button type="submit" class="theme-btn btn-style-one clearfix">
                                             <span class="btn-wrap">
-                                                <span class="text-one">send your message</span>
-                                                <span class="text-two">send your message</span>
+                                                <span class="text-one">Send Message</span>
+                                                <span class="text-two">Send Message</span>
                                             </span>
                                         </button>
                                     </div>

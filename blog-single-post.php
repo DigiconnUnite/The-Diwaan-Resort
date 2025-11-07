@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-2-Standard-Hero/blog-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 03 Nov 2025 09:22:54 GMT -->
+
 <head>
 <meta charset="utf-8">
 <title>Restoria - Restaurants HTML Template - About Us</title>
@@ -168,8 +168,8 @@
                             <div class="link link-btn">
                                 <a href="book-table.html" class="theme-btn btn-style-one clearfix">
                                     <span class="btn-wrap">
-                                        <span class="text-one">find a table</span>
-                                        <span class="text-two">find a table</span>
+                                        <span class="text-one">Book a Table</span>
+                                        <span class="text-two">Book a Table</span>
                                     </span>
                                 </a>
                             </div>
@@ -291,256 +291,198 @@
         <div class="image-layer" style="background-image: url(images/background/banner-image-7.jpg);"></div>
         <div class="auto-container">
             <div class="inner">
-                <h1>Blog List</h1>
+                <h1>Blog Single Post</h1>
                 <div class="sub_text"> <p> A taste of perfection in every dish - <span class="primary-color"> fine dining with a modern twist.</span></p> </div>
             </div>
         </div>
     </section>
     <!--End Banner Section -->
 
-    <!-- Main Blog List Section Start-->
-    <section class="blog_list_section section-kt">
+    <!-- Blog Details Block Start-->
+    <section class="blog_detail_section section-kt" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="200">
       <div class="auto-container">
-        <div class="row">
-            <!-- Blog Left Side -->            
-          <div class="col-lg-8">
-            <div class="blog_left_side">
-
-                <!-- Blog post -->
-                <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
-                    <div class="main_img">
-                        <a href="blog-single-post.html"><img src="images/resource/blog-list-1.jpg" alt="image"></a>
-                    </div>
-                    <div class="blog_info">
-                        <ul>
-                            <li> 10 July, 2025 </li>
-                            <li> By: Admin </li>
-                            <li> <a href="#"> Food Story </a> </li>
-                        </ul>
-                        <h4><a href="blog-single-post.html">An Elegant Journey of Crafted Cuisine</a></h4>
-                        <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-                        <div class="link-box">
-                            <a href="blog-single-post.html" class="theme-btn btn-style-two clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one">read more</span>
-                                    <span class="text-two">read more</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Blog post -->
-                <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
-                    <div class="main_img">
-                        <a href="blog-single-post.html"><img src="images/resource/blog-list-2.jpg" alt="image"></a>
-                    </div>
-                    <div class="blog_info">
-                        <ul>
-                            <li> 05 July, 2025 </li>
-                            <li> By: Admin </li>
-                            <li> <a href="#"> Recipes </a> </li>
-                        </ul>
-                        <h4><a href="blog-single-post.html">Experience Gourmet Art and Ambience</a></h4>
-                        <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-                        <div class="link-box">
-                            <a href="blog-single-post.html" class="theme-btn btn-style-two clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one">read more</span>
-                                    <span class="text-two">read more</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Blog post -->
-                <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
-                    <div class="main_img">
-                        <a href="blog-single-post.html"><img src="images/resource/blog-list-3.jpg" alt="image"></a>
-                    </div>
-                    <div class="blog_info">
-                        <ul>
-                            <li> 25 June, 2025</li>
-                            <li> By: Admin </li>
-                            <li> <a href="#"> Event </a> </li>
-                        </ul>
-                        <h4><a href="blog-single-post.html">A Tasteful Journey Through Artful Dishes</a></h4>
-                        <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-                        <div class="link-box">
-                            <a href="blog-single-post.html" class="theme-btn btn-style-two clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one">read more</span>
-                                    <span class="text-two">read more</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Blog post -->
-                <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
-                    <div class="main_img">
-                        <a href="blog-single-post.html"><img src="images/resource/blog-list-4.jpg" alt="image"></a>
-                    </div>
-                    <div class="blog_info">
-                        <ul>
-                            <li> 23 June, 2025 </li>
-                            <li> By: Admin </li>
-                            <li> <a href="#"> Restaurant </a> </li>
-                        </ul>
-                        <h4><a href="blog-single-post.html">Savor Elegance, One Dish at a Time.</a></h4>
-                        <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-                        <div class="link-box">
-                            <a href="blog-single-post.html" class="theme-btn btn-style-two clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one">read more</span>
-                                    <span class="text-two">read more</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-          </div>
-
-          <!-- blog Right Side -->
-          <div class="col-lg-4">
-            <div class="blog_right_side">
-              <!-- Search Blog -->
-              <div class="blog_search_block bg_box" data-aos="fade-up" data-aos-duration="1500">
-                <form action="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-2-Standard-Hero/submit">
-                  <div class="form-group">
-                    <div class="form_inner">
-                      <input type="text" class="form-control">
-                      <button><i class="fa-light fa-magnifying-glass"></i></button>
-                    </div>
-                  </div>
-                </form>
-              </div>
-              <!-- Recent Post -->
-              <div class="recent_post_block bg_box" data-aos="fade-up" data-aos-duration="1500">
-                <h6>Recent Post</h6>
-                <ul class="recent_blog_list">
-                  <li>
-                    <a href="blog-single-post.html">
-                      <div class="img">
-                        <img src="images/resource/blog-recent-1.jpg" alt="image">
-                      </div>
-                      <div class="text">
-                        <p>An Elegant Culinary Journey Through Artfully Crafted Dishes</p>
-                        <span>July 09, 2025</span>
-                      </div>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="blog-single-post.html">
-                      <div class="img">
-                        <img src="images/resource/blog-recent-2.jpg" alt="image">
-                      </div>
-                      <div class="text">
-                        <p>Luxury Dining Redefined: Where Taste Meets Sophistication</p>
-                        <span>July 05, 2025</span>
-                      </div>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="blog-single-post.html">
-                      <div class="img">
-                        <img src="images/resource/blog-recent-3.jpg" alt="image">
-                      </div>
-                      <div class="text">
-                        <p>Chef’s Signature Creations for the Discerning Palate</p>
-                        <span>July 03, 2025</span>
-                      </div>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="blog-single-post.html">
-                      <div class="img">
-                        <img src="images/resource/blog-recent-4.jpg" alt="image">
-                      </div>
-                      <div class="text">
-                        <p>Discover the Art of Gourmet Excellence and Ambience</p>
-                        <span>July 01, 2025</span>
-                      </div>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-
-              <!-- Categories List -->
-              <div class="categories_block bg_box" data-aos="fade-up" data-aos-duration="1500">
-                <h6>Categories</h6>
+        <div class="blog_inner_pannel">
+            <div class="blog_info info" data-aos="fade-up" data-aos-duration="2000">
                 <ul>
-                  <li>
-                    <a href="#" class="cat"> Foie Gras</a>
-                    <span>(30)</span>
-                  </li>
-                  <li>
-                    <a href="#" class="cat"> Lobster Thermidor </a>
-                    <span>(22)</span>
-                  </li>
-                  <li>
-                    <a href="#" class="cat"> Chilean Sea Bass</a>
-                    <span>(12)</span>
-                  </li>
-                  <li>
-                    <a href="#" class="cat"> Caviar Service</a>
-                    <span>(48)</span>
-                  </li>
-                  <li>
-                    <a href="#" class="cat"> Chilean Sea Bass</a>
-                    <span>(58)</span>
-                  </li>
-                  <li>
-                    <a href="#" class="cat"> King Crab Legs</a>
-                    <span>(17)</span>
-                  </li>
-                  <li>
-                    <a href="#" class="cat"> Oysters Rockefeller</a>
-                    <span>(42)</span>
-                  </li>
+                    <li> 10 July, 2025 </li>
+                    <li> By: Admin </li>
+                    <li> <a href="#"> Food Story </a> </li>
                 </ul>
-              </div>
 
-              <!-- Tags Block -->
-              <div class="tags_block bg_box" data-aos="fade-up" data-aos-duration="1500">
-                <h6>Tags</h6>
-                <ul>
-                  <li><a href="#">FineDining</a></li>
-                  <li><a href="#">LuxuryCuisine</a></li>
-                  <li><a href="#">GourmetExperience</a></li>
-                  <li><a href="#">HauteCuisine</a></li>
-                  <li><a href="#">ChefSpecial</a></li>
-                  <li><a href="#">CulinaryArt</a></li>
-                  <li><a href="#">ElegantDining</a></li>
-                </ul>
-              </div>
+                <h2>Elegance in Every Artful Bite</h2>
+                <p>Dummy text of the printing and types etting industry lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen booksince the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
+
             </div>
-          </div>
-        </div>
+            <div class="main_img" >
+                <img src="images/resource/blog-single.jpg" alt="image">
+            </div>
+              <div class="info" data-aos="fade-up" data-aos-duration="1500">
+                <h3>A Culinary Journey in Style</h3>
+                <p>Dummy text of the printing and types etting industry lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen booksince the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting. Dummy text of the printing and types etting industry lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen booksince the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
+              </div>
+              <div class="quote_block" data-aos="fade-up" data-aos-duration="1500">
+                <span class="q_icon">“</span>
+                <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys</h5>
+                <span class="q_icon">”</span>
+              </div>
+              <div class="info" data-aos="fade-up" data-aos-duration="1500">
+                <h3>Indulge in Flavor and Ambience</h3>
+                <p>Dummy text of the printing and types etting industry lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen booksince the when an unknown printer took a galley of type and scrambled it to make a type specimen book. <br> <br>
 
-        <!-- Pagination Block Start -->
-        <div class="pagination_block" data-aos="fade-up" data-aos-duration="1500">
-          <div class="row">
-            <div class="col-lg-8">
+                  Dummy text of the printing and types etting industry lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen booksince the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting. Dummy text of the printing and types etting industry lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of a type specimen booksince the when an unknown printer.
+                </p>
+              </div>
+              <div class="main_img" data-aos="fade-up" data-aos-duration="1500">
+                <iframe style="width: 100%; height: 500px" src="https://www.youtube.com/embed/tgbNymZ7vqY"
+                  title="YouTube video player" 
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen></iframe>
+              </div>
+              <div class="info" data-aos="fade-up" data-aos-duration="1500">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting in dustry lorem Ipsum has been the
+                  industrys standard dummy text ev er since the 1500s, when an unknown printer took a galley of type and
+                  scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into
+                  electronic industry.</p>
+              </div>
+
+              <div class="info" data-aos="fade-up" data-aos-duration="1500">
+                <h3>Where Taste Meets Atmosphere</h3>
+
               <ul>
-                <li><a href="#" class="prev"><i class="fa-light fa-arrow-left"></i></a></li>
-                <li><a href="#" class="active">1</a></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-                <li><a href="#">4</a></li>
-                <li><a href="#" class="next"><i class="fa-light fa-arrow-right"></i></a></li>
-              </ul>
-            </div>
-          </div>
+                  <li data-aos="fade-up" data-aos-duration="1500">
+                    <p> <span class="icon"><i class="fa-regular fa-circle-check"></i></span> When an unknown printer took a galley of type </p>
+                  </li>
+                  <li data-aos="fade-up" data-aos-duration="1500">
+                    <p> <span class="icon"><i class="fa-regular fa-circle-check"></i></span> Scrambled it to make a type specimen</p>
+                  </li>
+                  <li data-aos="fade-up" data-aos-duration="1500">
+                    <p> <span class="icon"><i class="fa-regular fa-circle-check"></i></span> Been the indu has been the
+                    </p>
+                  </li>
+                  <li data-aos="fade-up" data-aos-duration="1500">
+                    <p> <span class="icon"><i class="fa-regular fa-circle-check"></i></span> Make a type specimen book it has survived. </p>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="blog_authore" data-aos="fade-up" data-aos-duration="1500">
+                <div class="social_media">
+                  <h6>Share this</h6>
+                  <ul>
+                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
+                    <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                  </ul>
+                </div>
+              </div>
         </div>
-        <!-- Pagination Block End -->
       </div>
     </section>
-    <!-- Main Blog List Section End-->
+    <!-- Blog Details Block End-->
 
+    <!-- Comment Section Start-->
+    <section class="row_am comment_section">
+      <div class="auto-container">
+        <div class="blog_cooment_block">
+          <div class="posted_cooment">
+            <div class="section_title" data-aos="fade-up" data-aos-duration="1500">
+              <h3>3 Comments</h3>
+            </div>
+            <ul>
+              <li data-aos="fade-up" data-aos-duration="1500">
+                <div class="authore_info">
+                  <div class="avtar">
+                    <img src="images/resource/comment1.png" alt="image">
+                  </div>
+                  <div class="text">
+                    <span>2 days ago</span> <br>
+                    John Due
+                  </div>
+                </div>
+                <div class="comment">
+                  <p>Dummy text of the printing and types etting industry lorem Ipsum has been the indu has been the industrys standardbeen the industrys standard dummy text ever since.</p>
+                </div>
+              </li>
+              <li data-aos="fade-up" data-aos-duration="1500" class="replay_comment">
+                <div class="authore_info">
+                  <div class="avtar">
+                    <img src="images/resource/comment2.png" alt="image">
+                  </div>
+                  <div class="text">
+                    <span>3 days ago</span> <br>
+                    Smith Miller
+                  </div>
+                </div>
+                <div class="comment">
+                  <p>Industry lorem Ipsum has been the indu has been the industrys standard dummy unknown printer took a galley of type and scrambled.</p>
+                </div>
+              </li>
+              <li data-aos="fade-up" data-aos-duration="1500">
+                <div class="authore_info">
+                  <div class="avtar">
+                    <img src="images/resource/comment3.png" alt="image">
+                  </div>
+                  <div class="text">
+                    <span>2 days ago</span> <br>
+                    Wilson Joy
+                  </div>
+                </div>
+                <div class="comment">
+                  <p>Took a galley of type and scrambled it to make a type specimen booksince the when an unknown printer took a galley of type and scrambled it to make a type specimen book Standard dummy text ever since the when an unknown printer.  </p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <!-- Comment block Form -->
+          <div class="comment_form_section">
+            <div class="section_title" data-aos="fade-up" data-aos-duration="1500">
+              <h3>Leave a comment</h3>
+              <p>Your email address will not be published. Required fields are marked *</p>
+            </div>
+            <form action="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-2-Standard-Hero/submit" data-aos="fade-up" data-aos-duration="1500">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Name *">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input type="email" class="form-control" placeholder="Email *">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Phone">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Website  ">
+                  </div>
+                </div>
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <textarea class="form-control" placeholder="Comments"></textarea>
+                  </div>
+                </div>
+                <div class="col-md-12 coment-btn">
+                    <button type="submit" class="theme-btn btn-style-one clearfix ">
+                        <span class="btn-wrap">
+                            <span class="text-one">post your comment</span>
+                            <span class="text-two">post your comment</span>
+                        </span>
+                    </button>
+
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Comment Section End-->
 
 
 </div>
@@ -548,6 +490,7 @@
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
+
 
 <script src="js/jquery.js"></script>
 <script src="js/popper.min.js"></script>

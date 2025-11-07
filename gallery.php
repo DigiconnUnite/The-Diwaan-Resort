@@ -185,7 +185,7 @@
                       <img src="images/gallery/pic10-thumb.jpg" alt="Gallery Image">
                     </a>
                   </div>
-
+                  
                   <!-- Add more items as needed -->
                 </div>
             </div>

@@ -126,13 +126,13 @@
             <div class="title-box centered">
                 <div class="subtitle"><span>our story</span></div>
 
-                <h2>Where Exquisite Flavors Meet <span class="theme_color">Elegant Ambiance</span> for an <span class="theme_color">Unforgettable Fine Dining </span> Experience!</h2>
             </div>
             <div class="row clearfix">
                 <!--Col-->
                 <div class="text-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms">
 
+                <h2>Exquisite Flavors, <span class="theme_color">Elegant Ambiance</span></h2>
                         <div class="text"> Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into.</div>
 
                         <div class="feature-info">
@@ -185,16 +185,7 @@
     </section>
 
 
-    <!--Intro Section-->
-    <section class="intro-section ">
-        <div class="intro-anim-image"><img src="images/resource/abt_dish.png" alt="image"></div>
-        <div class="image-layer" style="background-image: url(images/background/video_bg.jpg);"></div>
-        <div class="auto-container">
-            <div class="content-box">
-                <div class="play-btn"><a href="https://www.youtube.com/watch?v=dZ9O_l1dIzs" class="lightbox-image theme-btn"><span class="icon fa-sharp-duotone fa-solid fa-play"><i class="ripple"></i></span></a></div>
-            </div>
-        </div>
-    </section>
+
 
     <!--Why Us Section-->
     <section class="why-us-two section-kt">
@@ -281,53 +272,6 @@
         </div>
     </section>
 
-    <!--chef Section 1-->
-    <section class="chef-section-1 section-kt">
-        <div class="auto-container">
-
-            <div class="row clearfix">
-                <!--Block-->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
-                    <div class="title-box">
-                        <div class="subtitle"><span>meet the chef</span></div>
-                        <h2>Mater Chef Lorenzo</h2>
-                        <p> A fine dine master chef crafts exquisite cuisine with precision, passion, creativity, and elegance, delivering unforgettable culinary experiences and refined flavors.</p>
-                        <div class="link-box">
-                            <a href="about.html" class="theme-btn btn-style-two clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one">meet our team</span>
-                                    <span class="text-two">meet our team</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Block-->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
-                    <div class="chef-image image1 parallax-scene-2 " >
-                        <img data-depth="0.15" src="images/resource/mainchef1.jpg" alt="image">
-                    </div>
-                    <div class="round-stamp">
-                        <img data-depth="0.50" class="stamp_icon" src="images/resource/chefcap.png" alt="image">
-                    </div>
-                </div>
-
-                <!--Block-->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
-                    <div class="chef-image image2 parallax-scene-3">
-                        <img data-depth="0.50" src="images/resource/mainchef2.jpg" alt="image">
-                    </div>
-                    <div class="chef-image image3 parallax-scene-4">
-                        <img data-depth="0.50" src="images/resource/mainchef3.jpg" alt="image">
-                    </div>
-                </div>
-
-
-            </div>
-
-        </div>
-    </section>
 
     <!--Services Section-->
     <section class="services-section section-kt">
@@ -499,15 +443,7 @@
                         <div class="image"><a href="images/gallery/gallery-4-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-4-sm.jpg" alt="image"></a></div>
                     </div>
 
-                    <!--Slide Item-->
-                    <div class="gallery-block">
-                        <div class="image"><a href="images/gallery/gallery-1-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-1-sm.jpg" alt="image"></a></div>
-                    </div>
-
-                    <!--Slide Item-->
-                    <div class="gallery-block">
-                        <div class="image"><a href="images/gallery/gallery-2-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-2-sm.jpg" alt="image"></a></div>
-                    </div>
+                    
 
                 </div>
             </div>
@@ -515,7 +451,7 @@
     </section>
 
     <!--Main Footer-->
-   <?php include 'components/footer.php'?>
+   <?php include 'components/footer.php' ?>
 
 </div>
 <!--End pagewrapper--> 
@@ -524,7 +460,7 @@
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
 
 
-<?php include'components/script.php'?>
+<?php include 'components/script.php' ?>
 
 </body>
 

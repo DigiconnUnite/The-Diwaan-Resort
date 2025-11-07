@@ -64,7 +64,7 @@
                             </div> -->
                             <!-- Find Table btn -->
                             <div class="link link-btn" style="margin-left:10px;">
-                                <a href="book-table.php" class="theme-btn btn-style-one clearfix">
+                                <a href="contact.php" class="theme-btn btn-style-one clearfix">
                                     <span class="btn-wrap">
                                         <span class="text-one">Contact</span>
                                         <span class="text-two">Contact</span>
@@ -74,8 +74,8 @@
                             <div class="link link-btn" style="margin-left:10px;">
                                 <a href="book-table.php" class="theme-btn btn-style-one clearfix">
                                     <span class="btn-wrap">
-                                        <span class="text-one">find a table</span>
-                                        <span class="text-two">find a table</span>
+                                        <span class="text-one">Book a Table</span>
+                                        <span class="text-two">Book a Table</span>
                                     </span>
                                 </a>
                             </div>

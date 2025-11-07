@@ -1,31 +1,6 @@
 <!-- Elegant Footer Section - The Diwaan Restaurant -->
 <footer class="main-footer" role="contentinfo">
- <!-- Newsletter Section -->
-    <div class="newsletter-section">
-        <div class="auto-container">
-            <div class="newsletter-content">
-                <div class="newsletter-text">
-                    <h4>Stay Connected</h4>
-                    <p>Subscribe for exclusive offers, special events, and culinary updates from The Diwaan</p>
-                </div>
-                <form class="newsletter-form" role="form" aria-label="Newsletter subscription">
-                    <div class="form-group">
-                        <input
-                            type="email"
-                            class="newsletter-input"
-                            placeholder="Enter your email address"
-                            required
-                            aria-label="Email address"
-                        >
-                        <button type="submit" class="newsletter-btn">
-                            <span>Subscribe</span>
-                            <i class="fa fa-paper-plane"></i>
-                        </button>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
+ 
 
     <!-- Main Footer Content -->
     <div class="footer-main">
@@ -73,8 +48,8 @@
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="menu.php">Our Menu</a></li>
                             <li><a href="gallery.php">Gallery</a></li>
-                            <li><a href="book-table.php">Reservations</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="blog.php">Blog</a></li>
+                            <li><a href="testimonials.php">Testimonials</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -82,12 +57,11 @@
                     <h5 class="column-title">Quick Links</h5>
                     <nav class="footer-nav">
                         <ul>
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="about.php">About Us</a></li>
-                            <li><a href="menu.php">Our Menu</a></li>
-                            <li><a href="gallery.php">Gallery</a></li>
-                            <li><a href="book-table.php">Reservations</a></li>
                             <li><a href="contact.php">Contact</a></li>
+                            <li><a href="book-table.php">Book Table</a></li>
+                            <li><a href="faq.php">FAQ</a></li>
+                            <li><a href="privacy.php">Privacy Policy</a></li>
+                            <li><a href="terms.php">Terms of Service</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -146,6 +120,7 @@
     position: relative;
     overflow: hidden;
     font-family: var(--font-family-Urbanist);
+    border-top: 1px solid rgba(230, 177, 95, 0.5);
 }
 
 /* Subtle background pattern */
@@ -159,6 +134,7 @@
     background:
         radial-gradient(circle at 20% 20%, rgba(230, 177, 95, 0.03) 0%, transparent 50%),
         radial-gradient(circle at 80% 80%, rgba(230, 177, 95, 0.03) 0%, transparent 50%);
+    
     pointer-events: none;
     z-index: 1;
 }
@@ -171,7 +147,26 @@
 /* Main Footer Section */
 .footer-main {
     padding: 0 0 50px 0;
-    /* background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/background/footer-bg.png') no-repeat center center / cover, linear-gradient(135deg, #000 0%, #000 100%); */
+   
+    position: relative;
+}
+
+.footer-main::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background:
+        radial-gradient(circle at 20% 20%, rgba(63, 38, 0, 0.13) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(230, 177, 95, 0.03) 0%, transparent 50%);
+    z-index: 1;
+}
+
+.footer-main .auto-container {
+    position: relative;
+    z-index: 2;
 }
 
 /* Brand Section */
@@ -297,10 +292,10 @@
 }
 
 .social-links a:hover {
-    background: var(--main-color);
+    background: linear-gradient(135deg, var(--main-color), rgba(230, 177, 95, 0.8));
     color: var(--color-two);
     transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(230, 177, 95, 0.4);
+    box-shadow: 0 6px 20px rgba(230, 177, 95, 0.4), 0 0 30px rgba(230, 177, 95, 0.6);
     border-color: var(--main-color);
 }
 
@@ -449,10 +444,23 @@
 
 /* Newsletter Section */
 .newsletter-section {
-    background: var(--color-two);
+    background: linear-gradient(135deg, var(--color-two) 0%, rgba(230, 177, 95, 0.1) 100%);
     padding: 45px 0;
     border-top: 1px solid rgba(230, 177, 95, 0.2);
     border-bottom: 1px solid rgba(230, 177, 95, 0.2);
+    position: relative;
+    overflow: hidden;
+}
+
+.newsletter-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(circle at 50% 50%, rgba(230, 177, 95, 0.05) 0%, transparent 70%);
+    pointer-events: none;
 }
 
 .newsletter-content {
@@ -533,9 +541,22 @@
 
 /* Bottom Footer */
 .footer-bottom {
-    background: rgba(0, 0, 0, 0.25);
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.25) 0%, rgba(230, 177, 95, 0.05) 100%);
     padding: 25px 0;
     border-top: 1px solid rgba(230, 177, 95, 0.15);
+    position: relative;
+    overflow: hidden;
+}
+
+.footer-bottom::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(circle at 30% 70%, rgba(230, 177, 95, 0.06) 0%, transparent 60%);
+    pointer-events: none;
 }
 
 .bottom-content {
@@ -606,7 +627,8 @@
 .specialty-tag:hover {
     color: var(--main-color);
     border-color: var(--main-color);
-    background: rgba(230, 177, 95, 0.1);
+    background: linear-gradient(135deg, rgba(230, 177, 95, 0.1), rgba(230, 177, 95, 0.2));
+    box-shadow: 0 0 15px rgba(230, 177, 95, 0.3);
 }
 
 /* === RESPONSIVE DESIGN === */

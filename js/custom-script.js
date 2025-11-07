@@ -134,6 +134,35 @@
 
   hiddenBarMenuConfig();
 
+  //Mobile Navigation Toggle
+  function mobileNavToggle() {
+    if ($(".main-header .nav-toggler").length) {
+      $(".main-header .nav-toggler .hidden-bar-opener").on("click", function (e) {
+        e.preventDefault();
+        var navigation = $(".main-header .nav-box-left .navigation");
+        navigation.toggleClass("mobile-menu-open");
+
+        // Close menu when clicking outside
+        $(document).on("click.mobileNav", function (e) {
+          if (!$(e.target).closest(".main-header").length) {
+            navigation.removeClass("mobile-menu-open");
+            $(document).off("click.mobileNav");
+          }
+        });
+
+        // Close menu on escape key
+        $(document).on("keydown.mobileNav", function (e) {
+          if (e.keyCode === 27) {
+            navigation.removeClass("mobile-menu-open");
+            $(document).off("keydown.mobileNav click.mobileNav");
+          }
+        });
+      });
+    }
+  }
+
+  mobileNavToggle();
+
   //Custom Scroll for Hidden Sidebar
   if ($(".hidden-bar").length) {
     $(".hidden-bar-closer,.menu-backdrop").on("click", function () {
@@ -160,16 +189,18 @@
   //Banner Carousel
   if ($(".banner-slider").length) {
     var swiper = new Swiper(".banner-slider", {
-      autoplay: true,
-      autoplaySpeed: 7000,
       effect: "fade",
       speed: 1000,
-      margin: 0,
       slidesPerView: 1,
       spaceBetween: 0,
       loop: true,
       autoplay: {
         delay: 7000,
+        disableOnInteraction: false,
+      },
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
       },
       navigation: {
         nextEl: ".swiper-button-next",

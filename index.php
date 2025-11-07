@@ -133,89 +133,54 @@
           <span class="line"></span>
         </div>
 
-        <div class="banner-container">
-            <div class="banner-slider">
-                <div class="swiper-wrapper">
-                    <!--Slide Item-->
-                    <div class="swiper-slide slide-item">
-                        <div class="image-layer" style="background-image: url(images/main-slider/slider-1.jpg);"></div>
-                        <div class="auto-container">
-                          <div class="content-box">
-                                <div class="content">
-                                    <div class="clearfix">
-                                        <div class="inner">
-                                            <div class="subtitle"><span>Serving Since 1995</span></div>
-                                            <h1>Delightful Experience</h1>
-                                            <div class="text">A taste of perfection in every dish - fine dining with a modern twist.</div>
-                                            <div class="links-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                            </div>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Slide Item-->
-                    <div class="swiper-slide slide-item">
-                        <div class="image-layer" style="background-image: url(images/main-slider/slider-2.jpg);"></div>
-                        <div class="auto-container">
-                          <div class="content-box">
-                                <div class="content">
-                                    <div class="clearfix">
-                                        <div class="inner">
-                                            <div class="subtitle"><span>Delicious Taste in City</span></div>
-                                            <h1>Taste the Tradition</h1>
-                                            <div class="text">A taste of perfection in every dish - fine dining with a modern twist.</div>
-                                            <div class="links-box clearfix">
-                                            </div>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Slide Item-->
-                    <div class="swiper-slide slide-item">
-                        <div class="image-layer" style="background-image: url(images/main-slider/slider-3.jpg);"></div>
-                        <div class="auto-container">
-                          <div class="content-box">
-                                <div class="content">
-                                    <div class="clearfix">
-                                        <div class="inner">
-                                            <div class="subtitle"><span>Tradational Taste</span></div>
-                                            <h1>Savor Every Bite</h1>
-                                            <div class="text">A taste of perfection in every dish - fine dining with a modern twist.</div>
-                                            <div class="links-box clearfix">
-                                            </div>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-button-prev"><span class="fal fa-angle-left"></span></div>
-                <div class="swiper-button-next"><span class="fal fa-angle-right"></span></div>
+        <div class="swiper banner-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide slide-item">
+                    <div class="image-layer" style="background: linear-gradient(to bottom, rgba(0,0,0,0.7), transparent), url(images/main-slider/slider-4.png); background-position: center center; background-size: cover; transition: all 1s ease;"></div>
+                    <div class="auto-container">
+                      <div class="content-box">
+                              <div class="content">
+                                  <div class="clearfix">
+                                       <div class="inner">
+                                             <div class="subtitle"><span>Delicious Taste in City</span></div>
+                                                 <h1>Taste the Tradition</h1>
+                                                 <div class="text">A taste of perfection in every dish - fine dining with a modern twist.</div>
+                                                 <div class="links-box clearfix">
+                                                     <div class="link">
+                                                         <a href="menu.php" class="theme-btn btn-style-two">
+                                                             <span class="btn-wrap">
+                                                                 <span class="text-one">Explore Menu</span>
+                                                                 <span class="text-two">Explore Menu</span>
+                                                             </span>
+                                                         </a>
+                                                     </div>
+                                                 </div>
+                                       </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                 </div>
             </div>
         </div>
 
-        <a href="book-table.html" class="explore-menu-btn">
-            <span class="icon"> <img src="images/resource/menu-badge-arrow.png" alt="image" title="image"> </span>
-        </a>
-
         <!-- Curve at bottom -->
         <!-- Default (desktop) curve -->
-  		<svg class="bottom-curve curve-desktop" viewBox="0 0 1440 65" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-    		<path fill="var(--color-two)" d="M0,65 C360,0 1080,0 1440,65 L1440,65 L0,65 Z" />
-  		</svg>
+    <svg class="bottom-curve curve-desktop" viewBox="0 0 1440 65" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+      <path fill="var(--color-two)" d="M0,65 C360,0 1080,0 1440,65 L1440,65 L0,65 Z" />
+    </svg>
 
-  		<!-- Less curved version for tablets/mobile -->
-		<svg class="bottom-curve curve-mobile" viewBox="0 0 1440 65" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-		  <path fill="var(--color-two)" d="M0,65 C480,20 960,20 1440,65 L1440,65 L0,65 Z" />
-		</svg>
+    <!-- Less curved version for tablets/mobile -->
+  <svg class="bottom-curve curve-mobile" viewBox="0 0 1440 65" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <path fill="var(--color-two)" d="M0,65 C480,20 960,20 1440,65 L1440,65 L0,65 Z" />
+  </svg>
+
+        <!-- Add Swiper Pagination -->
+        <div class="swiper-pagination"></div>
+
+        <!-- Add Swiper Navigation -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
 
 
 
@@ -224,61 +189,59 @@
 
     <!--Scrolling Banner Start -->
     <section class="scrolling-banner-section">
-        <div class="auto-container">
-            <div class="content">
-                <h1>Delightful Experience</h1>
-                <div class="text">A taste of perfection in every dish - <span> fine dining with a modern twist.</span></div>
-                <div class="button-box">
-                    <a href="book-table.html" class="theme-btn btn-style-two clearfix">
-                        <span class="btn-wrap">
-                            <span class="text-one">view menu</span>
-                            <span class="text-two">view menu</span>
-                        </span>
-                    </a>
-                </div>
-            </div>
-        </div>
         <div class="rolling-gallery-container">
           <div class="rolling-gallery-outer">
             <!-- First set of images -->
             <div class="rolling-image">
-              <img src="images/main-slider/banner-1.png" alt="image">
+              <img src="images/resource/dish1.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/main-slider/banner-2.png" alt="image">
+              <img src="images/resource/dish2.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/main-slider/banner-3.png" alt="image">
+              <img src="images/resource/dish3.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/main-slider/banner-4.png" alt="image">
+              <img src="images/resource/dish4.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/main-slider/banner-5.png" alt="image">
+              <img src="images/resource/dish5.png" alt="image">
             </div>
-            <div class="rolling-image">
-              <img src="images/main-slider/banner-6.png" alt="image">
-            </div>
-            
+           
+
             <!-- Duplicate set for seamless looping -->
             <div class="rolling-image">
-              <img src="images/main-slider/banner-1.png" alt="image">
+              <img src="images/resource/dish1.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/main-slider/banner-2.png" alt="image">
+              <img src="images/resource/dish2.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/main-slider/banner-3.png" alt="image">
+              <img src="images/resource/dish3.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/main-slider/banner-4.png" alt="image">
+              <img src="images/resource/dish4.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/main-slider/banner-5.png" alt="image">
+              <img src="images/resource/dish5.png" alt="image">
+            </div>
+            <!-- Duplicate set for seamless looping -->
+            <div class="rolling-image">
+              <img src="images/resource/dish1.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/main-slider/banner-6.png" alt="image">
+              <img src="images/resource/dish2.png" alt="image">
             </div>
+            <div class="rolling-image">
+              <img src="images/resource/dish3.png" alt="image">
+            </div>
+            <div class="rolling-image">
+              <img src="images/resource/dish4.png" alt="image">
+            </div>
+            <div class="rolling-image">
+              <img src="images/resource/dish5.png" alt="image">
+            </div>
+            
           </div>
         </div>
     </section>
@@ -286,81 +249,7 @@
 
 
 
-    <!--Category Section-->
-    <section class="menu-cat section-kt">
-        <div class="auto-container">
-            <div class="title-box centered">
-                <div class="subtitle"><span>explore our Delicious Selections</span></div>
-            </div>
-
-            <div class="row clearfix">
-                <!--Block-->
-                <div class="menucat-list menubg1 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                    <!--image-->
-                    <div class="image-box">
-                        <img src="images/resource/menu-cat1.png" alt="image">
-                    </div>
-                    
-                    <!--data-->
-                    <div class="data-colom">
-                        <div class="title-box"> <h3>Appetizers</h3> </div>
-                        <span class="star"> <img src="images/icons/star-element.svg" alt="image"> </span>
-                        <div class="arrow-btn"> <a href="menu-list-1.html"> <i class="fa-light fa-arrow-right"></i> </a> </div>
-                    </div>
-                </div>
-
-
-                <!--Block-->
-                <div class="menucat-list menubg2 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                    <!--image-->
-                    <div class="image-box">
-                        <img src="images/resource/menu-cat2.png" alt="image">
-                    </div>
-                    
-                    <!--data-->
-                    <div class="data-colom">
-                        <div class="title-box"> <h3>Main Dishes</h3> </div>
-                        <span class="star"> <img src="images/icons/star-element.svg" alt="image"> </span>
-                        <div class="arrow-btn"> <a href="menu-list-2.html"> <i class="fa-light fa-arrow-right"></i> </a> </div>
-                    </div>
-                </div>
-
-
-                <!--Block-->
-                <div class="menucat-list menubg3 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                    <!--image-->
-                    <div class="image-box">
-                        <img src="images/resource/menu-cat3.png" alt="image">
-                    </div>
-                    
-                    <!--data-->
-                    <div class="data-colom">
-                        <div class="title-box"> <h3>Desserts</h3> </div>
-                        <span class="star"> <img src="images/icons/star-element.svg" alt="image"> </span>
-                        <div class="arrow-btn"> <a href="menu-list-3.html"> <i class="fa-light fa-arrow-right"></i> </a> </div>
-                    </div>
-                </div>
-
-
-                <!--Block-->
-                <div class="menucat-list menubg4 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                    <!--image-->
-                    <div class="image-box">
-                        <img src="images/resource/menu-cat4.png" alt="image">
-                    </div>
-                    
-                    <!--data-->
-                    <div class="data-colom">
-                        <div class="title-box"> <h3>Drinks</h3> </div>
-                        <span class="star"> <img src="images/icons/star-element.svg" alt="image"> </span>
-                        <div class="arrow-btn"> <a href="menu-list-4.html"> <i class="fa-light fa-arrow-right"></i> </a> </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
+ 
     <!--Fluid Section-->
     <section class="fluid-section alternate special-dish-slider">
         <div class="outer-container">
