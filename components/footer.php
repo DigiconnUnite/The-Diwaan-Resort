@@ -380,6 +380,7 @@
     font-size: medium;
     line-height: 1.4;
     text-decoration: none;
+    text-align: start;
     transition: color 0.3s ease;
 }
 
@@ -701,7 +702,7 @@
     }
 
     .specialties {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
         gap: 8px;
     }
@@ -718,6 +719,8 @@
 
     .tagline {
         font-size: 0.85rem;
+        text-align: center;
+        padding-bottom: 4rem;
     }
 
     .newsletter-section {

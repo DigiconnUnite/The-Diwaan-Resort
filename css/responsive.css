@@ -1016,12 +1016,12 @@
 	.main-header .header-upper .logo-box {
 		order: 0;
 		flex: 1;
-		text-align: left;
+		text-align: center;
 		margin-bottom: 0;
 	}
 
 	.main-header .header-upper .logo-box .logo img {
-		height: 2.5rem;
+		height: 4rem;
 		width: auto;
 		max-width: 100%;
 	}
@@ -1263,8 +1263,8 @@
 
 	/* chef section 1 */
 	.chef-section-1 .round-stamp {
-		left: 30%; /* Start from center of parent column */
-		transform: translateX(-50%); /* Shift the stamp to center itself */
+		left: 30%; 
+		transform: translateX(-50%); 
 		bottom: 65px;
 	}
 
@@ -1596,18 +1596,19 @@
 
 	.main-header .header-upper .nav-box-right {
 		flex: 0 0 auto;
-		justify-content: flex-end;
+		justify-content: end;
+		align-items: center;
 	}
 
 	.main-header .header-upper .logo-box {
 		order: 0;
 		flex: 1;
-		text-align: left;
+		text-align: center;
 		margin-bottom: 0;
 	}
 
 	.main-header .header-upper .logo-box .logo img {
-		height: 2.5rem;
+		height: 3.5rem;
 		width: auto;
 		max-width: 100%;
 	}
@@ -1757,6 +1758,7 @@
 
 	.footer-brand-section .brand-text h3 {
 		font-size: 1.6rem;
+		text-align: center;
 	}
 
 	.footer-content {
@@ -1782,10 +1784,14 @@
 	.footer-column .contact-item {
 		font-size: 0.9rem;
 		margin-bottom: 10px;
+		display: flex;
+		flex-direction: row;
+		align-items: start;
+		gap: 1rem;
 	}
 
 	.footer-column .contact-item i {
-		font-size: 14px;
+		font-size: large;
 		width: 16px;
 	}
 
@@ -1801,6 +1807,17 @@
 
 	.footer-bottom .copyright p {
 		font-size: 0.85rem;
+	}
+
+	/* Additional mobile header fixes */
+	.main-header .header-upper .nav-box-right .d-flex {
+		flex-direction: column;
+		align-items: center;
+		gap: 10px;
+	}
+
+	.main-header .header-upper .nav-box-right .links-box {
+		margin-left: 0;
 	}
 
 	.footer-bottom .bottom-links a {
@@ -2189,18 +2206,18 @@
 
 	.main-header .header-upper .nav-box-right {
 		flex: 0 0 auto;
-		justify-content: flex-end;
+		justify-content: center;
 	}
 
 	.main-header .header-upper .logo-box {
 		order: 0;
 		flex: 1;
-		text-align: left;
+		text-align: center;
 		margin-bottom: 0;
 	}
 
 	.main-header .header-upper .logo-box .logo img {
-		height: 2.5rem;
+		height: 3rem;
 		width: auto;
 		max-width: 100%;
 	}
@@ -2226,6 +2243,8 @@
 	}
 
 	.main-header .header-upper .logo-box .logo img {
+		height: 3.5rem;
+		width: auto;
 		max-width: 100%;
 	}
 

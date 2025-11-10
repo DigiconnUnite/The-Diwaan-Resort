@@ -5,17 +5,17 @@
                 <div class="inner clearfix">
                     <div class="top-left clearfix">
                         <ul class="top-info clearfix">
-                            <li>Visit us : Restoria, Arrondissement, Paris 9578</li>
-                            <li><a href="tel:+11234567890"> Call: +85-123-456789 </a></li>
+                            <li>Visit us : The Diwaan Restaurant, Colombo, Sri Lanka</li>
+                            <li><a href="tel:+94-11-123-4567"> Call: +94-11-123-4567 </a></li>
                         </ul>
                     </div>
                     <div class="top-right clearfix">
                         <ul class="top-info  clearfix">
-                        	<li><a href="mailto:booking@restaurant.com"> Email: booking@gmail.com</a></li>
-							<li class="social"><a href="https://themeforest.net/user/kalanidhithemes/portfolio" aria-label="facebook page" ><i class="fa-brands fa-facebook-f"></i></a></li>
-							<li class="social"><a href="https://www.behance.net/kalanidhithemes" aria-label="twitter page"><i class="fa-brands fa-instagram"></i></a></li>
-							<li class="social"><a href="https://themeforest.net/user/kalanidhithemes/portfolio" aria-label="instagram page"><i class="fa-brands fa-pinterest-p"></i></a></li>
-							<li class="social"><a href="https://themeforest.net/user/kalanidhithemes/portfolio" aria-label="pinterest page"><i class="fa-brands fa-youtube"></i></a></li>
+                        	<li><a href="mailto:info@diwaanrestaurant.com"> Email: info@diwaanrestaurant.com</a></li>
+							<li class="social"><a href="https://facebook.com/diwaanrestaurant" aria-label="facebook page" ><i class="fa-brands fa-facebook-f"></i></a></li>
+							<li class="social"><a href="https://instagram.com/diwaanrestaurant" aria-label="instagram page"><i class="fa-brands fa-instagram"></i></a></li>
+							<li class="social"><a href="https://twitter.com/diwaanrestaurant" aria-label="twitter page"><i class="fa-brands fa-twitter"></i></a></li>
+							<li class="social"><a href="https://youtube.com/diwaanrestaurant" aria-label="youtube page"><i class="fa-brands fa-youtube"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -44,20 +44,20 @@
                     <!-- Center Logo -->
                     <div class="logo-box text-center" style="flex:0 0 auto;">
                         <div class="logo">
-                            <a href="index.php" title="Restoria - Restaurants HTML Template">
-                                <img src="images/diwaan-small-logo.png" alt="" title="Restoria - Restaurants HTML Template" style="min-height: 8rem;">
+                            <a href="index.php" title="Diwaan - Restaurants HTML Template">
+                                <img src="images/diwaan-small-logo.png" alt="" title="Diwaan - Restaurants HTML Template">
                             </a>
                         </div>
                     </div>
 
                     <!-- Right Nav/Menu, Find Table btn and toggler -->
-                    <div class="nav-box nav-box-right clearfix flex-grow-1 d-flex flex-column align-items-end" style="flex:1;">
+                    <div class="nav-box nav-box-right clearfix flex-grow-1 d-flex flex-row align-items-end" style="flex:1;">
                         <div class="d-flex align-items-center justify-content-end w-100" style="gap:10px;">
                             <!-- Menu -->
                             <!-- <div class="nav-outer clearfix d-flex align-items-center flex-grow-1">
                                 <nav class="main-menu main-menu-right">
                                     <ul class="navigation clearfix d-flex justify-content-start">
-                               
+
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
@@ -79,17 +79,17 @@
                                     </span>
                                 </a>
                             </div>
-                            <!-- Hidden Nav Toggler -->
-                            <div class="links-box clearfix" style="margin-left:8px;">
-                                <div class="nav-toggler">
-                                    <button class="hidden-bar-opener">
-                                        <span class="hamburger">
-                                            <span class="top-bun"></span>
-                                            <span class="meat"></span>
-                                            <span class="bottom-bun"></span>
-                                        </span>
-                                    </button>
-                                </div>
+                        </div>
+                        <!-- Hidden Nav Toggler -->
+                        <div class="links-box clearfix" style="margin-left:8px;">
+                            <div class="nav-toggler">
+                                <button class="hidden-bar-opener">
+                                    <span class="hamburger">
+                                        <span class="top-bun"></span>
+                                        <span class="meat"></span>
+                                        <span class="bottom-bun"></span>
+                                    </span>
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -98,3 +98,32 @@
         </div>
     </header>
     <!--End Main Header -->
+
+    <!--Menu Backdrop-->
+    <div class="menu-backdrop"></div>
+
+    <!-- Hidden Navigation Bar -->
+    <section class="hidden-bar">
+        <!-- Hidden Bar Wrapper -->
+        <div class="inner-box">
+            <div class="cross-icon hidden-bar-closer"><span class="far fa-close"></span></div>
+            <div class="logo-box"><a href="index.html" title="Diwaan - Restaurants HTML Template"><img src="images/diwaan-small-logo.png" alt="image" title="Diwaan - Restaurants HTML Template"></a></div>
+            
+            <!-- .Side-menu -->
+            <div class="side-menu">
+                  <ul class="navigation clearfix">
+                     <li><a href="index.php">Home</a></li>
+                     <li><a href="about.php">About Us</a></li>
+                     <li><a href="menu.php">Menus</a></li>
+                     <li><a href="gallery.php">Gallery</a></li>
+                     <li><a href="blog.php">Blog</a></li>
+                     <li><a href="contact.php">Contact</a></li>
+                     <li><a href="book-table.php">Book a Table</a></li>
+                 </ul>
+            </div><!-- /.Side-menu -->
+        
+        </div><!-- / Hidden Bar Wrapper -->
+    </section>
+    <!-- / Hidden Bar -->
+
+   

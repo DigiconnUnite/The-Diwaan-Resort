@@ -538,6 +538,32 @@
     if ($("body.page-loaded").length) {
       $("body").addClass("page-done");
     }
+
+    // Add active class to current page navigation links
+    var currentPath = window.location.pathname.split('/').pop();
+    if (currentPath === '' || currentPath === 'index.php') {
+      currentPath = 'index.php';
+    }
+
+    // Add active class to main navigation
+    $('.main-menu .navigation li a').each(function() {
+      var href = $(this).attr('href');
+      if (href === currentPath) {
+        $(this).parent('li').addClass('current');
+      } else {
+        $(this).parent('li').removeClass('current');
+      }
+    });
+
+    // Add active class to mobile sidebar navigation
+    $('.hidden-bar .side-menu .navigation li a').each(function() {
+      var href = $(this).attr('href');
+      if (href === currentPath) {
+        $(this).parent('li').addClass('current');
+      } else {
+        $(this).parent('li').removeClass('current');
+      }
+    });
   });
 
   /* ==========================================================================

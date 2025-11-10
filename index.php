@@ -5,7 +5,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Restoria - Restaurants HTML Template - Home 01</title>
+<title>Diwaan - Restaurants HTML Template - Home 01</title>
 <!-- Stylesheets -->
    <?php include 'components/links.php' ?>
 
@@ -23,89 +23,7 @@
     
     <!--End Main Header -->
     
-    <!--Menu Backdrop-->
-    <div class="menu-backdrop"></div>
-
-    <!-- Hidden Navigation Bar -->
-    <section class="hidden-bar">
-        <!-- Hidden Bar Wrapper -->
-        <div class="inner-box">
-            <div class="cross-icon hidden-bar-closer"><span class="far fa-close"></span></div>
-            <div class="logo-box"><a href="index.html" title="Restoria - Restaurants HTML Template"><img src="images/resource/sidebar-logo.png" alt="image" title="Restoria - Restaurants HTML Template"></a></div>
-            
-            <!-- .Side-menu -->
-            <div class="side-menu">
-                 <ul class="navigation clearfix">
-                    <li class="dropdown"><a href="#">Home</a>
-                        <ul>
-                            <li><a href="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-1-Minimal-Hero/index.html">Home 1 - Minimal Hero</a></li>
-                            <li><a href="index.html">Home 2 - Standard Hero</a></li>
-                            <li><a href="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-3-Video-Hero/index.html">Home 3 - Video Hero</a></li>
-                            <li><a href="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-4-Category-Hero/index.html">Home 4 - Category Hero</a></li>
-                            <li><a href="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-5-Rollingimages-Hero-Center-Header/index.html">Home 5 - Rolling Images</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown"><a href="menu-list-1.html">Menus</a>
-                        <ul>
-                            <li><a href="menu-list-1.html">Menu List 1</a></li>
-                            <li><a href="menu-list-2.html">Menu List 2</a></li>
-                            <li><a href="menu-list-3.html">Menu List 3</a></li>
-                            <li><a href="menu-list-4.html">Menu List 4</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="our-chef.html">Our chefs</a></li>
-                    <li class="dropdown"><a href="#">Pages</a>
-                        <ul>
-                            <li><a href="gallery-masonry.html">Photo Gallery</a></li>
-                            <li><a href="book-table.html">Reservation 1</a></li>
-                            <li><a href="book-table-option2.html">Reservation 2</a></li>
-                            <li><a href="testimonial.html">Testimonial</a></li>
-                            <li><a href="blog-list.html">Blog List</a></li>
-                            <li><a href="blog-single-post.html">Blog Single Post</a></li>
-                            <li><a href="#">Dropdown Menu 1</a></li>
-                            <li><a href="#">Dropdown Lorem 2</a></li>
-                            <li class="dropdown"><a href="#">Dropdown Menu 3</a>
-                                <ul>
-                                    <li><a href="#">Dropdown Menu level 2</a></li>
-                                    <li><a href="#">Dropdown Menu level 2</a></li>
-                                    <li><a href="#">Dropdown Menu Level 2</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li><a href="contact-us.html">Contact</a></li>
-                </ul>
-            </div><!-- /.Side-menu -->
-        
-        </div><!-- / Hidden Bar Wrapper -->
-    </section>
-    <!-- / Hidden Bar -->
-
-    <!--Info Back Drop-->
-    <div class="info-back-drop"></div>
     
-    <!-- Hidden Bar -->
-    <section class="info-bar">
-        <div class="inner-box">
-            <div class="cross-icon"><span class="far fa-close"></span></div>
-            <div class="image-box"><img src="images/resource/sidebar-image.jpg" alt="image" title=""></div>
-            <div class="logo-box"><a href="index.html" title="Restoria - Restaurants HTML Template"><img src="images/resource/sidebar-logo.png" alt="image" title="Restoria - Restaurants HTML Template"></a></div>
-
-            <h5>Visit Us</h5>
-            <ul class="info">
-                <li>Restoria, Arrondissement, <br> Paris 9578</li>
-                <li> <span class="ib-ttl"> Lunch Time </span>- 10.00 am – 3:30 pm </li>
-                <li><span class="ib-ttl"> Dinner Time</span> - 08.00 pm – 10:30 pm</li>
-                <li><a href="mailto:booking@domainame.com">booking@domainame.com</a></li>
-            </ul>
-            <div class="booking-info">
-                <div class="bk-no"><a href="tel:+88-123-123456">Booking: +88-123-123456</a></div>
-            </div>
-        </div>
-    </section>
-    <!--End Hidden Bar -->
-
     <!-- Banner Section -->
     <section class="banner-section">
 
@@ -136,7 +54,7 @@
         <div class="swiper banner-slider">
             <div class="swiper-wrapper">
                 <div class="swiper-slide slide-item">
-                    <div class="image-layer" style="background: linear-gradient(to bottom, rgba(0,0,0,0.7), transparent), url(images/main-slider/slider-4.png); background-position: center center; background-size: cover; transition: all 1s ease;"></div>
+                    <div class="image-layer" style="background: linear-gradient(to bottom, rgba(0,0,0,0.7), transparent), url(images/main-slider/hero-img.png); background-position: center center; background-size: cover; transition: all 1s ease;"></div>
                     <div class="auto-container">
                       <div class="content-box">
                               <div class="content">
@@ -147,7 +65,7 @@
                                                  <div class="text">A taste of perfection in every dish - fine dining with a modern twist.</div>
                                                  <div class="links-box clearfix">
                                                      <div class="link">
-                                                         <a href="menu.php" class="theme-btn btn-style-two">
+                                                         <a href="menu.php" class="theme-btn btn-style-one">
                                                              <span class="btn-wrap">
                                                                  <span class="text-one">Explore Menu</span>
                                                                  <span class="text-two">Explore Menu</span>
@@ -250,113 +168,97 @@
 
 
  
+
+
     <!--Fluid Section-->
-    <section class="fluid-section alternate special-dish-slider">
+    <section class="fluid-section story-section chef-bio">
         <div class="outer-container">
             <div class="row clearfix">
-                <!--Col-->
-                <div class="image-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        <div class="image-layer" style="background-image: url(images/background/image-6.jpg);"></div>
-                        <div class="image"><img src="images/background/image-6.jpg" alt="image"></div>
-                    </div>
-                </div>
 
                 <!--Col-->
                 <div class="content-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
+
                     <div class="inner clearfix wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        
-                        <!-- standard title -->
-                        <div class="title-box centered onlyfor-sm">
-                            <div class="subtitle"><span>Popular</span></div>
-                            <h2>Special Dishes</h2>
+                        <div class="content-box">
+                            <div class="title-box ">
+                                <div class="subtitle"><span>About Us </span></div>
+                                <h2>Exquisite Flavors, <span class="theme_color">Elegant Ambiance</span></h2>
+                           <div class="text text-start">At The Diwaan, we are committed to providing an exceptional dining experience that blends traditional Indian flavors with contemporary elegance. Our menu features authentic dishes crafted from the finest ingredients, ensuring every meal is a celebration of taste and culture.</div>
+
+                            <div class="feature-info">
+
+                            <div class="feature-info-box">
+                                <div class="feature-title">
+                                    <img src="images/resource/hygienic.png" alt="image">
+                                    <h6>Hygienic <br> Food </h6>
+                                </div>
+                                <div class="infotext text-start">We adhere to strict hygiene standards to ensure your food is prepared in a clean and safe environment.</div>
+                            </div>
+
+                            <div class="feature-info-box">
+                                <div class="feature-title">
+                                    <img src="images/resource/ambiance.png" alt="image">
+                                    <h6>fresh <br> Ambience </h6>
+                                </div>
+                                <div class="infotext text-start">Our restaurant offers a fresh and inviting ambiance perfect for any occasion.</div>
+                            </div>
+
                         </div>
-
-                        <!-- vertical title -->
-                        <div class="title-wrapper">
-                            <div class="title-box special-title">
-                                <h2>Special Dishes </h2>
-                            </div>
-                        </div>
-                        <!--Special Offer Slider Section-->
-                    <div class="special-offer">
-                        <div class="dish-gallery-slider owl-theme owl-carousel">
-                            <!--Slide Item-->
-                            <div class="offer-block-two">
-                                <div class="inner-box">
-                                    <div class="image"><a href="#"><img src="images/resource/special1.jpg" alt="image"></a></div>
-                                    <div class="cat-name">main dish</div>
-                                    <h5><a href="menu-list-1.html">Greek Salad</a></h5>
-                                    <div class="text desc">flavorful, filled with panko bread crumbs, pine nuts, parsley, sun-dried tomatoes.</div>
-                                    <div class="price">$39.00</div>
-                                </div>
-                            </div>
-
-                            <!--Slide Item-->
-                            <div class="offer-block-two margin-top">
-                                <div class="inner-box">
-                                    <div class="image"><a href="#"><img src="images/resource/special2.jpg" alt="image"></a></div>
-                                    <div class="cat-name">desserts</div>
-                                    <h5><a href="menu-list-2.html">Tokusen Wagyu</a></h5>
-                                    <div class="text desc">Tomatoes, green bell pepper, sliced cucumber onion, olives, avocados with crab meat.</div>
-                                    <div class="price">$45.00</div>
-                                </div>
-                            </div>
-
-                            <!--Slide Item-->
-                            <div class="offer-block-two">
-                                <div class="inner-box">
-                                    <div class="image"><a href="#"><img src="images/resource/special3.jpg" alt="image"></a></div>
-                                    <div class="cat-name">Appetizer</div>
-                                    <h5><a href="menu-list-3.html">Butternut Pumpkin</a></h5>
-                                    <div class="text desc">Avocados with crab meat, red onion, crab salad stuffed bell pepper, Vegetables.</div>
-                                    <div class="price">$15.00</div>
-                                </div>
-                            </div>
-
-                            <!--Slide Item-->
-                            <div class="offer-block-two margin-top">
-                                <div class="inner-box">
-                                    <div class="image"><a href="#"><img src="images/resource/special4.jpg" alt="image"></a></div>
-                                    <div class="cat-name">main dish</div>
-                                    <h5><a href="menu-list-4.html">Opu Fish</a></h5>
-                                    <div class="text desc">Vegetables, cheeses, ground meats, tomato sauce, Small bites, big flavors.</div>
-                                    <div class="price">$12.00</div>
-                                </div>
-                            </div>
-                        </div>
-                        
                     </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Col-->
+                <div class="image-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                    <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms">
+                        <div class="image-layer" style="background-image: url(images/home/about-1.png);"></div>
+                        <div class="image"><img src="images/home/about-1.png" alt="Chef Noor at The Diwaan"></div>
                     </div>
                 </div>
 
             </div>
         </div>
     </section>
-
     <!--Fluid Section-->
-    <section class="fluid-section chef-bio">
+    <section class="fluid-section story-section chef-bio">
         <div class="outer-container">
             <div class="row clearfix">
                 <!--Col-->
                 <div class="image-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        <div class="image-layer" style="background-image: url(images/background/image-5.jpg);"></div>
-                        <div class="image"><img src="images/background/image-5.jpg" alt="image"></div>
+                        <div class="image-layer" style="background-image: url(images/home/about-2.png);"></div>
+                        <div class="image"><img src="images/home/about-2.png" alt="Chef Noor at The Diwaan"></div>
                     </div>
                 </div>
                 <!--Col-->
                 <div class="content-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
-
-                    <div class="inner clearfix wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms">
+                    <div class="inner wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms">
                         <div class="content-box">
-                            <div class="chef-thumb"><img src="images/resource/chef-thumb.jpg" alt="image"></div>
-                            
-                            <div class="title-box centered">
-                                <div class="subtitle"><span>our chef</span></div>
-                                <h2>Chef  Lorenzo</h2>
-                                <div class="text">A fine dine master chef crafts exquisite cuisine with precision, passion, creativity, and elegance, delivering unforgettable culinary experiences and refined flavors.</div>
+                            <div class="title-box text-start">
+                                <div class="subtitle"><span>About The Chef</span></div>
+                                <h2>Exquisite Craft, <span class="theme_color">Passionate Culinary Artistry</span></h2>
+                                <div class="text text-start">
+                                    At The Diwaan, Chef Noor brings an extraordinary blend of authenticity and creativity to our kitchen. With each dish, he combines handpicked spices, farm-fresh ingredients, and generations-old recipes to deliver an experience that is both traditional and innovative.
+                                </div>
                             </div>
+
+                            <div class="feature-info">
+                                <div class="feature-info-box">
+                                    <div class="feature-title">
+                                        <img src="images/resource/hygienic.png" alt="image">
+                                        <h6>Carefully <br> Curated </h6>
+                                    </div>
+                                    <div class="infotext text-start">Each dish is made with meticulously sourced ingredients for exceptional taste and quality.</div>
+                                </div>
+                                <div class="feature-info-box">
+                                    <div class="feature-title">
+                                        <img src="images/resource/ambiance.png" alt="image">
+                                        <h6>Inspired <br> Creations </h6>
+                                    </div>
+                                    <div class="infotext text-start">Chef Noor's menus reflect the vibrant traditions of India blended with modern flair.</div>
+                                </div>
+                            </div>
+
                             <div class="link-box">
                                 <a href="our-chef.html" class="theme-btn btn-style-two clearfix">
                                     <span class="btn-wrap">
@@ -399,33 +301,33 @@
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-1.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Stuffed Mushrooms</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>$25.50</span></div></div>
-                                            <div class="text desc"><a href="#">flavorful, filled with panko bread crumbs, pine nuts, parsley, sun-dried tomatoes, and cheese.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish1.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Paneer Butter Masala</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹330</span></div></div>
+                                            <div class="text desc"><a href="#">Delicious paneer in rich butter masala sauce.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-2.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Jalapeno Poppers <span class="s-info">New</span></a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>$40.00</span></div></div>
-                                            <div class="text desc"><a href="#">Greek yogurt filling instead of a traditional cream cheese one.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish2.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Khoya Paneer</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹350</span></div></div>
+                                            <div class="text desc"><a href="#">Creamy khoya paneer delicacy.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-3.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Caprese Skewers</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>$10.00</span></div></div>
-                                            <div class="text desc"><a href="#">Drizzle these colorful skewers with an easy balsamic for a pop of sweet flavor.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish3.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Paneer Do Pyaza</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹320</span></div></div>
+                                            <div class="text desc"><a href="#">Paneer with double onions.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-4.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Greek Salad</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>$10.00</span></div></div>
-                                            <div class="text desc"><a href="#">Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish4.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Paneer Pasanda</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹360</span></div></div>
+                                            <div class="text desc"><a href="#">Stuffed paneer in rich gravy.</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -445,33 +347,33 @@
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-5.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Greek Salad</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>$25.50</span></div></div>
-                                            <div class="text desc"><a href="#">Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish1.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Fry</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹180</span></div></div>
+                                            <div class="text desc"><a href="#">Fried lentils.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-6.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Lasagne <span class="s-info">SEASONAL</span></a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>$40.00</span></div></div>
-                                            <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish2.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Tadka</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹220</span></div></div>
+                                            <div class="text desc"><a href="#">Lentils with tadka.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-7.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Butternut Pumpkin</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>$10.00</span></div></div>
-                                            <div class="text desc"><a href="#">Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish3.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Handi</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹250</span></div></div>
+                                            <div class="text desc"><a href="#">Lentils in handi.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-8.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Butternut Pumpkin</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>$10.00</span></div></div>
-                                            <div class="text desc"><a href="#">Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish4.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Bukhara</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹340</span></div></div>
+                                            <div class="text desc"><a href="#">Bukhara style lentils.</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -491,33 +393,33 @@
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-9.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Chocolate mousse</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>$25.50</span></div></div>
-                                            <div class="text desc"><a href="#">Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish1.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Gulab Jamun 1 Pc.</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹45</span></div></div>
+                                            <div class="text desc"><a href="#">Sweet gulab jamun.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-10.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Pavlova <span class="s-info">new</span></a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>$40.00</span></div></div>
-                                            <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish2.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Rabdi</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹110</span></div></div>
+                                            <div class="text desc"><a href="#">Sweet rabdi.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-11.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Apple crumble</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>$10.00</span></div></div>
-                                            <div class="text desc"><a href="#">Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish3.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Kesar Kheer</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹110</span></div></div>
+                                            <div class="text desc"><a href="#">Saffron kheer.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/menu-image-12.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Crème BrUlEe</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>$10.00</span></div></div>
-                                            <div class="text desc"><a href="#">Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish4.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Vanilla Ice Cream</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹100</span></div></div>
+                                            <div class="text desc"><a href="#">Vanilla ice cream.</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -537,34 +439,42 @@
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/drink-1.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Black Wine</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>$25.50</span></div></div>
-                                            <div class="text desc"><a href="#">Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish1.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Virgin Mojito</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹140</span></div></div>
+                                            <div class="text desc"><a href="#">Non-alcoholic mojito.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/drink-2.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">La Marca <span class="s-info">SEASONAL</span></a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>$40.00</span></div></div>
-                                            <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish2.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Mint Mojito</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹160</span></div></div>
+                                            <div class="text desc"><a href="#">Mint flavored mojito.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/drink-3.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Crawford Sauvignon</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>$10.00</span></div></div>
-                                            <div class="text desc"><a href="#">Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish3.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Blue Curacao</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹180</span></div></div>
+                                            <div class="text desc"><a href="#">Blue curacao drink.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
-                                            <div class="dish-image"><a href="#"><img src="images/resource/drink-4.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Vineyard Cabernet</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>$10.00</span></div></div>
-                                            <div class="text desc"><a href="#">Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.</a></div>
+                                            <div class="dish-image"><a href="#"><img src="images/resource/dish4.png" alt="image"></a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Pina Colada Sysal</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹200</span></div></div>
+                                            <div class="text desc"><a href="#">Pina colada drink.</a></div>
                                         </div>
+                                    </div>
+                                    <div class="view-more-box">
+                                        <a href="menu.php" class="theme-btn btn-style-two">
+                                            <span class="btn-wrap">
+                                                <span class="text-one">View More</span>
+                                                <span class="text-two">View More</span>
+                                            </span>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -581,7 +491,7 @@
             <div class="open-timing">
                 <div class="hours">During winter daily from <span class="theme_color">7:00 pm</span> to <span class="theme_color">9:00 pm</span></div>
                 <div class="link-box">
-                    <a href="menu-list-1.html" class="theme-btn btn-style-two clearfix">
+                    <a href="menu.php" class="theme-btn btn-style-two clearfix">
                         <span class="btn-wrap">
                             <span class="text-one">view all menu</span>
                             <span class="text-two">view all menu</span>
@@ -603,7 +513,10 @@
                 <!--Block-->
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        <div class="image-box"><img src="images/resource/why1.jpg" alt=""></div>
+                        <div class="image-box">
+                            <img src="images/resource/why1.jpg" alt="Skilled Chef">
+                            <div class="image-frame"></div>
+                        </div>
                         <div class="over-box">
                             <h6>skilled chef</h6>
                         </div>
@@ -613,7 +526,10 @@
                 <!--Block-->
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
-                        <div class="image-box"><img src="images/resource/why2.jpg" alt=""></div>
+                        <div class="image-box">
+                            <img src="images/resource/why2.jpg" alt="Hygienic Food">
+                            <div class="image-frame"></div>
+                        </div>
                         <div class="over-box">
                             <h6>hygienic food</h6>
                         </div>
@@ -623,7 +539,10 @@
                 <!--Block-->
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
-                        <div class="image-box"><img src="images/resource/why3.jpg" alt=""></div>
+                        <div class="image-box">
+                            <img src="images/resource/why3.jpg" alt="Fresh Ambience">
+                            <div class="image-frame"></div>
+                        </div>
                         <div class="over-box">
                             <h6>Fresh ambience</h6>
                         </div>
@@ -633,9 +552,12 @@
                 <!--Block-->
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="900ms">
-                        <div class="image-box"><img src="images/resource/why4.jpg" alt=""></div>
+                        <div class="image-box">
+                            <img src="images/resource/why4.jpg" alt="Secret Recipe">
+                            <div class="image-frame"></div>
+                        </div>
                         <div class="over-box">
-                            <h6>secreat recipe</h6>
+                            <h6>secret recipe</h6>
                         </div>
                     </div>
                 </div>
@@ -777,7 +699,7 @@
                                 <div class="request-info">Booking request <a href="#">+88-123-123456</a> or fill out the order form</div>
                             </div>
                             <div class="default-form reservation-form">
-                                <form method="post" action="https://kalanidhithemes.com/live-preview/landing-page/restoria/all-demo/Restoria-2-Standard-Hero/index.html">
+                                <form method="post" action="https://kalanidhithemes.com/live-preview/landing-page/Diwaan/all-demo/Diwaan-2-Standard-Hero/index.html">
                                     <div class="row clearfix">
                                         <div class="form-group col-lg-6 col-md-6 col-sm-12">
                                             <div class="field-inner">
@@ -934,48 +856,46 @@
         </div>
     </section>
 
-    <!--Instagram post-->
-    <section class="ig-post-section section-kt">
-        <div class="auto-container">
-            <div class="title-box centered">
-                <div class="subtitle"><span>follow us</span></div>
-                <h2>Instagram</h2>
-            </div>
-            <div class="row justify-content-center clearfix">
-                <!--Block-->
-                <div class="ig-post-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                    <div class="ig-post-image wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        <a href="#"><img src="images/resource/insta1.jpg" alt="image"></a>
-                    </div>
-                </div>
-                <!--Block-->
-                <div class="ig-post-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                    <div class="ig-post-image wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        <a href="#"><img src="images/resource/insta2.jpg" alt="image"></a>
-                    </div>
-                </div>
-                <!--Block-->
-                <div class="ig-post-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                    <div class="ig-post-image wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        <a href="#"><img src="images/resource/insta3.jpg" alt="image"></a>
-                    </div>
-                </div>
-                <!--Block-->
-                <div class="ig-post-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                    <div class="ig-post-image wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        <a href="#"><img src="images/resource/insta4.jpg" alt="image"></a>
-                    </div>
+       <!--Gallery Section-->
+    <section class="image-gallery section-kt">
+        <div class="carousel-box">
+            <div class="auto-container">
+                <div class="title-box centered">
+                    <div class="subtitle"><span>Gallery</span></div>
+                    <h2>Diwaan Gallery</h2>
                 </div>
 
+                <div class="image-gallery-slider owl-theme owl-carousel">
+                    <!--Slide Item-->
+                    <div class="gallery-block">
+                        <div class="image"><a href="images/gallery/gallery-1-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-1-sm.jpg" alt="image"></a></div>
+                    </div>
+
+                    <!--Slide Item-->
+                    <div class="gallery-block">
+                        <div class="image"><a href="images/gallery/gallery-2-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-2-sm.jpg" alt="image"></a></div>
+                    </div>
+
+                    <!--Slide Item-->
+                    <div class="gallery-block">
+                        <div class="image"><a href="images/gallery/gallery-3-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-3-sm.jpg" alt="image"></a></div>
+                    </div>
+
+                    <!--Slide Item-->
+                    <div class="gallery-block">
+                        <div class="image"><a href="images/gallery/gallery-4-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-4-sm.jpg" alt="image"></a></div>
+                    </div>
+
+                    
+
+                </div>
             </div>
-            
-            
-            
         </div>
     </section>
 
+
     <!--Main Footer-->
-   <?php include 'components/footer.php'?>
+   <?php include 'components/footer.php' ?>
 
 </div>
 <!--End pagewrapper--> 
@@ -984,7 +904,7 @@
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
 
 
-<?php include'components/script.php'?>
+<?php include 'components/script.php' ?>
 
 </body>
 
