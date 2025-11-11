@@ -113,51 +113,69 @@
                <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
+               <img src="images/menu/paneer-do-pyaza.png" alt="image">
             </div>
             <div class="rolling-image">
                <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
+               <img src="images/menu/paneer-pasanda.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/paneer-tikka.png" alt="image">
+            </div>
+            <!-- First set of images -->
+            <div class="rolling-image">
                <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
+               <img src="images/menu/paneer-do-pyaza.png" alt="image">
+            </div>
+            <div class="rolling-image">
                <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/paneer-pasanda.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/paneer-tikka.png" alt="image">
+            </div>
+            <!-- First set of images -->
+            <div class="rolling-image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/paneer-do-pyaza.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/paneer-pasanda.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/paneer-tikka.png" alt="image">
+            </div>
+
+            <!-- First set of images -->
+            <div class="rolling-image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/paneer-do-pyaza.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/paneer-do-pyaza.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/paneer-pasanda.png" alt="image">
+            </div>
+            <div class="rolling-image">
+               <img src="images/menu/paneer-tikka.png" alt="image">
             </div>
            
 
-            <!-- Duplicate set for seamless looping -->
-            <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
-            </div>
-            <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
-            </div>
-            <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
-            </div>
-            <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
-            </div>
-            <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
-            </div>
-            <!-- Duplicate set for seamless looping -->
-            <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
-            </div>
-            <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
-            </div>
-            <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
-            </div>
-            <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
-            </div>
-            <div class="rolling-image">
-               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
-            </div>
+            
             
           </div>
         </div>

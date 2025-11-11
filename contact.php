@@ -10,6 +10,35 @@
 
 </head>
 
+<?php
+include 'components/mail.php';
+
+$message = '';
+$showModal = false;
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $formData = [
+        'name' => $_POST['name'],
+        'email' => $_POST['email'],
+        'phone' => $_POST['phone'],
+        'message' => $_POST['message']
+    ];
+
+    // Send admin notification
+    $adminSent = sendAdminNotification($formData, 'Contact Form');
+
+    // Send user confirmation
+    $userSent = sendUserConfirmation($formData['email'], $formData['name'], 'message');
+
+    if ($adminSent && $userSent) {
+        $message = 'Thank you for your message! We have sent a confirmation email.';
+        $showModal = true;
+    } else {
+        $message = 'There was an error sending your message. Please try again.';
+    }
+}
+?>
+
 <body>
   <div class="page-wrapper"> 
   
@@ -129,13 +158,41 @@
    <?php include 'components/footer.php'?>
 
 </div>
-<!--End pagewrapper--> 
+<!--End pagewrapper-->
+
+<!-- Thank You Modal -->
+<div class="modal fade" id="thankYouModal" tabindex="-1" role="dialog" aria-labelledby="thankYouModalLabel" aria-hidden="true">
+   <div class="modal-dialog modal-dialog-centered" role="document">
+       <div class="modal-content">
+           <div class="modal-header">
+               <h5 class="modal-title" id="thankYouModalLabel">Thank You!</h5>
+               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                   <span aria-hidden="true">&times;</span>
+               </button>
+           </div>
+           <div class="modal-body">
+               <p><?php echo $message; ?></p>
+           </div>
+           <div class="modal-footer">
+               <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+           </div>
+       </div>
+   </div>
+</div>
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
 
 
 <?php include'components/script.php'?>
+
+<script>
+<?php if ($showModal): ?>
+$(document).ready(function() {
+   $('#thankYouModal').modal('show');
+});
+<?php endif; ?>
+</script>
 
 </body>
 

@@ -26,7 +26,7 @@
     <!-- Banner Section -->
     <!-- Inner Banner Section -->
     <section class="inner-banner">
-        <div class="image-layer" style="background-image: url(images/background/banner-image-1.jpg);"></div>
+        <div class="image-layer" style="background-image: url(images/background/banner-about.png);"></div>
         <div class="auto-container">
             <div class="inner">
                 <h1>About Us</h1>

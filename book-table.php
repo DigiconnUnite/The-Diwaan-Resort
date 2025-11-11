@@ -10,6 +10,38 @@
 
 </head>
 
+<?php
+include 'components/mail.php';
+
+$message = '';
+$showModal = false;
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $formData = [
+        'name' => $_POST['name'],
+        'email' => $_POST['email'],
+        'phone' => $_POST['phone'],
+        'persons' => $_POST['persons'],
+        'date' => $_POST['date'],
+        'time' => $_POST['time'],
+        'message' => $_POST['message']
+    ];
+
+    // Send admin notification
+    $adminSent = sendAdminNotification($formData, 'Table Reservation');
+
+    // Send user confirmation
+    $userSent = sendUserConfirmation($formData['email'], $formData['name'], 'table reservation');
+
+    if ($adminSent && $userSent) {
+        $message = 'Thank you for your reservation! We have sent a confirmation email.';
+        $showModal = true;
+    } else {
+        $message = 'There was an error processing your reservation. Please try again.';
+    }
+}
+?>
+
 <body>
   <div class="page-wrapper"> 
   
@@ -37,22 +69,27 @@
                                 <div class="request-info">For reservations call <a href="#">+91-987-6543210</a> or complete the form below</div>
                             </div>
                             <div class="default-form reservation-form">
-                                <form method="post" action="">
+                                <form method="post" action="book-table.php">
                                     <div class="row clearfix">
                                         <div class="form-group col-lg-6 col-md-6 col-sm-12">
                                             <div class="field-inner">
-                                                <input type="text" name="fieldname" value="" placeholder="Your Name" required>
+                                                <input type="text" name="name" value="" placeholder="Your Name" required>
                                             </div>
                                         </div>
                                         <div class="form-group col-lg-6 col-md-6 col-sm-12">
                                             <div class="field-inner">
-                                                <input type="text" name="fieldname" value="" placeholder="Phone Number" required>
+                                                <input type="email" name="email" value="" placeholder="Your Email" required>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                                            <div class="field-inner">
+                                                <input type="tel" name="phone" value="" placeholder="Phone Number" required>
                                             </div>
                                         </div>
                                         <div class="form-group col-lg-4 col-md-6 col-sm-12">
                                             <div class="field-inner">
                                                 <span class="alt-icon far fa-user"></span>
-                                                <select class="l-icon">
+                                                <select name="persons" class="l-icon">
                                                     <option>1 Person</option>
                                                     <option>2 Person</option>
                                                     <option>3 Person</option>
@@ -67,14 +104,14 @@
                                         <div class="form-group col-lg-4 col-md-6 col-sm-12">
                                             <div class="field-inner">
                                                 <span class="alt-icon far fa-calendar"></span>
-                                                <input class="l-icon datepicker" type="text" name="fieldname" value="" placeholder="DD-MM-YYYY" required readonly>
+                                                <input class="l-icon datepicker" type="text" name="date" value="" placeholder="DD-MM-YYYY" required readonly>
                                                 <span class="arrow-icon far fa-angle-down"></span>
                                             </div>
                                         </div>
                                         <div class="form-group col-lg-4 col-md-12 col-sm-12">
                                             <div class="field-inner">
                                                 <span class="alt-icon far fa-clock"></span>
-                                                <select class="l-icon">
+                                                <select name="time" class="l-icon">
                                                     <option>12 : 00 pm</option>
                                                     <option>01 : 00 pm</option>
                                                     <option>02 : 00 pm</option>
@@ -93,7 +130,7 @@
                                         </div>
                                         <div class="form-group col-lg-12 col-md-12 col-sm-12">
                                             <div class="field-inner">
-                                                <textarea name="fieldname" placeholder="Special Requests or Dietary Preferences" required></textarea>
+                                                <textarea name="message" placeholder="Special Requests or Dietary Preferences" required></textarea>
                                             </div>
                                         </div>
                                         <div class="form-group col-lg-12 col-md-12 col-sm-12">
@@ -122,13 +159,41 @@
    <?php include 'components/footer.php'?>
 
 </div>
-<!--End pagewrapper--> 
+<!--End pagewrapper-->
+
+<!-- Thank You Modal -->
+<div class="modal fade" id="thankYouModal" tabindex="-1" role="dialog" aria-labelledby="thankYouModalLabel" aria-hidden="true">
+   <div class="modal-dialog modal-dialog-centered" role="document">
+       <div class="modal-content">
+           <div class="modal-header">
+               <h5 class="modal-title" id="thankYouModalLabel">Thank You!</h5>
+               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                   <span aria-hidden="true">&times;</span>
+               </button>
+           </div>
+           <div class="modal-body">
+               <p><?php echo $message; ?></p>
+           </div>
+           <div class="modal-footer">
+               <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+           </div>
+       </div>
+   </div>
+</div>
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
 
 
 <?php include'components/script.php'?>
+
+<script>
+<?php if ($showModal): ?>
+$(document).ready(function() {
+   $('#thankYouModal').modal('show');
+});
+<?php endif; ?>
+</script>
 
 </body>
 
