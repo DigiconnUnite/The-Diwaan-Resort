@@ -137,27 +137,30 @@
   //Mobile Navigation Toggle
   function mobileNavToggle() {
     if ($(".main-header .nav-toggler").length) {
-      $(".main-header .nav-toggler .hidden-bar-opener").on("click", function (e) {
-        e.preventDefault();
-        var navigation = $(".main-header .nav-box-left .navigation");
-        navigation.toggleClass("mobile-menu-open");
+      $(".main-header .nav-toggler .hidden-bar-opener").on(
+        "click",
+        function (e) {
+          e.preventDefault();
+          var navigation = $(".main-header .nav-box-left .navigation");
+          navigation.toggleClass("mobile-menu-open");
 
-        // Close menu when clicking outside
-        $(document).on("click.mobileNav", function (e) {
-          if (!$(e.target).closest(".main-header").length) {
-            navigation.removeClass("mobile-menu-open");
-            $(document).off("click.mobileNav");
-          }
-        });
+          // Close menu when clicking outside
+          $(document).on("click.mobileNav", function (e) {
+            if (!$(e.target).closest(".main-header").length) {
+              navigation.removeClass("mobile-menu-open");
+              $(document).off("click.mobileNav");
+            }
+          });
 
-        // Close menu on escape key
-        $(document).on("keydown.mobileNav", function (e) {
-          if (e.keyCode === 27) {
-            navigation.removeClass("mobile-menu-open");
-            $(document).off("keydown.mobileNav click.mobileNav");
-          }
-        });
-      });
+          // Close menu on escape key
+          $(document).on("keydown.mobileNav", function (e) {
+            if (e.keyCode === 27) {
+              navigation.removeClass("mobile-menu-open");
+              $(document).off("keydown.mobileNav click.mobileNav");
+            }
+          });
+        }
+      );
     }
   }
 
@@ -540,28 +543,28 @@
     }
 
     // Add active class to current page navigation links
-    var currentPath = window.location.pathname.split('/').pop();
-    if (currentPath === '' || currentPath === 'index.php') {
-      currentPath = 'index.php';
+    var currentPath = window.location.pathname.split("/").pop();
+    if (currentPath === "" || currentPath === "index.php") {
+      currentPath = "index.php";
     }
 
     // Add active class to main navigation
-    $('.main-menu .navigation li a').each(function() {
-      var href = $(this).attr('href');
+    $(".main-menu .navigation li a").each(function () {
+      var href = $(this).attr("href");
       if (href === currentPath) {
-        $(this).parent('li').addClass('current');
+        $(this).parent("li").addClass("current");
       } else {
-        $(this).parent('li').removeClass('current');
+        $(this).parent("li").removeClass("current");
       }
     });
 
     // Add active class to mobile sidebar navigation
-    $('.hidden-bar .side-menu .navigation li a').each(function() {
-      var href = $(this).attr('href');
+    $(".hidden-bar .side-menu .navigation li a").each(function () {
+      var href = $(this).attr("href");
       if (href === currentPath) {
-        $(this).parent('li').addClass('current');
+        $(this).parent("li").addClass("current");
       } else {
-        $(this).parent('li').removeClass('current');
+        $(this).parent("li").removeClass("current");
       }
     });
   });

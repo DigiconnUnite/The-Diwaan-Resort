@@ -1,49 +1,51 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 
 <head>
-<meta charset="utf-8">
-<title>Diwaan - Restaurants HTML Template - Home 01</title>
-<!-- Stylesheets -->
-   <?php include 'components/links.php' ?>
+    <meta charset="utf-8">
+    <title>Diwaan - Restaurants HTML Template - Home 01</title>
+    <!-- Stylesheets -->
+    <?php include 'components/links.php' ?>
 
 </head>
 
 <body>
-  <div class="page-wrapper"> 
-  
-    <!-- Preloader -->
-    <?php include 'components/preloader.php' ?>
-    <!-- Preloader End -->
-    
-    <!-- Main Header-->
-    <?php include 'components/header.php' ?>
-    
-    <!--End Main Header -->
+    <div class="page-wrapper">
 
-    <!-- Inner Banner Section -->
-    <section class="inner-banner">
-        <div class="image-layer" style="background-image: url(images/background/banner-image-2.jpg);"></div>
-        <div class="auto-container">
-            <div class="inner">
-                <h1>Menu Style 2</h1>
-                <div class="sub_text"> <p> A taste of perfection in every dish - <span class="primary-color"> fine dining with a modern twist.</span></p> </div>
-            </div>
-        </div>
-    </section>
-    <!--End Banner Section -->
+        <!-- Preloader -->
+        <?php include 'components/preloader.php' ?>
+        <!-- Preloader End -->
 
-    <!-- Paneer -->
-    <section class="special-offer-two section-kt">
-        <div class="auto-container">
-            <div class="title-box centered">
-                <div class="subtitle"><span>paneer</span></div>
-                <h2>Paneer</h2>
+        <!-- Main Header-->
+        <?php include 'components/header.php' ?>
+
+        <!--End Main Header -->
+
+        <!-- Inner Banner Section -->
+        <section class="inner-banner">
+            <div class="image-layer" style="background-image: url(images/background/banner-image-2.jpg);"></div>
+            <div class="auto-container">
+                <div class="inner">
+                    <h1>Menu Style 2</h1>
+                    <div class="sub_text">
+                        <p> A taste of perfection in every dish - <span class="primary-color"> fine dining with a modern
+                                twist.</span></p>
+                    </div>
+                </div>
             </div>
-            <div class="row clearfix">
-                <div class="offer-block-three col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12">
+        </section>
+        <!--End Banner Section -->
+
+        <!-- Paneer -->
+        <section class="special-offer-two section-kt">
+            <div class="auto-container">
+                <div class="title-box centered">
+                    <div class="subtitle"><span>paneer</span></div>
+                    <h2>Paneer</h2>
+                </div>
+                <div class="row clearfix">
+                    <div class="offer-block-three col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
                         <div class="image"><a href="#"><img src="images/menu/Paneer-Butter-Mashala.png" alt="image"></a></div>
                         <h5><a href="#">Paneer Butter Masala</a></h5>
@@ -2157,7 +2159,7 @@
 
     
     <!--Main Footer-->
-   <?php include 'components/footer.php'?>
+   <?php include 'components/footer.php' ?>
 
 </div>
 <!--End pagewrapper--> 
@@ -2166,7 +2168,7 @@
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
 
 
-<?php include'components/script.php'?>
+<?php include 'components/script.php' ?>
 
 </body>
 

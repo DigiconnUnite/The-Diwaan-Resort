@@ -78,13 +78,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <div class="loc-block info-block col-lg-5 col-md-12 col-sm-12">
                     <div class="visit-us-card">
                         <div class="contact-image">
-                            <img src="images/resource/form-img-1.jpg" alt="The Diwaan Restaurant">
+                            <img src="images/contact/contact-1.JPG" alt="The Diwaan Restaurant">
                         </div>
                         <div class="card-content">
                             <h5> visit us </h5>
                             <div class="text">
                                 The Diwaan Restaurant, Fatehabad Rd, Agra, Uttar Pradesh 282006 <br> <br>
-                                <span class="c-info-ttl"> Lunch Time </span> - 12.00 pm – 3:30 pm <br>  <span class="c-info-ttl">Dinner Time </span> - 06.30 pm – 11:30 pm <br>  <br>
+
                                 <span class="more-link"> Reservations : <a href="tel:+91-987-6543210">+91-987-6543210</a> </span> <br>
                                 <span class="more-link"> Email: <a href="mailto:reservations@diwaanagra.com">reservations@diwaanagra.com</a></span>
                             </div>

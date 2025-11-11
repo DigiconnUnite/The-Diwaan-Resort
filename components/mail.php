@@ -4,7 +4,8 @@ use PHPMailer\PHPMailer\Exception;
 
 require 'vendor/autoload.php';
 
-function sendEmail($to, $subject, $body, $fromEmail = 'noreply@diwaanagra.com', $fromName = 'The Diwaan Restaurant') {
+function sendEmail($to, $subject, $body, $fromEmail = 'noreply@diwaanagra.com', $fromName = 'The Diwaan Restaurant')
+{
     $mail = new PHPMailer(true);
 
     try {
@@ -33,7 +34,8 @@ function sendEmail($to, $subject, $body, $fromEmail = 'noreply@diwaanagra.com', 
     }
 }
 
-function sendAdminNotification($formData, $formType) {
+function sendAdminNotification($formData, $formType)
+{
     $adminEmail = 'admin@diwaanagra.com'; // Replace with actual admin email
     $subject = "New $formType Submission - The Diwaan Restaurant";
 
@@ -45,7 +47,8 @@ function sendAdminNotification($formData, $formType) {
     return sendEmail($adminEmail, $subject, $body);
 }
 
-function sendUserConfirmation($userEmail, $userName, $formType) {
+function sendUserConfirmation($userEmail, $userName, $formType)
+{
     $subject = "Thank you for your $formType - The Diwaan Restaurant";
 
     $body = "
