@@ -26,7 +26,7 @@
 
     <!-- Inner Banner Section -->
     <section class="inner-banner">
-        <div class="image-layer" style="background-image: url(images/background/banner-image-4.jpg);"></div>
+        <div class="image-layer" style="background-image: url(images/background/banner-gallery.JPG);"></div>
         <div class="auto-container">
             <div class="inner">
                 <h1>Gallery - Masonry </h1>
@@ -84,7 +84,109 @@
                       <img src="images/gallery/IMG_0825.JPG" alt="Gallery Image">
                     </a>
                   </div>
-                  
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/celebration-2.png" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/celebration-2.png" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/diff-card-1.png" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/diff-card-1.png" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/diff-card-4.png" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/diff-card-4.png" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/diff.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/diff.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0811.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0811.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0812.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0812.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0813.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0813.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0814.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0814.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0815.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0815.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0816.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0816.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0817.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0817.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0818.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0818.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0820.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0820.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0821.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0821.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0822.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0822.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0823.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0823.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
+                  <div class="masonry-item">
+                    <a href="images/gallery/IMG_0826.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0826.JPG" alt="Gallery Image">
+                    </a>
+                  </div>
+
                   <!-- Add more items as needed -->
                 </div>
             </div>

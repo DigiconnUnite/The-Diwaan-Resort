@@ -44,7 +44,7 @@
           <span class="line"></span>
 
           <ul class="call-ul">
-            <li><a href="tel:+91-987-6543210">Reservations : +91-987-6543210</a></li>
+            <li><a href="tel:+91-7838886804">Reservations : +91-7838886804</a></li>
           </ul>
 
           <span class="line"></span>
@@ -98,6 +98,7 @@
         <!-- Add Swiper Navigation -->
         <div class="swiper-button-next"></div>
         <div class="swiper-button-prev"></div>
+
 
 
 
@@ -277,10 +278,10 @@
                             </div>
 
                             <div class="link-box">
-                                <a href="our-chef.html" class="theme-btn btn-style-two clearfix">
+                                <a href="about.php" class="theme-btn btn-style-two clearfix">
                                     <span class="btn-wrap">
-                                        <span class="text-one">meet our team</span>
-                                        <span class="text-two">meet our team</span>
+                                        <span class="text-one">Learn More</span>
+                                        <span class="text-two">Learn More</span>
                                     </span>
                                 </a>
                             </div>
@@ -713,7 +714,7 @@
                             <div class="title-box centered">
                                 <div class="subtitle"><span>reserve your experience</span></div>
                                 <h2>Reserve Your Royal Feast</h2>
-                                <div class="request-info">For reservations call <a href="#">+91-987-6543210</a> or complete the form below</div>
+                                <div class="request-info">For reservations call <a href="#">+91-7838886804</a> or complete the form below</div>
                             </div>
                             <div class="default-form reservation-form">
                                 <form method="post" action=" ">

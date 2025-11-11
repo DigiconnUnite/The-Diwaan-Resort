@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     <!--Reservation Section-->
     <section class="reserve-section style-two reserve-page section-kt">
-        <div class="image-layer" style="background-image: url(images/background/image-10.jpg);"></div>
+        <div class="image-layer" style="background-image: url(images/background/banner-menu.png);"></div>
         <div class="auto-container">
             <div class="outer-box">
                 <div class="row clearfix">
@@ -66,7 +66,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             <div class="title-box centered">
                                 <div class="subtitle"><span>reserve your experience</span></div>
                                 <h2>Reserve Your Royal Feast</h2>
-                                <div class="request-info">For reservations call <a href="#">+91-987-6543210</a> or complete the form below</div>
+                                <div class="request-info">For reservations call <a href="#">+91-7838886804</a> or complete the form below</div>
                             </div>
                             <div class="default-form reservation-form">
                                 <form method="post" action="book-table.php">

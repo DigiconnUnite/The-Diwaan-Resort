@@ -36,7 +36,7 @@ function sendEmail($to, $subject, $body, $fromEmail = 'noreply@diwaanagra.com', 
 
 function sendAdminNotification($formData, $formType)
 {
-    $adminEmail = 'admin@diwaanagra.com'; // Replace with actual admin email
+    $adminEmail = 'admin@diwaanagra.com'; 
     $subject = "New $formType Submission - The Diwaan Restaurant";
 
     $body = "<h2>New $formType Submission</h2>";

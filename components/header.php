@@ -66,16 +66,16 @@
                             <div class="link link-btn" style="margin-left:10px;">
                                 <a href="contact.php" class="theme-btn btn-style-one clearfix">
                                     <span class="btn-wrap">
-                                        <span class="text-one">Contact</span>
-                                        <span class="text-two">Contact</span>
+                                        <span class="text-one"><i class="fas fa-phone"></i>&nbsp;Contact</span>
+                                        <span class="text-two"><i class="fas fa-phone"></i>&nbsp;Contact</span>
                                     </span>
                                 </a>
                             </div>
                             <div class="link link-btn" style="margin-left:10px;">
                                 <a href="book-table.php" class="theme-btn btn-style-one clearfix">
                                     <span class="btn-wrap">
-                                        <span class="text-one">Book a Table</span>
-                                        <span class="text-two">Book a Table</span>
+                                        <span class="text-one"><i class="fas fa-utensils"></i>&nbsp;Book a Table</span>
+                                        <span class="text-two"><i class="fas fa-utensils"></i>&nbsp;Book a Table</span>
                                     </span>
                                 </a>
                             </div>

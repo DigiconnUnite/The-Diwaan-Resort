@@ -74,7 +74,7 @@
 
                         <div class="booking-info">
                             <div class="bk-title">Reservations : <br>
-                            <a class="bk-no" href="tel:+91-987-6543210">+91 (987) 654 3210</a></div>
+                            <a class="bk-no" href="tel:+91-7838886804">+91 (783) 888 6804</a></div>
                             
                             <div class="link-box">
                                 <a href="contact.html" class="theme-btn btn-style-two clearfix">

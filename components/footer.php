@@ -1,7 +1,6 @@
 <!-- Elegant Footer Section - The Diwaan Restaurant -->
 <footer class="main-footer" role="contentinfo">
  
-
     <!-- Main Footer Content -->
     <div class="footer-main">
         <div class="auto-container">
@@ -14,7 +13,7 @@
                     </div>
                     <div class="brand-text">
                         <h3>The Diwaan Restaurant</h3>
-                        <p class="tagline">Authentic Sri Lankan Flavors • Colombo's Premier Dining Destination</p>
+                        <p class="tagline">Royal Indian Heritage • Agra's Premier Dining Destination</p>
                     </div>
                 </div>
             </div>
@@ -26,7 +25,7 @@
                 <div class="footer-column">
                     <h5 class="column-title">About The Diwaan</h5>
                     <p class="column-text">
-                        Experience the finest authentic Sri Lankan and international cuisine in an elegant atmosphere where traditional recipes meet modern culinary artistry.
+                        Experience the finest authentic North Indian, South Indian, and Mughlai cuisine in an elegant atmosphere where traditional recipes meet modern culinary artistry.
                     </p>
                     <div class="social-media">
                         <h6>Follow Us</h6>
@@ -66,8 +65,6 @@
                     </nav>
                 </div>
 
-               
-
                 <!-- Contact Information -->
                 <div class="footer-column">
                     <h5 class="column-title">Contact Info</h5>
@@ -78,11 +75,11 @@
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-phone-alt"></i>
-                            <a href="tel:+94112223344">+94 11 222 3344</a>
+                            <a href="tel:+91-7838886804">+91 7838886804</a>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-envelope"></i>
-                            <a href="mailto:info@thediwaan.com">info@thediwaan.com</a>
+                            <a href="mailto:thediwaan9@gmail.com">thediwaan9@gmail.com</a>
                         </div>
                     </div>
                 </div>
@@ -91,7 +88,6 @@
         </div>
     </div>
 
-   
     <!-- Bottom Footer -->
     <div class="footer-bottom">
         <div class="auto-container">
@@ -201,7 +197,7 @@
 }
 
 .brand-text h3 {
-    font-family: var(--font-family-Fraunces);
+    font-family: var(--font-family-Raunces);
     font-size: 2.2rem;
     text-align: start;
     font-weight: 700;
@@ -388,158 +384,6 @@
     color: var(--main-color);
 }
 
-/* Hours List */
-.hours-list {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    margin-bottom: 25px;
-}
-
-.hour-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 6px 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-}
-
-.hour-item:last-child {
-    border-bottom: none;
-}
-
-.hour-item .day {
-    color: var(--color-three);
-    font-size: 13px;
-    font-weight: 500;
-}
-
-.hour-item .time {
-    color: var(--main-color);
-    font-size: 13px;
-    font-weight: 600;
-}
-
-/* Awards Preview */
-.awards-preview h6 {
-    color: var(--white-color);
-    font-size: 0.9rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-bottom: 12px;
-}
-
-.award-badges {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-}
-
-.award-badge {
-    color: var(--main-color);
-    font-size: 12px;
-    font-weight: 500;
-    letter-spacing: 0.5px;
-}
-
-/* Newsletter Section */
-.newsletter-section {
-    background: linear-gradient(135deg, var(--color-two) 0%, rgba(230, 177, 95, 0.1) 100%);
-    padding: 45px 0;
-    border-top: 1px solid rgba(230, 177, 95, 0.2);
-    border-bottom: 1px solid rgba(230, 177, 95, 0.2);
-    position: relative;
-    overflow: hidden;
-}
-
-.newsletter-section::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: radial-gradient(circle at 50% 50%, rgba(230, 177, 95, 0.05) 0%, transparent 70%);
-    pointer-events: none;
-}
-
-.newsletter-content {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 40px;
-}
-
-.newsletter-text h4 {
-    color: var(--main-color);
-    font-size: 1.4rem;
-    font-weight: 600;
-    margin-bottom: 8px;
-}
-
-.newsletter-text p {
-    color: var(--color-three);
-    font-size: 15px;
-    margin: 0;
-    line-height: 1.5;
-}
-
-.newsletter-form .form-group {
-    display: flex;
-    gap: 12px;
-    margin: 0;
-    min-width: 380px;
-}
-
-.newsletter-input {
-    flex: 1;
-    height: 48px;
-    padding: 0 18px;
-    border: 1px solid rgba(230, 177, 95, 0.3);
-    background: rgba(255, 255, 255, 0.08);
-    color: var(--white-color);
-    font-size: 15px;
-    border-radius: 24px;
-    outline: none;
-    transition: all 0.3s ease;
-}
-
-.newsletter-input:focus {
-    border-color: var(--main-color);
-    background: rgba(255, 255, 255, 0.12);
-    box-shadow: 0 0 0 3px rgba(230, 177, 95, 0.1);
-}
-
-.newsletter-input::placeholder {
-    color: var(--color-three);
-}
-
-.newsletter-btn {
-    height: 48px;
-    padding: 0 25px;
-    background: var(--main-color);
-    color: var(--color-two);
-    border: 1px solid var(--main-color);
-    border-radius: 24px;
-    font-size: 13px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-}
-
-.newsletter-btn:hover {
-    background: transparent;
-    color: var(--main-color);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(230, 177, 95, 0.3);
-}
-
 /* Bottom Footer */
 .footer-bottom {
     background: linear-gradient(135deg, rgba(0, 0, 0, 0.25) 0%, rgba(230, 177, 95, 0.05) 100%);
@@ -556,7 +400,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: radial-gradient(circle at 30% 70%, rgba(230, 177, 95, 0.06) 0%, transparent 60%);
+    background: radial-gradient(circle at 50% 50%, rgba(230, 177, 95, 0.05) 0%, transparent 60%);
     pointer-events: none;
 }
 
@@ -685,36 +529,6 @@
 
     .brand-text h3 {
         font-size: 1.9rem;
-    }
-
-    .newsletter-form .form-group {
-        flex-direction: column;
-        gap: 12px;
-    }
-
-    .newsletter-input,
-    .newsletter-btn {
-        width: 100%;
-    }
-
-    .bottom-links {
-        justify-content: center;
-    }
-
-    .specialties {
-        flex-direction: row;
-        align-items: center;
-        gap: 8px;
-    }
-}
-
-@media (max-width: 576px) {
-    .footer-main {
-        padding: 35px 0 25px 0;
-    }
-
-    .brand-text h3 {
-        font-size: 1.6rem;
     }
 
     .tagline {

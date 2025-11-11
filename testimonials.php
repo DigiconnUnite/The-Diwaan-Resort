@@ -24,7 +24,7 @@
 
     <!-- Inner Banner Section -->
     <section class="inner-banner">
-        <div class="image-layer" style="background-image: url(images/background/banner-image-6.jpg);"></div>
+        <div class="image-layer" style="background-image: url(images/background/banner-menu.png);"></div>
         <div class="auto-container">
             <div class="inner">
                 <h1>Guest Experiences</h1>
@@ -151,14 +151,19 @@
     </section>
 
 
+    
+    <!--Main Footer-->
+   <?php include 'components/footer.php' ?>
+
 </div>
 <!--End pagewrapper--> 
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 
-<?php include'components/script.php'?>
+
+<?php include 'components/script.php' ?>
+
 </body>
 
 </html>

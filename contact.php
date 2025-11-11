@@ -55,7 +55,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     <!-- Inner Banner Section -->
     <section class="inner-banner">
-        <div class="image-layer" style="background-image: url(images/background/banner-image-4.jpg);"></div>
+        <div class="image-layer" style="background-image: url(images/background/banner-about.png);"></div>
         <div class="auto-container">
             <div class="inner">
                 <h1>Contact Us</h1>
@@ -85,8 +85,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             <div class="text">
                                 The Diwaan Restaurant, Fatehabad Rd, Agra, Uttar Pradesh 282006 <br> <br>
 
-                                <span class="more-link"> Reservations : <a href="tel:+91-987-6543210">+91-987-6543210</a> </span> <br>
-                                <span class="more-link"> Email: <a href="mailto:reservations@diwaanagra.com">reservations@diwaanagra.com</a></span>
+                                <span class="more-link"> Reservations : <a href="tel:+91-7838886804">+91-7838886804</a> </span> <br>
+                                <span class="more-link"> Email: <a href="mailto:thediwaan9@gmail.com">thediwaan9@gmail.com</a></span>
                             </div>
                         </div>
                     </div>

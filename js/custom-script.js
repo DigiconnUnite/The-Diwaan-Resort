@@ -240,7 +240,7 @@
       autoplay: true,
       autoplayTimeout: 7000,
       center: true,
-      dots: true, // Enable dots
+      dots: true,
       nav: false,
       responsive: {
         0: {
