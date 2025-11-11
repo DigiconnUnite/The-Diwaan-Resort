@@ -33,7 +33,7 @@
 
 	/* Banner Slider Section */
 	.banner-section .slide-item h1 {
-		font-size: 90px;
+		font-size: 85px;
 		line-height: 1.0;
 		letter-spacing: 3px;
 	}
@@ -258,12 +258,6 @@
 		padding-right: 50px;
 	}
 
-
-	/* memnu special offer */
-	.offer-block-three .inner-box {
-		padding: 30px;
-	}
-
 	/* reserv */
 	.reserve-section .reserv-col .inner{
 		padding: 40px 20px 30px;
@@ -276,7 +270,7 @@
 
 	/* reservation split style */
 	.reserve-section.splitscreen .reserv-col .inner {
-		padding: 100px;
+		padding: 50px;
 	}
 
 

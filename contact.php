@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,7 +30,7 @@
         <div class="auto-container">
             <div class="inner">
                 <h1>Contact Us</h1>
-                <div class="sub_text"> <p> Get in touch with The Diwaan Restaurant - <span class="primary-color"> where tradition meets excellence.</span></p> </div>
+                <div class="sub_text"> <p> Connect with The Diwaan Restaurant - <span class="primary-color"> where royal flavors await your arrival.</span></p> </div>
             </div>
         </div>
     </section>
@@ -55,10 +54,10 @@
                         <div class="card-content">
                             <h5> visit us </h5>
                             <div class="text">
-                                The Diwaan Restaurant, Colombo, Sri Lanka <br> <br>
-                                <span class="c-info-ttl"> Lunch Time </span> - 11.00 am – 3:00 pm <br>  <span class="c-info-ttl">Dinner Time </span> - 06.00 pm – 11:00 pm <br>  <br>
-                                <span class="more-link"> Booking : <a href="tel:+94-11-1234567">+94-11-1234567</a> </span> <br>
-                                <span class="more-link"> Email: <a href="mailto:info@diwaanrestaurant.com">info@diwaanrestaurant.com</a></span>
+                                The Diwaan Restaurant, Fatehabad Rd, Agra, Uttar Pradesh 282006 <br> <br>
+                                <span class="c-info-ttl"> Lunch Time </span> - 12.00 pm – 3:30 pm <br>  <span class="c-info-ttl">Dinner Time </span> - 06.30 pm – 11:30 pm <br>  <br>
+                                <span class="more-link"> Reservations : <a href="tel:+91-987-6543210">+91-987-6543210</a> </span> <br>
+                                <span class="more-link"> Email: <a href="mailto:reservations@diwaanagra.com">reservations@diwaanagra.com</a></span>
                             </div>
                         </div>
                     </div>
@@ -79,7 +78,7 @@
                         <div class="title-box centered">
                             <div class="subtitle"><span>Write to us</span></div>
                             <h2>Message Us</h2>
-                            <div class="text desc">Have questions about our menu, reservations, or anything else? We'd love to hear from you!</div>
+                            <div class="text desc">Planning a special celebration or have dietary preferences? Our team is delighted to assist with your royal dining experience!</div>
                         </div>
                         <div class="default-form reservation-form">
                             <form method="post" action="contact.php">

@@ -1,11 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 
 <head>
 <meta charset="utf-8">
-<title>Diwaan - Restaurants HTML Template - Home 01</title>
+<title>The Diwaan Restaurant - Book A Table</title>
 <!-- Stylesheets -->
    <?php include 'components/links.php' ?>
 
@@ -33,9 +32,9 @@
                     <div class="reserv-col col-lg-8 col-md-12 col-sm-12 mx-auto">
                         <div class="inner">
                             <div class="title-box centered">
-                                <div class="subtitle"><span>Online reservation</span></div>
-                                <h2>Book A Table</h2>
-                                <div class="request-info">Booking request <a href="#">+88-123-123456</a> or fill out the order form</div>
+                                <div class="subtitle"><span>reserve your experience</span></div>
+                                <h2>Reserve Your Royal Feast</h2>
+                                <div class="request-info">For reservations call <a href="#">+91-987-6543210</a> or complete the form below</div>
                             </div>
                             <div class="default-form reservation-form">
                                 <form method="post" action="">
@@ -76,10 +75,6 @@
                                             <div class="field-inner">
                                                 <span class="alt-icon far fa-clock"></span>
                                                 <select class="l-icon">
-                                                    <option>08 : 00 am</option>
-                                                    <option>09 : 00 am</option>
-                                                    <option>10 : 00 am</option>
-                                                    <option>11 : 00 am</option>
                                                     <option>12 : 00 pm</option>
                                                     <option>01 : 00 pm</option>
                                                     <option>02 : 00 pm</option>
@@ -91,21 +86,22 @@
                                                     <option>08 : 00 pm</option>
                                                     <option>09 : 00 pm</option>
                                                     <option>10 : 00 pm</option>
+                                                    <option>11 : 00 pm</option>
                                                 </select>
                                                 <span class="arrow-icon far fa-angle-down"></span>
                                             </div>
                                         </div>
                                         <div class="form-group col-lg-12 col-md-12 col-sm-12">
                                             <div class="field-inner">
-                                                <textarea name="fieldname" placeholder="Message" required></textarea>
+                                                <textarea name="fieldname" placeholder="Special Requests or Dietary Preferences" required></textarea>
                                             </div>
                                         </div>
                                         <div class="form-group col-lg-12 col-md-12 col-sm-12">
                                             <div class="field-inner">
                                                 <button type="submit" class="theme-btn btn-style-one clearfix">
                                                     <span class="btn-wrap">
-                                                        <span class="text-one">book a table</span>
-                                                        <span class="text-two">book a table</span>
+                                                        <span class="text-one">reserve your table</span>
+                                                        <span class="text-two">reserve your table</span>
                                                     </span>
                                                 </button>
                                             </div>

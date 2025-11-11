@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,7 +30,7 @@
         <div class="auto-container">
             <div class="inner">
                 <h1>About Us</h1>
-                <div class="sub_text"> <p> A taste of perfection in every dish - <span class="primary-color"> fine dining with a modern twist.</span></p> </div>
+                <div class="sub_text"> <p> Experience centuries of royal flavors reimagined with <span class="primary-color"> contemporary elegance in Agra.</span></p> </div>
             </div>
         </div>
     </section>
@@ -50,35 +49,35 @@
                 <div class="text-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms">
 
-                        <h2>Exquisite Flavors, <span class="theme_color">Elegant Ambiance</span></h2>
-                        <div class="text"> Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into.</div>
+                        <h2>Royal Heritage, <span class="theme_color">Modern Elegance</span></h2>
+                        <div class="text"> Nestled in the heart of Agra, Diwaan brings together the rich culinary traditions of North and South India with the royal legacy of Mughlai cuisine. Our chefs craft each dish using time-honored recipes passed through generations, creating an unforgettable dining experience.</div>
 
                         <div class="feature-info">
 
                             <div class="feature-info-box">
                                 <div class="feature-title">
                                     <img src="images/resource/hygienic.png" alt="image">
-                                    <h6>Hygienic <br> Food </h6>
+                                    <h6>Pristine <br> Kitchen</h6>
                                 </div>
-                                <div class="infotext"> Lorem Ipsum is simply dummy text of the printing and type setting dummy text.</div>
+                                <div class="infotext"> Our kitchen follows the highest standards of cleanliness, ensuring every dish is prepared with utmost care.</div>
                             </div>
 
                             <div class="feature-info-box">
                                 <div class="feature-title">
                                     <img src="images/resource/ambiance.png" alt="image">
-                                    <h6>fresh <br> Ambience </h6>
+                                    <h6>Royal <br> Setting</h6>
                                 </div>
-                                <div class="infotext"> Lorem Ipsum is simply dummy text of the printing and type setting dummy text.</div>
+                                <div class="infotext"> Step into an atmosphere that blends traditional Indian aesthetics with contemporary comfort.</div>
                             </div>
 
                         </div>
 
                         <div class="booking-info">
-                            <div class="bk-title">Booking Request : <br>
-                            <a class="bk-no" href="tel:+80-400-123456">+80 (400) 123 4567</a></div>
+                            <div class="bk-title">Reservations : <br>
+                            <a class="bk-no" href="tel:+91-987-6543210">+91 (987) 654 3210</a></div>
                             
                             <div class="link-box">
-                                <a href="about.html" class="theme-btn btn-style-two clearfix">
+                                <a href="contact.html" class="theme-btn btn-style-two clearfix">
                                     <span class="btn-wrap">
                                         <span class="text-one">book a table</span>
                                         <span class="text-two">book a table</span>
@@ -93,7 +92,7 @@
                 <div class="image-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="inner wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms">
                         <div class="images parallax-scene-1">
-                            <div class="image" data-depth="0.15"><img src="images/resource/image-1.jpg" alt="image"></div>
+                            <div class="image" data-depth="0.15"><img src="images/about/about-1.png" alt="image"></div>
                         </div>
                     </div>
                 </div>
@@ -105,20 +104,23 @@
 
 
 
-    <!--Why Us Section-->
+<!--Why Us Section-->
     <section class="why-us-two section-kt">
         <div class="auto-container">
             <div class="title-box centered">
-                <div class="subtitle"><span>why choose us</span></div>
-                <h2>Why Dine With Us</h2>
+                <div class="subtitle"><span>the diwaan difference</span></div>
+                <h2>Experience Our Excellence</h2>
             </div>
             <div class="row clearfix">
                 <!--Block-->
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        <div class="image-box"><img src="images/resource/why1.jpg" alt=""></div>
+                        <div class="image-box">
+                            <img src="images/home/diff-card-1.png" alt="Master Chefs">
+                            <div class="image-frame"></div>
+                        </div>
                         <div class="over-box">
-                            <h6>skilled chef</h6>
+                            <h6>master chefs</h6>
                         </div>
                     </div>
                 </div>
@@ -126,9 +128,12 @@
                 <!--Block-->
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
-                        <div class="image-box"><img src="images/resource/why2.jpg" alt=""></div>
+                        <div class="image-box">
+                            <img src="images/home/diff-card-2.png" alt="Pure Ingredients">
+                            <div class="image-frame"></div>
+                        </div>
                         <div class="over-box">
-                            <h6>hygienic food</h6>
+                            <h6>pure ingredients</h6>
                         </div>
                     </div>
                 </div>
@@ -136,9 +141,12 @@
                 <!--Block-->
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
-                        <div class="image-box"><img src="images/resource/why3.jpg" alt=""></div>
+                        <div class="image-box">
+                            <img src="images/home/diff-card-3.png" alt="Royal Setting">
+                            <div class="image-frame"></div>
+                        </div>
                         <div class="over-box">
-                            <h6>Fresh ambience</h6>
+                            <h6>royal setting</h6>
                         </div>
                     </div>
                 </div>
@@ -146,9 +154,12 @@
                 <!--Block-->
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="900ms">
-                        <div class="image-box"><img src="images/resource/why4.jpg" alt=""></div>
+                        <div class="image-box">
+                            <img src="images/home/diff-card-4.png" alt="Heritage Recipes">
+                            <div class="image-frame"></div>
+                        </div>
                         <div class="over-box">
-                            <h6>secreat recipe</h6>
+                            <h6>heritage recipes</h6>
                         </div>
                     </div>
                 </div>
@@ -160,29 +171,29 @@
                     <div class="fact-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner clearfix">
                             <div class="fact-count"><div class="count-box"><span class="count-text" data-stop="60" data-speed="2000">0</span><i>+</i></div></div>
-                            <div class="fact-title">monthly visitors</div>
-                            <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry has been. </p>
+                            <div class="fact-title">happy diners</div>
+                            <p> Families, tourists, and food lovers who return for our authentic flavors. </p>
                         </div>
                     </div>
                     <div class="fact-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner clearfix">
                             <div class="fact-count"><div class="count-box"><span class="count-text" data-stop="22" data-speed="1500">0</span><i>+</i></div></div>
-                            <div class="fact-title">positive reviews</div>
-                            <p> Simply dummy text of the printing and typesetting industry lorem Ipsum has been. </p>
+                            <div class="fact-title">guest reviews</div>
+                            <p> Guests who have experienced our royal hospitality and cuisine. </p>
                         </div>
                     </div>
                     <div class="fact-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner clearfix">
                             <div class="fact-count"><div class="count-box"><span class="count-text" data-stop="135" data-speed="1000">0</span><i>+</i></div></div>
-                            <div class="fact-title">secreat recipe</div>
-                            <p> Simply dummy text of the printing and typesetting lorem Ipsum has been industry. </p>
+                            <div class="fact-title">heritage dishes</div>
+                            <p> Authentic recipes passed down through generations of master chefs. </p>
                         </div>
                     </div>
                     <div class="fact-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner clearfix">
                             <div class="fact-count"><div class="count-box"><span class="count-text" data-stop="10" data-speed="1000">0</span><i>+</i></div></div>
-                            <div class="fact-title">award & honnors</div>
-                            <p> Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum. </p>
+                            <div class="fact-title">culinary awards</div>
+                            <p> Recognition for preserving and elevating India's culinary heritage. </p>
                         </div>
                     </div>
                 </div>
@@ -204,15 +215,15 @@
                         <div class="s-block alternate">
                             <div class="inner">
                                 <div class="icon-box"><img src="images/resource/s-icon-1.png" alt="image" title=""></div>
-                                <h6>party & <br> celebrations</h6>
-                                <div class="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys.</div>
+                                <h6>royal <br> celebrations</h6>
+                                <div class="text">From intimate family gatherings to grand celebrations, our team crafts memorable experiences with authentic flavors.</div>
                             </div>
                         </div>
                         <div class="s-block alternate">
                             <div class="inner">
                                 <div class="icon-box"><img src="images/resource/s-icon-2.png" alt="image" title=""></div>
-                                <h6>luxury <br> Fine Dining</h6>
-                                <div class="text">Simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys lorem Ipsum is.</div>
+                                <h6>heritage <br> fine dining</h6>
+                                <div class="text">Experience the perfect blend of traditional Indian cuisine with contemporary elegance in our exclusive dining spaces.</div>
                             </div>
                         </div>
                     </div>
@@ -222,22 +233,22 @@
                         <div class="s-block ">
                             <div class="inner">
                                 <div class="icon-box"><img src="images/resource/s-icon-3.png" alt="image" title=""></div>
-                                <h6>banquet <br> hall</h6>
-                                <div class="text">Printing and typeset industry lorem Ipsum has been lorem Ipsum is simply dummy typeset industry lorem Ipsum has been.</div>
+                                <h6>mughlai <br> banquet hall</h6>
+                                <div class="text">Our elegant banquet hall features traditional Indian decor with modern amenities, perfect for weddings and special events.</div>
                             </div>
                         </div>
                         <div class="s-block ">
                             <div class="inner">
                                 <div class="icon-box"><img src="images/resource/s-icon-4.png" alt="image" title=""></div>
-                                <h6>outdoor <br> catering</h6>
-                                <div class="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys.</div>
+                                <h6>authentic <br> catering</h6>
+                                <div class="text">Bring the royal flavors of Diwaan to your venue with our bespoke catering services for all occasions and celebrations.</div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="image-col col-lg-4 col-md-12 col-sm-12">
                     <div class="inner wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        <div class="image-box"><img src="images/resource/service-image.png" alt="image" title=""></div>
+                        <div class="image-box"><img src="images/about/celebration-1.png" alt="image" title=""></div>
                     </div>
                 </div>
             </div>
@@ -249,8 +260,8 @@
         <div class="auto-container">
             
             <div class="title-box centered">
-                <div class="subtitle"><span>testimonials</span></div>
-                <h2>What People Are Saying</h2>
+                <div class="subtitle"><span>guest experiences</span></div>
+                <h2>Voices From Our Diwaan</h2>
             </div>
             <div class="carousel-box">
                 <div class="testimonial-slider owl-theme owl-carousel">
@@ -258,10 +269,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">A perfect blend of mouthwatering dishes, warm atmosphere, and outstanding service. Every meal feels like a special occasion worth savoring!</div>
+                            <div class="text">The butter chicken transported me back to my grandmother's kitchen in Delhi. The ambiance perfectly captures India's royal heritage with modern comfort.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-4.jpg" alt="image"></div>
-                                <div class="auth-title">willium joe -<span class="location">New York</span> </div>
+                                <div class="auth-title">Priya Sharma -<span class="location">New Delhi</span> </div>
                             </div>
                         </div>
                     </div>
@@ -270,10 +281,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">Every visit is a flavorful journey! Delicious food, elegant ambiance, and welcoming staff make this restaurant a true dining destination.</div>
+                            <div class="text">As a tourist visiting Agra, Diwaan was the culinary highlight of my trip. The Mughlai dishes were authentic yet presented with contemporary elegance.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-5.jpg" alt="image"></div>
-                                <div class="auth-title">Theresa Tin -<span class="location"> Chicago</span> </div>
+                                <div class="auth-title">James Wilson -<span class="location"> London</span> </div>
                             </div>
                         </div>
                     </div>
@@ -282,10 +293,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">From appetizers to desserts, every bite bursts with perfection. A cozy atmosphere and exceptional service make each visit unforgettable.</div>
+                            <div class="text">The South Indian thali was exceptional - each dish had its distinct flavor profile yet harmonized beautifully. The service was attentive without being intrusive.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-6.jpg" alt="image"></div>
-                                <div class="auth-title">Michel Byrd -<span class="location"> New York</span> </div>
+                                <div class="auth-title">Anand Kumar -<span class="location"> Bangalore</span> </div>
                             </div>
                         </div>
                     </div>
@@ -294,10 +305,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">The taste of food was really amazing, Wow ! outstanding dinner made by Mater chef John Rute, I never forget this delicious food experience.</div>
+                            <div class="text">Our family celebration at Diwaan was perfect. The kids enjoyed the mild flavors while adults savored the authentic spices. The staff made us feel truly special.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-4.jpg" alt="image"></div>
-                                <div class="auth-title">willium joe -<span class="location"> New York</span></div>
+                                <div class="auth-title">Meera Patel -<span class="location"> Mumbai</span></div>
                             </div>
                         </div>
                     </div>
@@ -306,10 +317,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">Hygienic food & fresh enviroment, everyone had a wonderful delite experience. It was FABULOUS! great experience at The Italian gourmet.</div>
+                            <div class="text">The Dal Bukhara rivals what I've tasted in Delhi's finest restaurants. The attention to detail in both food and presentation shows true culinary passion.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-5.jpg" alt="image"></div>
-                                <div class="auth-title">Theresa Tin -<span class="location"> Chicago</span></div>
+                                <div class="auth-title">Rohit Verma -<span class="location"> Gurgaon</span></div>
                             </div>
                         </div>
                     </div>
@@ -318,10 +329,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">Special treat to dine, It was wow experience food was really delicious! outstanding dinner made by Mater chef, food experience was unfogetable!</div>
+                            <div class="text">As a food blogger, I'm impressed by how Diwaan maintains authenticity while appealing to international palates. The fusion of North and South cuisines is masterful.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-6.jpg" alt="image"></div>
-                                <div class="auth-title">Michel Byrd -<span class="location"> Denmark</span></div>
+                                <div class="auth-title">Sophie Chen -<span class="location"> Singapore</span></div>
                             </div>
                         </div>
                     </div>
@@ -336,29 +347,29 @@
         <div class="carousel-box">
             <div class="auto-container">
                 <div class="title-box centered">
-                    <div class="subtitle"><span>Gallery</span></div>
-                    <h2>Diwaan Gallery</h2>
+                    <div class="subtitle"><span>visual journey</span></div>
+                    <h2>Our Culinary Showcase</h2>
                 </div>
 
                 <div class="image-gallery-slider owl-theme owl-carousel">
                     <!--Slide Item-->
                     <div class="gallery-block">
-                        <div class="image"><a href="images/gallery/gallery-1-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-1-sm.jpg" alt="image"></a></div>
+                        <div class="image"><a href="images/gallery/g-1.JPG" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/g-1.JPG" alt="image"></a></div>
                     </div>
 
                     <!--Slide Item-->
                     <div class="gallery-block">
-                        <div class="image"><a href="images/gallery/gallery-2-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-2-sm.jpg" alt="image"></a></div>
+                        <div class="image"><a href="images/gallery/g-2.JPG" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/g-2.JPG" alt="image"></a></div>
                     </div>
 
                     <!--Slide Item-->
                     <div class="gallery-block">
-                        <div class="image"><a href="images/gallery/gallery-3-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-3-sm.jpg" alt="image"></a></div>
+                        <div class="image"><a href="images/gallery/g-3.JPG" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/g-3.JPG" alt="image"></a></div>
                     </div>
 
                     <!--Slide Item-->
                     <div class="gallery-block">
-                        <div class="image"><a href="images/gallery/gallery-4-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-4-sm.jpg" alt="image"></a></div>
+                        <div class="image"><a href="images/gallery/g-4.JPG" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/g-4.JPG" alt="image"></a></div>
                     </div>
 
                     

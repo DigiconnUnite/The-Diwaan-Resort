@@ -42,50 +42,7 @@
   z-index: 100;
 }
 
-.handle-preloader .animation-preloader .spinner{
-   animation: spinner 1s infinite linear;
-   border-radius: 50%;
-   height: 100px;
-   margin: 0 auto 30px auto;
-   width: 100px;
-   filter: drop-shadow(0 0 10px rgba(255, 193, 88, 0.5)) drop-shadow(0 0 20px rgba(255, 193, 88, 0.3));
-}
 
-.handle-preloader .animation-preloader .txt-loading {
-  text-align: center;
-  user-select: none;
-}
-
-.handle-preloader .animation-preloader .txt-loading .letters-loading:before{
-  animation: letters-loading 4s infinite;
-  content: attr(data-text-preloader);
-  left: 0;
-  opacity: 0;
-  top:0;
-  position: absolute;
-}
-
-.handle-preloader .animation-preloader .txt-loading .letters-loading{
-   font-weight: 500;
-   letter-spacing: 10px;
-   display: inline-block;
-   position: relative;
-   font-size: 50px;
-   line-height: 50px;
-   text-transform: uppercase;
-   color: transparent;
-   -webkit-text-stroke-width: 1px;
-   -webkit-text-stroke-color: rgba(255, 193, 88, 0.6);
-   text-shadow: 0 0 20px rgba(255, 193, 88, 0.4), 0 0 40px rgba(255, 193, 88, 0.2);
-}
-
-.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(2):before {animation-delay: 0.2s;}
-.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(3):before {animation-delay: 0.4s;}
-.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(4):before {animation-delay: 0.6s;}
-.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(5):before {animation-delay: 0.8s;}
-.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(6):before { animation-delay: 1s;}
-.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(7):before { animation-delay: 1.2s;}
-.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(8):before { animation-delay: 1.4s;}
 .handle-preloader .loader-section {
   background-color: #ffffff;
   height: 100%;
@@ -99,54 +56,32 @@
   transition: 0.3s ease-out;
 }
 
-.handle-preloader .animation-preloader .txt-loading .letters-loading{
-
-}
-
-.handle-preloader .animation-preloader .txt-loading .letters-loading:before{
-   color: var(--main-color);
-   text-shadow: 0 0 15px rgba(255, 193, 88, 0.8), 0 0 30px rgba(255, 193, 88, 0.6), 0 0 45px rgba(255, 193, 88, 0.4);
-}
-
-.handle-preloader .animation-preloader .spinner{
-   border: 3px solid rgba(255, 193, 88, 0.3);
-   border-top-color: var(--main-color);
-   box-shadow: 0 0 20px rgba(255, 193, 88, 0.4), inset 0 0 20px rgba(255, 193, 88, 0.1);
+.diwaan-logo {
+   animation: pulse 2s infinite;
+   max-width: 200px;
+   height: auto;
+   filter: drop-shadow(0 0 10px rgba(255, 193, 88, 0.5)) drop-shadow(0 0 20px rgba(255, 193, 88, 0.3));
 }
 
 /* Animación del preloader */
-@keyframes spinner {
-  to {
-    transform: rotateZ(360deg);
-  }
-}
-@keyframes letters-loading {
-   0%,
-   75%,
-   100% {
-      opacity: 0;
-      transform: rotateY(-90deg) scale(0.8);
-      filter: blur(2px);
-   }
-
-   25%,
-   50% {
+@keyframes pulse {
+   0%, 100% {
+      transform: scale(1);
       opacity: 1;
-      transform: rotateY(0deg) scale(1.1);
-      filter: blur(0px);
+   }
+   50% {
+      transform: scale(1.1);
+      opacity: 0.8;
    }
 }
 
 @media screen and (max-width: 767px) {
-  .handle-preloader .animation-preloader .spinner {
-    height: 8em;
-    width: 8em;
+  .diwaan-logo {
+    max-width: 150px;
   }
 }
 @media screen and (max-width: 500px) {
-  .handle-preloader .animation-preloader .spinner {
-    height: 7em;
-    width: 7em;
+  .diwaan-logo {
+    max-width: 120px;
   }
-  .handle-preloader .animation-preloader .txt-loading .letters-loading {font-size: 30px; letter-spacing: 10px;}
 }

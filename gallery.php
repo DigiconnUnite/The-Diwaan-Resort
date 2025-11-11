@@ -44,62 +44,44 @@
                 <div class="masonry">
 
                   <div class="masonry-item">
-                    <a href="images/gallery/pic1.jpg" class="fancybox" data-fancybox="gallery">
-                      <img src="images/gallery/pic1-thumb.jpg" alt="Gallery Image">
+                    <a href="images/gallery/g-1.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/g-1.JPG" alt="Gallery Image">
                     </a>
                   </div>
 
                   <div class="masonry-item">
-                    <a href="images/gallery/pic4.jpg" class="fancybox" data-fancybox="gallery">
-                      <img src="images/gallery/pic4-thumb.jpg" alt="Gallery Image">
+                    <a href="images/gallery/g-2.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/g-2.JPG" alt="Gallery Image">
                     </a>
                   </div>
 
                   <div class="masonry-item">
-                    <a href="images/gallery/pic3.jpg" class="fancybox" data-fancybox="gallery">
-                      <img src="images/gallery/pic3-thumb.jpg" alt="Gallery Image">
+                    <a href="images/gallery/g-3.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/g-3.JPG" alt="Gallery Image">
                     </a>
                   </div>
 
                   <div class="masonry-item">
-                    <a href="images/gallery/pic7.jpg" class="fancybox" data-fancybox="gallery">
-                      <img src="images/gallery/pic7-thumb.jpg" alt="Gallery Image">
+                    <a href="images/gallery/g-4.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/g-4.JPG" alt="Gallery Image">
                     </a>
                   </div>
 
                   <div class="masonry-item">
-                    <a href="images/gallery/pic5.jpg" class="fancybox" data-fancybox="gallery">
-                      <img src="images/gallery/pic5-thumb.jpg" alt="Gallery Image">
+                    <a href="images/gallery/g-5.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/g-5.JPG" alt="Gallery Image">
                     </a>
                   </div>
 
                   <div class="masonry-item">
-                    <a href="images/gallery/pic6.jpg" class="fancybox" data-fancybox="gallery">
-                      <img src="images/gallery/pic6-thumb.jpg" alt="Gallery Image">
+                    <a href="images/gallery/g-6.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/g-6.JPG" alt="Gallery Image">
                     </a>
                   </div>
 
                   <div class="masonry-item">
-                    <a href="images/gallery/pic2.jpg" class="fancybox" data-fancybox="gallery">
-                      <img src="images/gallery/pic2-thumb.jpg" alt="Gallery Image">
-                    </a>
-                  </div>
-
-                  <div class="masonry-item">
-                    <a href="images/gallery/pic8.jpg" class="fancybox" data-fancybox="gallery">
-                      <img src="images/gallery/pic8-thumb.jpg" alt="Gallery Image">
-                    </a>
-                  </div>
-
-                  <div class="masonry-item">
-                    <a href="images/gallery/pic9.jpg" class="fancybox" data-fancybox="gallery">
-                      <img src="images/gallery/pic9-thumb.jpg" alt="Gallery Image">
-                    </a>
-                  </div>
-
-                  <div class="masonry-item">
-                    <a href="images/gallery/pic10.jpg" class="fancybox" data-fancybox="gallery">
-                      <img src="images/gallery/pic10-thumb.jpg" alt="Gallery Image">
+                    <a href="images/gallery/IMG_0825.JPG" class="fancybox" data-fancybox="gallery">
+                      <img src="images/gallery/IMG_0825.JPG" alt="Gallery Image">
                     </a>
                   </div>
                   

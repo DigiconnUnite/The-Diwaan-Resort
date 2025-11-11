@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -45,7 +44,7 @@
           <span class="line"></span>
 
           <ul class="call-ul">
-            <li><a href="tel:+88-123-123456">Booking : +88-123-123456</a></li>
+            <li><a href="tel:+91-987-6543210">Reservations : +91-987-6543210</a></li>
           </ul>
 
           <span class="line"></span>
@@ -60,9 +59,9 @@
                               <div class="content">
                                   <div class="clearfix">
                                        <div class="inner">
-                                             <div class="subtitle"><span>Delicious Taste in City</span></div>
-                                                 <h1>Taste the Tradition</h1>
-                                                 <div class="text">A taste of perfection in every dish - fine dining with a modern twist.</div>
+                                             <div class="subtitle"><span>Authentic Flavors of Agra</span></div>
+                                                 <h1>Heritage on Your Plate</h1>
+                                                 <div class="text">Experience centuries of royal flavors reimagined with contemporary elegance.</div>
                                                  <div class="links-box clearfix">
                                                      <div class="link">
                                                          <a href="menu.php" class="theme-btn btn-style-one">
@@ -111,53 +110,53 @@
           <div class="rolling-gallery-outer">
             <!-- First set of images -->
             <div class="rolling-image">
-              <img src="images/resource/dish1.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish2.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish3.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish4.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish5.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
            
 
             <!-- Duplicate set for seamless looping -->
             <div class="rolling-image">
-              <img src="images/resource/dish1.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish2.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish3.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish4.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish5.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <!-- Duplicate set for seamless looping -->
             <div class="rolling-image">
-              <img src="images/resource/dish1.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish2.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish3.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish4.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             <div class="rolling-image">
-              <img src="images/resource/dish5.png" alt="image">
+               <img src="images/menu/Paneer-Butter-Mashala.png" alt="image">
             </div>
             
           </div>
@@ -181,26 +180,26 @@
                     <div class="inner clearfix wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms">
                         <div class="content-box">
                             <div class="title-box ">
-                                <div class="subtitle"><span>About Us </span></div>
-                                <h2>Exquisite Flavors, <span class="theme_color">Elegant Ambiance</span></h2>
-                           <div class="text text-start">At The Diwaan, we are committed to providing an exceptional dining experience that blends traditional Indian flavors with contemporary elegance. Our menu features authentic dishes crafted from the finest ingredients, ensuring every meal is a celebration of taste and culture.</div>
+                                <div class="subtitle"><span>Our Story</span></div>
+                                <h2>Royal Heritage, <span class="theme_color">Modern Elegance</span></h2>
+                           <div class="text text-start">Nestled in the heart of Agra, Diwaan brings together the rich culinary traditions of North and South India with the royal legacy of Mughlai cuisine. Our chefs craft each dish using time-honored recipes passed through generations, creating an unforgettable dining experience.</div>
 
                             <div class="feature-info">
 
                             <div class="feature-info-box">
                                 <div class="feature-title">
                                     <img src="images/resource/hygienic.png" alt="image">
-                                    <h6>Hygienic <br> Food </h6>
+                                    <h6>Pristine <br> Kitchen</h6>
                                 </div>
-                                <div class="infotext text-start">We adhere to strict hygiene standards to ensure your food is prepared in a clean and safe environment.</div>
+                                <div class="infotext text-start">Our kitchen follows the highest standards of cleanliness, ensuring every dish is prepared with utmost care.</div>
                             </div>
 
                             <div class="feature-info-box">
                                 <div class="feature-title">
                                     <img src="images/resource/ambiance.png" alt="image">
-                                    <h6>fresh <br> Ambience </h6>
+                                    <h6>Royal <br> Setting</h6>
                                 </div>
-                                <div class="infotext text-start">Our restaurant offers a fresh and inviting ambiance perfect for any occasion.</div>
+                                <div class="infotext text-start">Step into an atmosphere that blends traditional Indian aesthetics with contemporary comfort.</div>
                             </div>
 
                         </div>
@@ -212,7 +211,7 @@
                 <div class="image-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms">
                         <div class="image-layer" style="background-image: url(images/home/about-1.png);"></div>
-                        <div class="image"><img src="images/home/about-1.png" alt="Chef Noor at The Diwaan"></div>
+                        <div class="image"><img src="images/home/about-1.png" alt="Chef Rajiv at The Diwaan"></div>
                     </div>
                 </div>
 
@@ -227,7 +226,7 @@
                 <div class="image-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms">
                         <div class="image-layer" style="background-image: url(images/home/about-2.png);"></div>
-                        <div class="image"><img src="images/home/about-2.png" alt="Chef Noor at The Diwaan"></div>
+                        <div class="image"><img src="images/home/about-2.png" alt="Chef Rajiv at The Diwaan"></div>
                     </div>
                 </div>
                 <!--Col-->
@@ -235,10 +234,10 @@
                     <div class="inner wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms">
                         <div class="content-box">
                             <div class="title-box text-start">
-                                <div class="subtitle"><span>About The Chef</span></div>
-                                <h2>Exquisite Craft, <span class="theme_color">Passionate Culinary Artistry</span></h2>
+                                <div class="subtitle"><span>Our Culinary Master</span></div>
+                                <h2>Generational Wisdom, <span class="theme_color">Innovative Flair</span></h2>
                                 <div class="text text-start">
-                                    At The Diwaan, Chef Noor brings an extraordinary blend of authenticity and creativity to our kitchen. With each dish, he combines handpicked spices, farm-fresh ingredients, and generations-old recipes to deliver an experience that is both traditional and innovative.
+                                    Our culinary team, led by Master Chef Rajiv, brings decades of expertise in traditional Indian cooking. Having trained in the royal kitchens of Jaipur and Chennai, he masterfully blends North Indian, South Indian, and Mughlai techniques to create dishes that honor tradition while delighting modern palates.
                                 </div>
                             </div>
 
@@ -246,16 +245,16 @@
                                 <div class="feature-info-box">
                                     <div class="feature-title">
                                         <img src="images/resource/hygienic.png" alt="image">
-                                        <h6>Carefully <br> Curated </h6>
+                                        <h6>Artisan <br> Selection</h6>
                                     </div>
-                                    <div class="infotext text-start">Each dish is made with meticulously sourced ingredients for exceptional taste and quality.</div>
+                                    <div class="infotext text-start">Our ingredients are handpicked from local farms and traditional markets for authentic flavors.</div>
                                 </div>
                                 <div class="feature-info-box">
                                     <div class="feature-title">
                                         <img src="images/resource/ambiance.png" alt="image">
-                                        <h6>Inspired <br> Creations </h6>
+                                        <h6>Heritage <br> Innovation</h6>
                                     </div>
-                                    <div class="infotext text-start">Chef Noor's menus reflect the vibrant traditions of India blended with modern flair.</div>
+                                    <div class="infotext text-start">Each dish tells a story of India's diverse culinary heritage with contemporary presentation.</div>
                                 </div>
                             </div>
 
@@ -280,16 +279,16 @@
         <div class="auto-container">
             <div class="title-box centered">
                 <div class="title-badge"> <img src="images/resource/menu-title-badge.svg" alt="image" title="image"> </div>
-                <h2>Delicious Menu</h2>
+                <h2>Heritage Collection</h2>
             </div>
 
             <div class="tabs-box menu-tabs">
                 <div class="buttons">
                     <ul class="tab-buttons clearfix">
-                        <li class="tab-btn active-btn" data-tab="#tab-1"><span>Starter</span></li>
-                        <li class="tab-btn" data-tab="#tab-2"><span>Main Dishes</span></li>
-                        <li class="tab-btn" data-tab="#tab-3"><span>Desserts</span></li>
-                        <li class="tab-btn" data-tab="#tab-4"><span>WINES</span></li>
+                        <li class="tab-btn active-btn" data-tab="#tab-1"><span>Beginnings</span></li>
+                        <li class="tab-btn" data-tab="#tab-2"><span>Signature Platters</span></li>
+                        <li class="tab-btn" data-tab="#tab-3"><span>Sweet Endings</span></li>
+                        <li class="tab-btn" data-tab="#tab-4"><span>Beverages</span></li>
                     </ul>
                 </div>
                 <div class="tabs-content">
@@ -302,32 +301,32 @@
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish1.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Paneer Butter Masala</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹330</span></div></div>
-                                            <div class="text desc"><a href="#">Delicious paneer in rich butter masala sauce.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Royal Paneer Makhani</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹330</span></div></div>
+                                            <div class="text desc"><a href="#">Tender cottage cheese cubes in creamy tomato-butter gravy.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish2.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Khoya Paneer</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹350</span></div></div>
-                                            <div class="text desc"><a href="#">Creamy khoya paneer delicacy.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Khoya Malai Paneer</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹350</span></div></div>
+                                            <div class="text desc"><a href="#">Soft paneer in rich milk solids gravy with aromatic spices.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish3.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Paneer Do Pyaza</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹320</span></div></div>
-                                            <div class="text desc"><a href="#">Paneer with double onions.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Paneer Do Pyaza Awadhi</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹320</span></div></div>
+                                            <div class="text desc"><a href="#">Paneer cooked with caramelized onions in Awadhi style.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish4.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Paneer Pasanda</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹360</span></div></div>
-                                            <div class="text desc"><a href="#">Stuffed paneer in rich gravy.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Paneer Pasanda-e-Khas</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹360</span></div></div>
+                                            <div class="text desc"><a href="#">Paneer pockets stuffed with nuts and dried fruits.</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -348,32 +347,32 @@
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish1.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Fry</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹180</span></div></div>
-                                            <div class="text desc"><a href="#">Fried lentils.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Tadka Benares</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹180</span></div></div>
+                                            <div class="text desc"><a href="#">Mixed lentils tempered with garlic and traditional spices.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish2.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Tadka</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹220</span></div></div>
-                                            <div class="text desc"><a href="#">Lentils with tadka.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Makhani-e-Diwaan</a></h6></div> <span class="menu-list-line"> </span> <div class="price"><span>₹220</span></div></div>
+                                            <div class="text desc"><a href="#">Black lentils slow-cooked overnight with butter and cream.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish3.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Handi</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹250</span></div></div>
-                                            <div class="text desc"><a href="#">Lentils in handi.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Handi Rajasthani</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹250</span></div></div>
+                                            <div class="text desc"><a href="#">Rajasthani style lentils cooked in traditional clay pot.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish4.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Bukhara</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹340</span></div></div>
-                                            <div class="text desc"><a href="#">Bukhara style lentils.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Dal Bukhara Pukhtan</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹340</span></div></div>
+                                            <div class="text desc"><a href="#">Whole black lentils simmered with tomatoes and spices.</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -394,32 +393,32 @@
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish1.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Gulab Jamun 1 Pc.</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹45</span></div></div>
-                                            <div class="text desc"><a href="#">Sweet gulab jamun.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Gulab-e-Jamun Royal</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹45</span></div></div>
+                                            <div class="text desc"><a href="#">Milk dumplings soaked in rose-infused sugar syrup.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish2.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Rabdi</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹110</span></div></div>
-                                            <div class="text desc"><a href="#">Sweet rabdi.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Rabdi Malai Pista</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹110</span></div></div>
+                                            <div class="text desc"><a href="#">Thickened milk sweetened with pistachios and cardamom.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish3.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Kesar Kheer</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹110</span></div></div>
-                                            <div class="text desc"><a href="#">Saffron kheer.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Kesar Badam Kheer</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹110</span></div></div>
+                                            <div class="text desc"><a href="#">Rice pudding with saffron and almond flakes.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish4.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Vanilla Ice Cream</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹100</span></div></div>
-                                            <div class="text desc"><a href="#">Vanilla ice cream.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Kulfi-e-Diwaan</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹100</span></div></div>
+                                            <div class="text desc"><a href="#">Traditional Indian ice cream with pistachios and cardamom.</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -440,32 +439,32 @@
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish1.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Virgin Mojito</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹140</span></div></div>
-                                            <div class="text desc"><a href="#">Non-alcoholic mojito.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Mint Nimbu Pani</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹140</span></div></div>
+                                            <div class="text desc"><a href="#">Fresh mint and lemon drink with a hint of ginger.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish2.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Mint Mojito</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹160</span></div></div>
-                                            <div class="text desc"><a href="#">Mint flavored mojito.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Aam Panna Special</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹160</span></div></div>
+                                            <div class="text desc"><a href="#">Sweet and tangy raw mango drink with roasted cumin.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish3.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Blue Curacao</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹180</span></div></div>
-                                            <div class="text desc"><a href="#">Blue curacao drink.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Jaipuri Lassi</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹180</span></div></div>
+                                            <div class="text desc"><a href="#">Traditional yogurt drink with saffron and dry fruits.</a></div>
                                         </div>
                                     </div>
                                     <!--Block-->
                                     <div class="dish-block">
                                         <div class="inner-box">
                                             <div class="dish-image"><a href="#"><img src="images/resource/dish4.png" alt="image"></a></div>
-                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Pina Colada Sysal</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹200</span></div></div>
-                                            <div class="text desc"><a href="#">Pina colada drink.</a></div>
+                                            <div class="title clearfix"><div class="ttl clearfix"><h6><a href="#">Ananas Lassi</a></h6></div> <span class="menu-list-line"> </span>  <div class="price"><span>₹200</span></div></div>
+                                            <div class="text desc"><a href="#">Yogurt drink with pineapple and coconut flavors.</a></div>
                                         </div>
                                     </div>
                                     <div class="view-more-box">
@@ -489,7 +488,7 @@
             </div>
 
             <div class="open-timing">
-                <div class="hours">During winter daily from <span class="theme_color">7:00 pm</span> to <span class="theme_color">9:00 pm</span></div>
+                <div class="hours">We welcome you daily from <span class="theme_color">12:00 pm</span> to <span class="theme_color">11:00 pm</span></div>
                 <div class="link-box">
                     <a href="menu.php" class="theme-btn btn-style-two clearfix">
                         <span class="btn-wrap">
@@ -506,19 +505,19 @@
     <section class="why-us-two section-kt">
         <div class="auto-container">
             <div class="title-box centered">
-                <div class="subtitle"><span>why choose us</span></div>
-                <h2>Why Dine With Us</h2>
+                <div class="subtitle"><span>the diwaan difference</span></div>
+                <h2>Experience Our Excellence</h2>
             </div>
             <div class="row clearfix">
                 <!--Block-->
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
                         <div class="image-box">
-                            <img src="images/resource/why1.jpg" alt="Skilled Chef">
+                            <img src="images/home/diff-card-1.png" alt="Master Chefs">
                             <div class="image-frame"></div>
                         </div>
                         <div class="over-box">
-                            <h6>skilled chef</h6>
+                            <h6>master chefs</h6>
                         </div>
                     </div>
                 </div>
@@ -527,11 +526,11 @@
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
                         <div class="image-box">
-                            <img src="images/resource/why2.jpg" alt="Hygienic Food">
+                            <img src="images/home/diff-card-2.png" alt="Pure Ingredients">
                             <div class="image-frame"></div>
                         </div>
                         <div class="over-box">
-                            <h6>hygienic food</h6>
+                            <h6>pure ingredients</h6>
                         </div>
                     </div>
                 </div>
@@ -540,11 +539,11 @@
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
                         <div class="image-box">
-                            <img src="images/resource/why3.jpg" alt="Fresh Ambience">
+                            <img src="images/home/diff-card-3.png" alt="Royal Setting">
                             <div class="image-frame"></div>
                         </div>
                         <div class="over-box">
-                            <h6>Fresh ambience</h6>
+                            <h6>royal setting</h6>
                         </div>
                     </div>
                 </div>
@@ -553,11 +552,11 @@
                 <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="900ms">
                         <div class="image-box">
-                            <img src="images/resource/why4.jpg" alt="Secret Recipe">
+                            <img src="images/home/diff-card-4.png" alt="Heritage Recipes">
                             <div class="image-frame"></div>
                         </div>
                         <div class="over-box">
-                            <h6>secret recipe</h6>
+                            <h6>heritage recipes</h6>
                         </div>
                     </div>
                 </div>
@@ -569,29 +568,29 @@
                     <div class="fact-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner clearfix">
                             <div class="fact-count"><div class="count-box"><span class="count-text" data-stop="60" data-speed="2000">0</span><i>+</i></div></div>
-                            <div class="fact-title">monthly visitors</div>
-                            <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry has been. </p>
+                            <div class="fact-title">happy diners</div>
+                            <p> Families, tourists, and food lovers who return for our authentic flavors. </p>
                         </div>
                     </div>
                     <div class="fact-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner clearfix">
                             <div class="fact-count"><div class="count-box"><span class="count-text" data-stop="22" data-speed="1500">0</span><i>+</i></div></div>
-                            <div class="fact-title">positive reviews</div>
-                            <p> Simply dummy text of the printing and typesetting industry lorem Ipsum has been. </p>
+                            <div class="fact-title">guest reviews</div>
+                            <p> Guests who have experienced our royal hospitality and cuisine. </p>
                         </div>
                     </div>
                     <div class="fact-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner clearfix">
                             <div class="fact-count"><div class="count-box"><span class="count-text" data-stop="135" data-speed="1000">0</span><i>+</i></div></div>
-                            <div class="fact-title">secreat recipe</div>
-                            <p> Simply dummy text of the printing and typesetting lorem Ipsum has been industry. </p>
+                            <div class="fact-title">heritage dishes</div>
+                            <p> Authentic recipes passed down through generations of master chefs. </p>
                         </div>
                     </div>
                     <div class="fact-block col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner clearfix">
                             <div class="fact-count"><div class="count-box"><span class="count-text" data-stop="10" data-speed="1000">0</span><i>+</i></div></div>
-                            <div class="fact-title">award & honnors</div>
-                            <p> Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum. </p>
+                            <div class="fact-title">culinary awards</div>
+                            <p> Recognition for preserving and elevating India's culinary heritage. </p>
                         </div>
                     </div>
                 </div>
@@ -604,8 +603,8 @@
         <div class="auto-container">
             
             <div class="title-box centered">
-                <div class="subtitle"><span>testimonials</span></div>
-                <h2>What People Are Saying</h2>
+                <div class="subtitle"><span>guest experiences</span></div>
+                <h2>Voices From Our Diwaan</h2>
             </div>
             <div class="carousel-box">
                 <div class="testimonial-slider owl-theme owl-carousel">
@@ -613,10 +612,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">A perfect blend of mouthwatering dishes, warm atmosphere, and outstanding service. Every meal feels like a special occasion worth savoring!</div>
+                            <div class="text">The butter chicken transported me back to my grandmother's kitchen in Delhi. The ambiance perfectly captures India's royal heritage with modern comfort.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-4.jpg" alt="image"></div>
-                                <div class="auth-title">willium joe -<span class="location">New York</span> </div>
+                                <div class="auth-title">Priya Sharma -<span class="location">New Delhi</span> </div>
                             </div>
                         </div>
                     </div>
@@ -625,10 +624,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">Every visit is a flavorful journey! Delicious food, elegant ambiance, and welcoming staff make this restaurant a true dining destination.</div>
+                            <div class="text">As a tourist visiting Agra, Diwaan was the culinary highlight of my trip. The Mughlai dishes were authentic yet presented with contemporary elegance.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-5.jpg" alt="image"></div>
-                                <div class="auth-title">Theresa Tin -<span class="location"> Chicago</span> </div>
+                                <div class="auth-title">James Wilson -<span class="location"> London</span> </div>
                             </div>
                         </div>
                     </div>
@@ -637,10 +636,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">From appetizers to desserts, every bite bursts with perfection. A cozy atmosphere and exceptional service make each visit unforgettable.</div>
+                            <div class="text">The South Indian thali was exceptional - each dish had its distinct flavor profile yet harmonized beautifully. The service was attentive without being intrusive.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-6.jpg" alt="image"></div>
-                                <div class="auth-title">Michel Byrd -<span class="location"> New York</span> </div>
+                                <div class="auth-title">Anand Kumar -<span class="location"> Bangalore</span> </div>
                             </div>
                         </div>
                     </div>
@@ -649,10 +648,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">The taste of food was really amazing, Wow ! outstanding dinner made by Mater chef John Rute, I never forget this delicious food experience.</div>
+                            <div class="text">Our family celebration at Diwaan was perfect. The kids enjoyed the mild flavors while adults savored the authentic spices. The staff made us feel truly special.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-4.jpg" alt="image"></div>
-                                <div class="auth-title">willium joe -<span class="location"> New York</span></div>
+                                <div class="auth-title">Meera Patel -<span class="location"> Mumbai</span></div>
                             </div>
                         </div>
                     </div>
@@ -661,10 +660,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">Hygienic food & fresh enviroment, everyone had a wonderful delite experience. It was FABULOUS! great experience at The Italian gourmet.</div>
+                            <div class="text">The Dal Bukhara rivals what I've tasted in Delhi's finest restaurants. The attention to detail in both food and presentation shows true culinary passion.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-5.jpg" alt="image"></div>
-                                <div class="auth-title">Theresa Tin -<span class="location"> Chicago</span></div>
+                                <div class="auth-title">Rohit Verma -<span class="location"> Gurgaon</span></div>
                             </div>
                         </div>
                     </div>
@@ -673,10 +672,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">Special treat to dine, It was wow experience food was really delicious! outstanding dinner made by Mater chef, food experience was unfogetable!</div>
+                            <div class="text">As a food blogger, I'm impressed by how Diwaan maintains authenticity while appealing to international palates. The fusion of North and South cuisines is masterful.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-6.jpg" alt="image"></div>
-                                <div class="auth-title">Michel Byrd -<span class="location"> Denmark</span></div>
+                                <div class="auth-title">Sophie Chen -<span class="location"> Singapore</span></div>
                             </div>
                         </div>
                     </div>
@@ -694,12 +693,12 @@
                     <div class="reserv-col col-lg-6 col-md-12 col-sm-12">
                         <div class="inner">
                             <div class="title-box centered">
-                                <div class="subtitle"><span>Online reservation</span></div>
-                                <h2>Book A Table</h2>
-                                <div class="request-info">Booking request <a href="#">+88-123-123456</a> or fill out the order form</div>
+                                <div class="subtitle"><span>reserve your experience</span></div>
+                                <h2>Reserve Your Royal Feast</h2>
+                                <div class="request-info">For reservations call <a href="#">+91-987-6543210</a> or complete the form below</div>
                             </div>
                             <div class="default-form reservation-form">
-                                <form method="post" action="https://kalanidhithemes.com/live-preview/landing-page/Diwaan/all-demo/Diwaan-2-Standard-Hero/index.html">
+                                <form method="post" action=" ">
                                     <div class="row clearfix">
                                         <div class="form-group col-lg-6 col-md-6 col-sm-12">
                                             <div class="field-inner">
@@ -780,8 +779,8 @@
                     </div>
                     <div class="graphic-col col-lg-6 col-md-12 col-sm-12">
                         <div class="inner">
-                            <div class="graphic-layer" style="background-image: url(images/background/reservation-bg.jpg);"></div>
-                            <div class="image"><img src="images/background/reservation-bg.jpg" alt="image"></div>
+                            <div class="graphic-layer" style="background-image: url(images/home/book-side.png);"></div>
+                            <div class="image"><img src="images/home/book-side.png" alt="image"></div>
 
                         </div>
                     </div>
@@ -795,19 +794,19 @@
     <section class="news-section section-kt">
         <div class="auto-container">
             <div class="title-box centered">
-                <div class="subtitle"><span>recent updates</span></div>
-                <h2>Latest Blog Post</h2>
+                <div class="subtitle"><span>culinary stories</span></div>
+                <h2>Flavors of India</h2>
             </div>
             <div class="row justify-content-center clearfix">
                 <!--Block-->
                 <div class="news-block col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
                         <div class="image-box">
-                            <div class="image rounded"><a href="blog-single-post.html"><img src="images/resource/news-2.jpg" alt="image"></a></div>
+                            <div class="image "><a href="blog-single-post.html"><img src="images/home/Blog-1-thumb.png" alt="image"></a></div>
                             <div class="over-content">
                                 <div class="date">30 <span>May | 2025</span></div>
-                                <div class="cat">Food, flavour</div>
-                                <h4><a href="blog-single-post.html">So yummy, tasty, you'll eat with your eyes.</a></h4>
+                                <div class="cat">Mughlai Heritage</div>
+                                <h4><a href="blog-single-post.html">The Royal Legacy of Awadhi Cuisine</a></h4>
                             </div>
                         </div>
                     </div>
@@ -818,11 +817,11 @@
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
                         <div class="image-box">
                             
-                            <div class="image"><a href="blog-single-post.html"><img src="images/resource/news-1.jpg" alt="image"></a></div>
+                            <div class="image"><a href="blog-single-post.html"><img src="images/home/Blog-2-thumb.png" alt="image"></a></div>
                             <div class="over-content">
                                 <div class="date">25 <span>May | 2025</span></div>
-                                <div class="cat">healthy food</div>
-                                <h4><a href="blog-single-post.html">Chef’s signature for refined tastes ever.</a></h4>
+                                <div class="cat">South Indian Delights</div>
+                                <h4><a href="blog-single-post.html">Exploring the Diversity of South Indian Thalis</a></h4>
                             </div>
                         </div>
                     </div>
@@ -832,11 +831,11 @@
                 <div class="news-block col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
                         <div class="image-box">
-                            <div class="image rounded"><a href="blog-single-post.html"><img src="images/resource/news-3.jpg" alt="image"></a></div>
+                            <div class="image "><a href="blog-single-post.html"><img src="images/home/Blog-3-thumb.png" alt="image"></a></div>
                             <div class="over-content">
                                 <div class="date">18 <span>May | 2025</span></div>
-                                <div class="cat">recipie</div>
-                                <h4><a href="blog-single-post.html">Experience gourmet art and ambience.</a></h4>
+                                <div class="cat">Chef's Secrets</div>
+                                <h4><a href="blog-single-post.html">The Art of Perfect Tandoor Cooking</a></h4>
                             </div>
                         </div>
                     </div>
@@ -861,29 +860,29 @@
         <div class="carousel-box">
             <div class="auto-container">
                 <div class="title-box centered">
-                    <div class="subtitle"><span>Gallery</span></div>
-                    <h2>Diwaan Gallery</h2>
+                    <div class="subtitle"><span>visual journey</span></div>
+                    <h2>Our Culinary Showcase</h2>
                 </div>
 
                 <div class="image-gallery-slider owl-theme owl-carousel">
                     <!--Slide Item-->
                     <div class="gallery-block">
-                        <div class="image"><a href="images/gallery/gallery-1-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-1-sm.jpg" alt="image"></a></div>
+                        <div class="image"><a href="images/gallery/g-1.JPG" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/g-1.JPG" alt="image"></a></div>
                     </div>
 
                     <!--Slide Item-->
                     <div class="gallery-block">
-                        <div class="image"><a href="images/gallery/gallery-2-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-2-sm.jpg" alt="image"></a></div>
+                        <div class="image"><a href="images/gallery/g-2.JPG" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/g-2.JPG" alt="image"></a></div>
                     </div>
 
                     <!--Slide Item-->
                     <div class="gallery-block">
-                        <div class="image"><a href="images/gallery/gallery-3-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-3-sm.jpg" alt="image"></a></div>
+                        <div class="image"><a href="images/gallery/g-3.JPG" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/g-3.JPG" alt="image"></a></div>
                     </div>
 
                     <!--Slide Item-->
                     <div class="gallery-block">
-                        <div class="image"><a href="images/gallery/gallery-4-big.jpg" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/gallery-4-sm.jpg" alt="image"></a></div>
+                        <div class="image"><a href="images/gallery/g-4.JPG" class="lightbox-image" data-fancybox="gallery"><img src="images/gallery/g-4.JPG" alt="image"></a></div>
                     </div>
 
                     

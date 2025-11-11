@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -28,8 +27,8 @@
         <div class="image-layer" style="background-image: url(images/background/banner-image-6.jpg);"></div>
         <div class="auto-container">
             <div class="inner">
-                <h1>Testimonials</h1>
-                <div class="sub_text"> <p> A taste of perfection in every dish - <span class="primary-color"> fine dining with a modern twist.</span></p> </div>
+                <h1>Guest Experiences</h1>
+                <div class="sub_text"> <p> Voices from our royal dining hall - <span class="primary-color"> where tradition meets excellence.</span></p> </div>
             </div>
         </div>
     </section>
@@ -55,10 +54,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">A perfect blend of mouthwatering dishes, a warm and inviting atmosphere, and outstanding service that leaves a lasting impression. Every meal here feels like a special occasion—an experience to be cherished after the last bite!</div>
+                            <div class="text">The butter chicken transported me back to my grandmother's kitchen in Delhi. The ambiance perfectly captures India's royal heritage with modern comfort.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-1.jpg" alt="image"></div>
-                                <div class="auth-title">willium joe -<span class="location">New York</span> </div>
+                                <div class="auth-title">Priya Sharma -<span class="location">New Delhi</span> </div>
                             </div>
                         </div>
                     </div>
@@ -67,10 +66,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">Every visit is a flavorful journey! Delicious food, elegant ambiance, and welcoming staff make this restaurant a true dining destination.</div>
+                            <div class="text">As a tourist visiting Agra, Diwaan was the culinary highlight of my trip. The Mughlai dishes were authentic yet presented with contemporary elegance.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-2.jpg" alt="image"></div>
-                                <div class="auth-title">Theresa Tin -<span class="location"> Chicago</span> </div>
+                                <div class="auth-title">James Wilson -<span class="location"> London</span> </div>
                             </div>
                         </div>
                     </div>
@@ -79,10 +78,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">From appetizers to desserts, every bite bursts with perfection. A cozy atmosphere and exceptional service make each visit unforgettable.</div>
+                            <div class="text">The South Indian thali was exceptional - each dish had its distinct flavor profile yet harmonized beautifully. The service was attentive without being intrusive.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-3.jpg" alt="image"></div>
-                                <div class="auth-title">Michel Byrd -<span class="location"> New York</span> </div>
+                                <div class="auth-title">Anand Kumar -<span class="location"> Bangalore</span> </div>
                             </div>
                         </div>
                     </div>
@@ -91,10 +90,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">The taste of food was really amazing, Wow ! outstanding dinner made by Mater chef John Rute, I never forget this delicious food experience.</div>
+                            <div class="text">Our family celebration at Diwaan was perfect. The kids enjoyed the mild flavors while adults savored the authentic spices. The staff made us feel truly special.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-4.jpg" alt="image"></div>
-                                <div class="auth-title">willium joe -<span class="location"> New York</span></div>
+                                <div class="auth-title">Meera Patel -<span class="location"> Mumbai</span> </div>
                             </div>
                         </div>
                     </div>
@@ -103,10 +102,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">Hygienic food & fresh enviroment, everyone had a wonderful delite experience. It was FABULOUS! great experience at The Italian gourmet.</div>
+                            <div class="text">The Dal Bukhara rivals what I've tasted in Delhi's finest restaurants. The attention to detail in both food and presentation shows true culinary passion.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-5.jpg" alt="image"></div>
-                                <div class="auth-title">Theresa Tin -<span class="location"> Chicago</span></div>
+                                <div class="auth-title">Rohit Verma -<span class="location"> Gurgaon</span> </div>
                             </div>
                         </div>
                     </div>
@@ -115,10 +114,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">A special treat to dine – it was truly a ‘wow’ experience! The food was incredibly delicious, leaving every taste bud satisfied. An outstanding dinner crafted by a master chef, turning the evening into a culinary celebration. The entire food experience was simply unforgettable – one that will be cherished for a long time!</div>
+                            <div class="text">As a food blogger, I'm impressed by how Diwaan maintains authenticity while appealing to international palates. The fusion of North and South cuisines is masterful.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-6.jpg" alt="image"></div>
-                                <div class="auth-title">Michel Byrd -<span class="location"> Denmark</span></div>
+                                <div class="auth-title">Sophie Chen -<span class="location"> Singapore</span> </div>
                             </div>
                         </div>
                     </div>
@@ -127,10 +126,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">A perfect blend of mouthwatering dishes, a warm and inviting atmosphere, and outstanding service that leaves a lasting impression. Every meal here feels like a special occasion—an experience to be cherished after the last bite!</div>
+                            <div class="text">The tandoori platter was a revelation - perfectly charred on the outside, tender and juicy inside. The mint chutney was the perfect complement to the smoky flavors.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-1.jpg" alt="image"></div>
-                                <div class="auth-title">willium joe -<span class="location">New York</span> </div>
+                                <div class="auth-title">Amit Singh -<span class="location"> Jaipur</span> </div>
                             </div>
                         </div>
                     </div>
@@ -139,10 +138,10 @@
                     <div class="testi-block">
                         <div class="inner-box">
                             <div class="rating"><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span></div>
-                            <div class="text">Every visit is a flavorful journey! Delicious food, elegant ambiance, and welcoming staff make this restaurant a true dining destination.</div>
+                            <div class="text">The biryani at Diwaan is unlike any other - fragrant with saffron and perfectly balanced spices. Each grain of rice was separate yet infused with flavor.</div>
                             <div class="auth-info">
                                 <div class="image"><img src="images/resource/author-thumb-2.jpg" alt="image"></div>
-                                <div class="auth-title">Theresa Tin -<span class="location"> Chicago</span> </div>
+                                <div class="auth-title">Fatima Begum -<span class="location"> Hyderabad</span> </div>
                             </div>
                         </div>
                     </div>
@@ -162,5 +161,4 @@
 <?php include'components/script.php'?>
 </body>
 
-<!-- Mirrored from kalanidhithemes.com/live-preview/landing-page/Diwaan/all-demo/Diwaan-2-Standard-Hero/testimonial.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 03 Nov 2025 09:22:53 GMT -->
 </html>
