@@ -106,6 +106,14 @@
         </div>
     </div>
 
+<!-- WhatsApp Fixed Icon -->
+<div class="whatsapp-fixed d-flex flex-column justify-content-center align-items-center ">
+    <a href="https://wa.me/917838886804" target="_blank" aria-label="Contact us on WhatsApp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+    <span class=" ">Chat with us</span>
+</div>
+
 </footer>
 
 <style>
@@ -595,6 +603,54 @@
     .contact-item i,
     .specialty-tag {
         filter: brightness(1.5);
+    }
+}
+
+/* WhatsApp Fixed Icon Styles */
+.whatsapp-fixed {
+    position: fixed;
+    bottom: 90px; /* Above scroll-to-top */
+    right: 20px;
+    z-index: 1000;
+}
+
+.whatsapp-fixed a {
+    display: block;
+    width: 60px;
+    height: 60px;
+    background: var(--main-color);
+    border-radius: 50%;
+    text-align: center;
+    line-height: 60px;
+    color: var(--color-two);
+    font-size: 24px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.whatsapp-fixed a:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+}
+
+.whatsapp-fixed a:focus {
+    outline: 2px solid var(--main-color);
+    outline-offset: 2px;
+}
+
+/* Responsive for mobile */
+@media (max-width: 768px) {
+    .whatsapp-fixed {
+        bottom: 80px;
+        right: 15px;
+    }
+
+    .whatsapp-fixed a {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 20px;
     }
 }
 </style>

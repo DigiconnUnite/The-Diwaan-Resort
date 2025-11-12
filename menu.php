@@ -35,6 +35,32 @@
             </div>
         </section>
         <!--End Banner Section -->
+        <!-- Search Ribbon -->
+        <section class="search-ribbon">
+            <div class="auto-container">
+                <div class="search-container">
+                    <div class="filter-box">
+                        <select id="category-filter">
+                            <option value="all">All Categories</option>
+                        </select>
+                        <span class="arrow-icon far fa-angle-down"></span>
+                    </div>
+                    <div class="item-count specialty-tag">
+                        Total Items: <span id="total-items">0</span>
+                    </div>
+                    <div class="search-box">
+                        <input type="text" id="menu-search" placeholder="Search menu items..." />
+                        <button type="button" id="search-btn" class="theme-btn btn-style-one"> 
+                                    <span class="btn-wrap">
+                                        <span class="text-one"><i class="fas fa-utensils"></i>&nbsp;Search</span>
+                                        <span class="text-two"><i class="fas fa-utensils"></i>&nbsp;Search</span>
+                                    </span>
+                                </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Search Ribbon -->
 
         <!-- Paneer -->
         <section class="special-offer-two section-kt">

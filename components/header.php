@@ -107,7 +107,7 @@
         <!-- Hidden Bar Wrapper -->
         <div class="inner-box">
             <div class="cross-icon hidden-bar-closer"><span class="far fa-close"></span></div>
-            <div class="logo-box"><a href="index.html" title="Diwaan - Restaurants HTML Template"><img src="images/diwaan-small-logo.png" alt="image" title="Diwaan - Restaurants HTML Template"></a></div>
+            <div class="logo-box"><a href="index.html" title="Diwaan - Restaurants HTML Template"><img src="images/diwaan-logo.png" alt="image" title="Diwaan - Restaurants HTML Template"></a></div>
             
             <!-- .Side-menu -->
             <div class="side-menu">

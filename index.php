@@ -50,7 +50,7 @@
           <span class="line"></span>
         </div>
 
-        <div class="swiper banner-slider">
+        <div class="swiper banner-slider">  
             <div class="swiper-wrapper">
                 <div class="swiper-slide slide-item">
                     <div class="image-layer" style="background: linear-gradient(to bottom, rgba(0,0,0,0.7), transparent), url(images/main-slider/hero-img.png); background-position: center center; background-size: cover; transition: all 1s ease;"></div>
@@ -917,10 +917,6 @@
 
 </div>
 <!--End pagewrapper--> 
-
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
-
 
 <?php include 'components/script.php' ?>
 

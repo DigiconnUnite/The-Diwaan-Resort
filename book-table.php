@@ -181,9 +181,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
    </div>
 </div>
 
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
-
 
 <?php include'components/script.php'?>
 

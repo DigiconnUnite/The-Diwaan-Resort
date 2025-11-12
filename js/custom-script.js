@@ -567,6 +567,72 @@
         $(this).parent("li").removeClass("current");
       }
     });
+  // Menu Search and Filter Functionality
+  function menuSearch() {
+    var searchInput = $('#menu-search');
+    var searchBtn = $('#search-btn');
+    var categoryFilter = $('#category-filter');
+
+    // Populate category filter
+    $('.special-offer-two.section-kt').each(function() {
+      var categoryName = $(this).find('h2').text();
+      if (categoryName) {
+        categoryFilter.append('<option value="' + categoryName.toLowerCase().replace(/\s+/g, '-') + '">' + categoryName + '</option>');
+      }
+    });
+
+    // Initial count
+    updateItemCount();
+
+    function updateItemCount() {
+      var totalVisible = $('.offer-block-three:visible').length;
+      $('#total-items').text(totalVisible);
+    }
+
+    function performFilter() {
+      var selectedCategory = categoryFilter.val();
+      $('.special-offer-two.section-kt').each(function() {
+        var sectionCategory = $(this).find('h2').text().toLowerCase().replace(/\s+/g, '-');
+        if (selectedCategory === 'all' || sectionCategory === selectedCategory) {
+          $(this).show();
+        } else {
+          $(this).hide();
+        }
+      });
+      performSearch(); // Apply search after filtering
+    }
+
+    function performSearch() {
+      var searchTerm = searchInput.val().toLowerCase();
+      $('.special-offer-two.section-kt:visible .offer-block-three').each(function() {
+        var itemName = $(this).find('h5 a').text().toLowerCase();
+        var itemDesc = $(this).find('.desc').text().toLowerCase();
+        if (itemName.includes(searchTerm) || itemDesc.includes(searchTerm)) {
+          $(this).show();
+        } else {
+          $(this).hide();
+        }
+      });
+
+      // Hide sections that have no visible items after search
+      $('.special-offer-two.section-kt:visible').each(function() {
+        var visibleItems = $(this).find('.offer-block-three:visible').length;
+        if (visibleItems === 0) {
+          $(this).hide();
+        } else {
+          $(this).show();
+        }
+      });
+
+      updateItemCount();
+    }
+
+    categoryFilter.on('change', performFilter);
+    searchInput.on('keyup', performSearch);
+    searchBtn.on('click', performSearch);
+  }
+
+  menuSearch();
   });
 
   /* ==========================================================================

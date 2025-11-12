@@ -917,7 +917,6 @@ body.visible-sidebar{
 .hidden-bar .inner-box .logo-box{
   position:relative;
   line-height: 50px;
-  margin-bottom: 60px;
   padding-left: 30px;
   padding-right: 30px;
   text-align: center;
@@ -7733,3 +7732,114 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
     width: 100%;
   }
 }
+/*** Search Ribbon Styles ***/
+
+.search-ribbon{
+    position: relative;
+    background: var(--color-two);
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(230,177,95,0.4);
+}
+
+.search-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filter-box{
+    position: relative;
+    display: inline-block;
+}
+
+.filter-box select{
+    padding: 10px 40px 10px 15px;
+    border: 1px solid var(--main-color);
+    border-radius: 5px;
+    background: rgba(255,255,255,0.1);
+    color: var(--white-color);
+    font-weight: 600;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+    width: 200px;
+}
+
+.filter-box select option{
+    background: var(--color-two);
+    color: var(--white-color);
+    padding: 10px;
+}
+
+.filter-box .arrow-icon{
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--main-color);
+    pointer-events: none;
+}
+
+.item-count{
+    color: var(--white-color);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+/* Responsive adjustments for search ribbon */
+@media (max-width: 768px) {
+    .search-container {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 15px;
+    }
+
+    .filter-box select {
+        width: 100%;
+    }
+
+    .search-box {
+        width: 100%;
+    }
+
+    .item-count {
+        text-align: center;
+        font-size: 16px;
+    }
+}
+
+.search-box{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+}
+
+.search-box input{
+    padding: 10px;
+    border: 1px solid var(--main-color);
+    border-radius: 10px;
+    background: rgba(255,255,255,0.1);
+    color: var(--white-color);
+    width: 250px;
+}
+
+.search-box input::placeholder{
+    color: var(--color-three);
+}
+
+/* .search-box button{
+    padding: 10px 20px;
+    background: var(--main-color);
+    color: var(--color-one);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.search-box button:hover{
+    background: var(--white-color);
+    color: var(--main-color);
+} */
