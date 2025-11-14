@@ -23,7 +23,7 @@
 
     <!-- Inner Banner Section -->
     <section class="inner-banner">
-      <div class="image-layer" style="background-image: url(images/main-slider/hero-img.png);"></div>
+      <div class="image-layer" style="background-image: url(images/main-slider/hero-img.webp);"></div>
       <div class="auto-container">
         <div class="inner">
           <h1>Blog</h1>
@@ -48,7 +48,7 @@
               <!-- Blog post -->
               <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
                 <div class="main_img">
-                  <a href="blog-single-post.php"><img src="images/resource/blog-list-1.jpg" alt="image"></a>
+                  <a href="blog-single-post.php"><img src="images/resource/blog-list-1.webp" alt="image"></a>
                 </div>
                 <div class="blog_info">
                   <ul>
@@ -74,7 +74,7 @@
               <!-- Blog post -->
               <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
                 <div class="main_img">
-                  <a href="blog-single-post.php"><img src="images/resource/blog-list-2.jpg" alt="image"></a>
+                  <a href="blog-single-post.php"><img src="images/resource/blog-list-2.webp" alt="image"></a>
                 </div>
                 <div class="blog_info">
                   <ul>
@@ -100,7 +100,7 @@
               <!-- Blog post -->
               <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
                 <div class="main_img">
-                  <a href="blog-single-post.php"><img src="images/resource/blog-list-3.jpg" alt="image"></a>
+                  <a href="blog-single-post.php"><img src="images/resource/blog-list-3.webp" alt="image"></a>
                 </div>
                 <div class="blog_info">
                   <ul>
@@ -126,7 +126,7 @@
               <!-- Blog post -->
               <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
                 <div class="main_img">
-                  <a href="blog-single-post.php"><img src="images/resource/blog-list-4.jpg" alt="image"></a>
+                  <a href="blog-single-post.php"><img src="images/resource/blog-list-4.webp" alt="image"></a>
                 </div>
                 <div class="blog_info">
                   <ul>
@@ -173,7 +173,7 @@
                   <li>
                     <a href="blog-single-post.php">
                       <div class="img">
-                        <img src="images/resource/blog-recent-1.jpg" alt="image">
+                        <img src="images/resource/blog-recent-1.webp" alt="image">
                       </div>
                       <div class="text">
                         <p>An Elegant Culinary Journey Through Artfully Crafted Dishes</p>
@@ -184,7 +184,7 @@
                   <li>
                     <a href="blog-single-post.php">
                       <div class="img">
-                        <img src="images/resource/blog-recent-2.jpg" alt="image">
+                        <img src="images/resource/blog-recent-2.webp" alt="image">
                       </div>
                       <div class="text">
                         <p>Luxury Dining Redefined: Where Taste Meets Sophistication</p>
@@ -195,7 +195,7 @@
                   <li>
                     <a href="blog-single-post.php">
                       <div class="img">
-                        <img src="images/resource/blog-recent-3.jpg" alt="image">
+                        <img src="images/resource/blog-recent-3.webp" alt="image">
                       </div>
                       <div class="text">
                         <p>Chef’s Signature Creations for the Discerning Palate</p>
@@ -206,7 +206,7 @@
                   <li>
                     <a href="blog-single-post.php">
                       <div class="img">
-                        <img src="images/resource/blog-recent-4.jpg" alt="image">
+                        <img src="images/resource/blog-recent-4.webp" alt="image">
                       </div>
                       <div class="text">
                         <p>Discover the Art of Gourmet Excellence and Ambience</p>

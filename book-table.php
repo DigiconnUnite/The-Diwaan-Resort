@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         <!--Reservation Section-->
         <section class="reserve-section style-two reserve-page section-kt">
-            <div class="image-layer" style="background-image: url(images/background/banner-menu.png);"></div>
+            <div class="image-layer" style="background-image: url(images/background/banner-menu.webp);"></div>
             <div class="auto-container">
                 <div class="outer-box">
                     <div class="row clearfix">
