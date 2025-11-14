@@ -5074,7 +5074,7 @@ footer .bottom_footer .social_media li a:hover {
 .inner-banner .inner{
   position: relative;
   display: block;
-  max-width: 800px;
+  max-width: 1000px;
   width: 100%;
   margin: 0 auto;
   text-align: center;
@@ -7738,13 +7738,14 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
     position: relative;
     background: var(--color-two);
     padding: 20px 0;
-    border-bottom: 1px solid rgba(230,177,95,0.4);
+    border-bottom: 1px solid rgba(230, 95, 115, 0.4);
 }
 
 .search-container{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    /* margin-left: 3rem; */
 }
 
 .filter-box{
@@ -7812,7 +7813,7 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
 .search-box{
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 20px;
     border-radius: 10px;
 }
 

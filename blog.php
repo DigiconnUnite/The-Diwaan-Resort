@@ -1,12 +1,11 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-<meta charset="utf-8">
-<title>The Diwaan Restaurant - Blog</title>
-<!-- Stylesheets -->
-   <?php include 'components/links.php' ?>
+  <meta charset="utf-8">
+  <title>The Diwaan Restaurant - Blog</title>
+  <!-- Stylesheets -->
+  <?php include 'components/links.php' ?>
 
 </head>
 
@@ -24,13 +23,17 @@
 
     <!-- Inner Banner Section -->
     <section class="inner-banner">
-        <div class="image-layer" style="background-image: url(images/background/banner-about.png);"></div>
-        <div class="auto-container">
-            <div class="inner">
-                <h1>Blog</h1>
-                <div class="sub_text"> <p> A taste of perfection in every dish - <span class="primary-color"> fine dining with a modern twist.</span></p> </div>
-            </div>
+      <div class="image-layer" style="background-image: url(images/main-slider/hero-img.png);"></div>
+      <div class="auto-container">
+        <div class="inner">
+          <h1>Blog</h1>
+          <div class="sub_text">
+            <p> Discover the stories behind our royal flavors in The Diwaan Blog — <span class="primary-color"> where
+                tradition, taste, and culinary artistry come
+                alive.</span></p>
+          </div>
         </div>
+      </div>
     </section>
     <!--End Banner Section -->
 
@@ -38,105 +41,113 @@
     <section class="blog_list_section section-kt">
       <div class="auto-container">
         <div class="row">
-            <!-- Blog Left Side -->            
+          <!-- Blog Left Side -->
           <div class="col-lg-8">
             <div class="blog_left_side">
 
-                <!-- Blog post -->
-                <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
-                    <div class="main_img">
-                        <a href="blog-single-post.php"><img src="images/resource/blog-list-1.jpg" alt="image"></a>
-                    </div>
-                    <div class="blog_info">
-                        <ul>
-                            <li> 10 July, 2025 </li>
-                            <li> By: Admin </li>
-                            <li> <a href="#"> Food Story </a> </li>
-                        </ul>
-                        <h4><a href="blog-single-post.php">An Elegant Journey of Crafted Cuisine</a></h4>
-                        <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-                        <div class="link-box">
-                            <a href="blog-single-post.php" class="theme-btn btn-style-two clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one">read more</span>
-                                    <span class="text-two">read more</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
+              <!-- Blog post -->
+              <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
+                <div class="main_img">
+                  <a href="blog-single-post.php"><img src="images/resource/blog-list-1.jpg" alt="image"></a>
                 </div>
+                <div class="blog_info">
+                  <ul>
+                    <li> 10 July, 2025 </li>
+                    <li> By: Admin </li>
+                    <li> <a href="#"> Food Story </a> </li>
+                  </ul>
+                  <h4><a href="blog-single-post.php">An Elegant Journey of Crafted Cuisine</a></h4>
+                  <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an
+                    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived
+                    not only five centuries, but also the leap into electronic typesetting.</p>
+                  <div class="link-box">
+                    <a href="blog-single-post.php" class="theme-btn btn-style-two clearfix">
+                      <span class="btn-wrap">
+                        <span class="text-one">read more</span>
+                        <span class="text-two">read more</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
 
-                <!-- Blog post -->
-                <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
-                    <div class="main_img">
-                        <a href="blog-single-post.php"><img src="images/resource/blog-list-2.jpg" alt="image"></a>
-                    </div>
-                    <div class="blog_info">
-                        <ul>
-                            <li> 05 July, 2025 </li>
-                            <li> By: Admin </li>
-                            <li> <a href="#"> Recipes </a> </li>
-                        </ul>
-                        <h4><a href="blog-single-post.php">Experience Gourmet Art and Ambience</a></h4>
-                        <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-                        <div class="link-box">
-                            <a href="blog-single-post.php" class="theme-btn btn-style-two clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one">read more</span>
-                                    <span class="text-two">read more</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
+              <!-- Blog post -->
+              <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
+                <div class="main_img">
+                  <a href="blog-single-post.php"><img src="images/resource/blog-list-2.jpg" alt="image"></a>
                 </div>
+                <div class="blog_info">
+                  <ul>
+                    <li> 05 July, 2025 </li>
+                    <li> By: Admin </li>
+                    <li> <a href="#"> Recipes </a> </li>
+                  </ul>
+                  <h4><a href="blog-single-post.php">Experience Gourmet Art and Ambience</a></h4>
+                  <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an
+                    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived
+                    not only five centuries, but also the leap into electronic typesetting.</p>
+                  <div class="link-box">
+                    <a href="blog-single-post.php" class="theme-btn btn-style-two clearfix">
+                      <span class="btn-wrap">
+                        <span class="text-one">read more</span>
+                        <span class="text-two">read more</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
 
-                <!-- Blog post -->
-                <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
-                    <div class="main_img">
-                        <a href="blog-single-post.php"><img src="images/resource/blog-list-3.jpg" alt="image"></a>
-                    </div>
-                    <div class="blog_info">
-                        <ul>
-                            <li> 25 June, 2025</li>
-                            <li> By: Admin </li>
-                            <li> <a href="#"> Event </a> </li>
-                        </ul>
-                        <h4><a href="blog-single-post.php">A Tasteful Journey Through Artful Dishes</a></h4>
-                        <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-                        <div class="link-box">
-                            <a href="blog-single-post.php" class="theme-btn btn-style-two clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one">read more</span>
-                                    <span class="text-two">read more</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
+              <!-- Blog post -->
+              <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
+                <div class="main_img">
+                  <a href="blog-single-post.php"><img src="images/resource/blog-list-3.jpg" alt="image"></a>
                 </div>
+                <div class="blog_info">
+                  <ul>
+                    <li> 25 June, 2025</li>
+                    <li> By: Admin </li>
+                    <li> <a href="#"> Event </a> </li>
+                  </ul>
+                  <h4><a href="blog-single-post.php">A Tasteful Journey Through Artful Dishes</a></h4>
+                  <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an
+                    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived
+                    not only five centuries, but also the leap into electronic typesetting.</p>
+                  <div class="link-box">
+                    <a href="blog-single-post.php" class="theme-btn btn-style-two clearfix">
+                      <span class="btn-wrap">
+                        <span class="text-one">read more</span>
+                        <span class="text-two">read more</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
 
-                <!-- Blog post -->
-                <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
-                    <div class="main_img">
-                        <a href="blog-single-post.php"><img src="images/resource/blog-list-4.jpg" alt="image"></a>
-                    </div>
-                    <div class="blog_info">
-                        <ul>
-                            <li> 23 June, 2025 </li>
-                            <li> By: Admin </li>
-                            <li> <a href="#"> Restaurant </a> </li>
-                        </ul>
-                        <h4><a href="blog-single-post.php">Savor Elegance, One Dish at a Time.</a></h4>
-                        <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-                        <div class="link-box">
-                            <a href="blog-single-post.php" class="theme-btn btn-style-two clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one">read more</span>
-                                    <span class="text-two">read more</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
+              <!-- Blog post -->
+              <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
+                <div class="main_img">
+                  <a href="blog-single-post.php"><img src="images/resource/blog-list-4.jpg" alt="image"></a>
                 </div>
+                <div class="blog_info">
+                  <ul>
+                    <li> 23 June, 2025 </li>
+                    <li> By: Admin </li>
+                    <li> <a href="#"> Restaurant </a> </li>
+                  </ul>
+                  <h4><a href="blog-single-post.php">Savor Elegance, One Dish at a Time.</a></h4>
+                  <p>Lorem Ipsum has been the indu has been the industrys standard dummy text ever since the when an
+                    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived
+                    not only five centuries, but also the leap into electronic typesetting.</p>
+                  <div class="link-box">
+                    <a href="blog-single-post.php" class="theme-btn btn-style-two clearfix">
+                      <span class="btn-wrap">
+                        <span class="text-one">read more</span>
+                        <span class="text-two">read more</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -145,7 +156,8 @@
             <div class="blog_right_side">
               <!-- Search Blog -->
               <div class="blog_search_block bg_box" data-aos="fade-up" data-aos-duration="1500">
-                <form action="https://kalanidhithemes.com/live-preview/landing-page/Diwaan/all-demo/Diwaan-2-Standard-Hero/submit">
+                <form
+                  action="https://kalanidhithemes.com/live-preview/landing-page/Diwaan/all-demo/Diwaan-2-Standard-Hero/submit">
                   <div class="form-group">
                     <div class="form_inner">
                       <input type="text" class="form-control">
@@ -278,13 +290,13 @@
     <!-- Main Blog List Section End-->
 
     <!--Main Footer-->
-   <?php include 'components/footer.php'?>
+    <?php include 'components/footer.php' ?>
 
-</div>
-<!--End pagewrapper-->
+  </div>
+  <!--End pagewrapper-->
 
 
-<?php include'components/script.php'?>
+  <?php include 'components/script.php' ?>
 </body>
 
 </html>
