@@ -11,7 +11,7 @@ function sendEmail($to, $subject, $body, $fromEmail = 'noreply@diwaanagra.com', 
     try {
         // Server settings
         $mail->isSMTP();
-        $mail->Host = 'smtp.gmail.com'; // Replace with your SMTP server
+        $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
         $mail->Username = 'your-email@gmail.com'; // Replace with your email
         $mail->Password = 'your-app-password'; // Replace with your app password
@@ -36,7 +36,7 @@ function sendEmail($to, $subject, $body, $fromEmail = 'noreply@diwaanagra.com', 
 
 function sendAdminNotification($formData, $formType)
 {
-    $adminEmail = 'admin@diwaanagra.com'; 
+    $adminEmail = 'admin@diwaanagra.com';
     $subject = "New $formType Submission - The Diwaan Restaurant";
 
     $body = "<h2>New $formType Submission</h2>";
