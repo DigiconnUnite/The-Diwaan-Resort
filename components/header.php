@@ -29,10 +29,9 @@
     <div class="header-upper">
         <div class="auto-container">
             <!-- Main Box: Centered Logo Layout -->
-            <div class="main-box d-flex justify-content-between align-items-center flex-wrap flex-lg-nowrap"
-                style="gap:20px;">
+            <div class="main-box" style="position: relative; display: flex; align-items: center; justify-content: space-between;">
                 <!-- Left Nav/Menu -->
-                <div class="nav-box nav-box-left clearfix flex-grow-1" style="flex:1;">
+                <div class="nav-box nav-box-left clearfix" >
                     <div class="nav-outer clearfix d-flex justify-content-end">
                         <nav class="main-menu main-menu-left">
                             <ul class="navigation clearfix d-flex justify-content-end">
@@ -50,42 +49,58 @@
                     <div class="logo-box text-center" style="flex:0 0 auto;">
                         <div class="logo">
                             <a href="index.php" title="Diwaan - Restaurants ">
-                                <img src="images/diwaan-small-logo.png" alt="" title="Diwaan - Restaurants ">
+                                <img src="images/diwaan-small-logo.webp" alt="" title="Diwaan - Restaurants ">
                             </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Nav/Menu, Find Table btn and toggler -->
+                    <div class="nav-box nav-box-right clearfix flex-grow-1 d-flex flex-row align-items-end" style="flex:1;">
+                        <div class="d-flex align-items-center justify-content-end w-100" style="gap:10px;">
+                            <!-- Menu -->
+                            <!-- <div class="nav-outer clearfix d-flex align-items-center flex-grow-1">
+                                    <nav class="main-menu main-menu-right">
+                                        <ul class="navigation clearfix d-flex justify-content-start">
+
+                                            <li><a href="contact.php">Contact</a></li>
+                                        </ul>
+                                    </nav>
+                                </div> -->
+                            <!-- Find Table btn -->
+                            <div class="link link-btn" style="margin-left:10px;">
+                                <a href="contact.php" class="theme-btn btn-style-one clearfix">
+                                    <span class="btn-wrap">
+                                        <span class="text-one"><i class="fas fa-phone"></i>&nbsp;Contact</span>
+                                        <span class="text-two"><i class="fas fa-phone"></i>&nbsp;Contact</span>
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="link link-btn" style="margin-left:10px;">
+                                <a href="book-table.php" class="theme-btn btn-style-one clearfix">
+                                    <span class="btn-wrap">
+                                        <span class="text-one"><i class="fas fa-utensils"></i>&nbsp;Book a Table</span>
+                                        <span class="text-two"><i class="fas fa-utensils"></i>&nbsp;Book a Table</span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Hidden Nav Toggler -->
+                        <div class="links-box clearfix" style="margin-left:8px;">
+                            <div class="nav-toggler">
+                                <button class="hidden-bar-opener">
+                                    <span class="hamburger">
+                                        <span class="top-bun"></span>
+                                        <span class="meat"></span>
+                                        <span class="bottom-bun"></span>
+                                    </span>
+                                </button>
+                            </div>
                         </div>
                     </div>
                 </div>
 
                 <!-- Right Nav/Menu, Find Table btn and toggler -->
                 <div class="nav-box nav-box-right clearfix flex-grow-1 d-flex flex-row align-items-end" style="flex:1;">
-                    <div class="d-flex align-items-center justify-content-end w-100" style="gap:10px;">
-                        <!-- Menu -->
-                        <!-- <div class="nav-outer clearfix d-flex align-items-center flex-grow-1">
-                                <nav class="main-menu main-menu-right">
-                                    <ul class="navigation clearfix d-flex justify-content-start">
-
-                                        <li><a href="contact.php">Contact</a></li>
-                                    </ul>
-                                </nav>
-                            </div> -->
-                        <!-- Find Table btn -->
-                        <div class="link link-btn" style="margin-left:10px;">
-                            <a href="contact.php" class="theme-btn btn-style-one clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one"><i class="fas fa-phone"></i>&nbsp;Contact</span>
-                                    <span class="text-two"><i class="fas fa-phone"></i>&nbsp;Contact</span>
-                                </span>
-                            </a>
-                        </div>
-                        <div class="link link-btn" style="margin-left:10px;">
-                            <a href="book-table.php" class="theme-btn btn-style-one clearfix">
-                                <span class="btn-wrap">
-                                    <span class="text-one"><i class="fas fa-utensils"></i>&nbsp;Book a Table</span>
-                                    <span class="text-two"><i class="fas fa-utensils"></i>&nbsp;Book a Table</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
                     <!-- Hidden Nav Toggler -->
                     <div class="links-box clearfix" style="margin-left:8px;">
                         <div class="nav-toggler">
