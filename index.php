@@ -338,7 +338,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish1.webp" alt="image"></a></div>
+                                                            src="images/resource/Royal-Paneer-Makhani.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Royal Paneer Makhani</a></h6>
@@ -353,7 +354,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish2.webp" alt="image"></a></div>
+                                                            src="images/resource/Khoya-Malai-Paneer.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Khoya Malai Paneer</a></h6>
@@ -368,7 +370,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish3.webp" alt="image"></a></div>
+                                                            src="images/resource/Paneer-Do-Pyaza-Awadhi.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Paneer Do Pyaza Awadhi</a></h6>
@@ -383,7 +386,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish4.webp" alt="image"></a></div>
+                                                            src="images/resource/Paneer-Pasanda-E-Khas.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Paneer Pasanda-e-Khas</a></h6>
@@ -398,7 +402,8 @@
                                 </div>
                                 <div class="menu-col img-col col-lg-6 col-md-12 col-sm-12">
                                     <div class="inner">
-                                        <div class="image"><img src="images/resource/menus-1.webp" alt="image"></div>
+                                        <div class="image"><img src="images/resource/Royal-Paneer-Makhani.webp"
+                                                alt="image"></div>
                                     </div>
                                 </div>
                             </div>
@@ -412,7 +417,9 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish1.webp" alt="image"></a></div>
+                                                            src="images/resource/Dal-Tadka-Benares.webp"
+                                                            alt="image"></a>
+                                                </div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Dal Tadka Benares</a></h6>
@@ -427,7 +434,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish2.webp" alt="image"></a></div>
+                                                            src="images/resource/Dal-Makhani-e-Diwaan.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Dal Makhani-e-Diwaan</a></h6>
@@ -442,7 +450,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish3.webp" alt="image"></a></div>
+                                                            src="images/resource/Dal-Handi-Rajasthani.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Dal Handi Rajasthani</a></h6>
@@ -457,7 +466,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish4.webp" alt="image"></a></div>
+                                                            src="images/resource/Dal-Bukhara-Pukhtan.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Dal Bukhara Pukhtan</a></h6>
@@ -472,7 +482,8 @@
                                 </div>
                                 <div class="menu-col img-col col-lg-6 col-md-12 col-sm-12">
                                     <div class="inner">
-                                        <div class="image"><img src="images/resource/menus-2.webp" alt="image"></div>
+                                        <div class="image"><img src="images/resource/Dal-Tadka-Benares.webp"
+                                                alt="image"></div>
                                     </div>
                                 </div>
                             </div>
@@ -486,7 +497,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish1.webp" alt="image"></a></div>
+                                                            src="images/resource/Gulab-e-Jamun-Royal.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Gulab-e-Jamun Royal</a></h6>
@@ -501,7 +513,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish2.webp" alt="image"></a></div>
+                                                            src="images/resource/Rabadi-Malai-Pista.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Rabdi Malai Pista</a></h6>
@@ -516,7 +529,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish3.webp" alt="image"></a></div>
+                                                            src="images/resource/Kesar-Badam-Kheer.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Kesar Badam Kheer</a></h6>
@@ -531,7 +545,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish4.webp" alt="image"></a></div>
+                                                            src="images/resource/Kulfi-e-Diwaan.webp" alt="image"></a>
+                                                </div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Kulfi-e-Diwaan</a></h6>
@@ -546,7 +561,8 @@
                                 </div>
                                 <div class="menu-col img-col col-lg-6 col-md-12 col-sm-12">
                                     <div class="inner">
-                                        <div class="image"><img src="images/resource/menus-desert.webp" alt="image">
+                                        <div class="image"><img src="images/resource/Gulab-e-Jamun-Royal.webp"
+                                                alt="image">
                                         </div>
                                     </div>
                                 </div>
@@ -561,7 +577,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish1.webp" alt="image"></a></div>
+                                                            src="images/resource/Mint-Nimbu-Pani.webp" alt="image"></a>
+                                                </div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Mint Nimbu Pani</a></h6>
@@ -576,7 +593,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish2.webp" alt="image"></a></div>
+                                                            src="images/resource/Aam-Panna-Special.webp"
+                                                            alt="image"></a></div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Aam Panna Special</a></h6>
@@ -591,7 +609,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish3.webp" alt="image"></a></div>
+                                                            src="images/resource/Jaipuri-Lassi.webp" alt="image"></a>
+                                                </div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Jaipuri Lassi</a></h6>
@@ -606,7 +625,8 @@
                                         <div class="dish-block">
                                             <div class="inner-box">
                                                 <div class="dish-image"><a href="#"><img
-                                                            src="images/resource/dish4.webp" alt="image"></a></div>
+                                                            src="images/resource/Ananas-Lassi.webp" alt="image"></a>
+                                                </div>
                                                 <div class="title clearfix">
                                                     <div class="ttl clearfix">
                                                         <h6><a href="#">Ananas Lassi</a></h6>
@@ -629,7 +649,8 @@
                                 </div>
                                 <div class="menu-col img-col col-lg-6 col-md-12 col-sm-12">
                                     <div class="inner">
-                                        <div class="image"><img src="images/resource/menus-wine.webp" alt="image"></div>
+                                        <div class="image"><img src="images/resource/Ananas-Lassi.webp" alt="image">
+                                        </div>
                                     </div>
                                 </div>
                             </div>
