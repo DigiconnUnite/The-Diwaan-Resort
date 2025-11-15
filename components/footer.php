@@ -9,7 +9,7 @@
             <div class="footer-brand-section">
                 <div class="brand-content d-flex">
                     <div class="logo-container">
-                        <img src="images/diwaan-logo.png" alt="The Diwaan Restaurant" class="footer-logo">
+                        <img src="images/diwaan-logo.webp" alt="The Diwaan Restaurant" class="footer-logo">
                     </div>
                     <div class="brand-text">
                         <h3>The Diwaan Restaurant</h3>

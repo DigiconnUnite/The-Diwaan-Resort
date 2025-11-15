@@ -26,7 +26,7 @@
         <!-- Banner Section -->
         <!-- Inner Banner Section -->
         <section class="inner-banner">
-            <div class="image-layer" style="background-image: url(images/background/banner-about.png);"></div>
+            <div class="image-layer" style="background-image: url(images/background/banner-about.webp);"></div>
             <div class="auto-container">
                 <div class="inner">
                     <h1>About Us</h1>
@@ -64,7 +64,7 @@
 
                                 <div class="feature-info-box">
                                     <div class="feature-title">
-                                        <img src="images/resource/hygienic.png" alt="image">
+                                        <img src="images/resource/hygienic.webp" alt="image">
                                         <h6>Pristine <br> Kitchen</h6>
                                     </div>
                                     <div class="infotext"> Our kitchen follows the highest standards of cleanliness,
@@ -73,7 +73,7 @@
 
                                 <div class="feature-info-box">
                                     <div class="feature-title">
-                                        <img src="images/resource/ambiance.png" alt="image">
+                                        <img src="images/resource/ambiance.webp" alt="image">
                                         <h6>Royal <br> Setting</h6>
                                     </div>
                                     <div class="infotext"> Step into an atmosphere that blends traditional Indian
@@ -103,7 +103,7 @@
                     <div class="image-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
                         <div class="inner wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms">
                             <div class="images parallax-scene-1">
-                                <div class="image" data-depth="0.15"><img src="images/about/about-1.png" alt="image">
+                                <div class="image" data-depth="0.15"><img src="images/about/about-1.webp" alt="image">
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                     <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
                             <div class="image-box">
-                                <img src="images/home/diff-card-1.png" alt="Master Chefs">
+                                <img src="images/home/diff-card-1.webp" alt="Master Chefs">
                                 <div class="image-frame"></div>
                             </div>
                             <div class="over-box">
@@ -141,7 +141,7 @@
                     <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
                             <div class="image-box">
-                                <img src="images/home/diff-card-2.png" alt="Pure Ingredients">
+                                <img src="images/home/diff-card-2.webp" alt="Pure Ingredients">
                                 <div class="image-frame"></div>
                             </div>
                             <div class="over-box">
@@ -154,7 +154,7 @@
                     <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
                             <div class="image-box">
-                                <img src="images/home/diff-card-3.png" alt="Royal Setting">
+                                <img src="images/home/diff-card-3.webp" alt="Royal Setting">
                                 <div class="image-frame"></div>
                             </div>
                             <div class="over-box">
@@ -167,7 +167,7 @@
                     <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="900ms">
                             <div class="image-box">
-                                <img src="images/home/diff-card-4.png" alt="Heritage Recipes">
+                                <img src="images/home/diff-card-4.webp" alt="Heritage Recipes">
                                 <div class="image-frame"></div>
                             </div>
                             <div class="over-box">
@@ -238,7 +238,7 @@
                         <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms">
                             <div class="s-block alternate">
                                 <div class="inner">
-                                    <div class="icon-box"><img src="images/resource/s-icon-1.png" alt="image" title="">
+                                    <div class="icon-box"><img src="images/resource/s-icon-1.webp" alt="image" title="">
                                     </div>
                                     <h6>royal <br> celebrations</h6>
                                     <div class="text">From intimate family gatherings to grand celebrations, our team
@@ -247,7 +247,7 @@
                             </div>
                             <div class="s-block alternate">
                                 <div class="inner">
-                                    <div class="icon-box"><img src="images/resource/s-icon-2.png" alt="image" title="">
+                                    <div class="icon-box"><img src="images/resource/s-icon-2.webp" alt="image" title="">
                                     </div>
                                     <h6>heritage <br> fine dining</h6>
                                     <div class="text">Experience the perfect blend of traditional Indian cuisine with
@@ -260,7 +260,7 @@
                         <div class="inner wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms">
                             <div class="s-block ">
                                 <div class="inner">
-                                    <div class="icon-box"><img src="images/resource/s-icon-3.png" alt="image" title="">
+                                    <div class="icon-box"><img src="images/resource/s-icon-3.webp" alt="image" title="">
                                     </div>
                                     <h6>mughlai <br> banquet hall</h6>
                                     <div class="text">Our elegant banquet hall features traditional Indian decor with
@@ -269,7 +269,7 @@
                             </div>
                             <div class="s-block ">
                                 <div class="inner">
-                                    <div class="icon-box"><img src="images/resource/s-icon-4.png" alt="image" title="">
+                                    <div class="icon-box"><img src="images/resource/s-icon-4.webp" alt="image" title="">
                                     </div>
                                     <h6>authentic <br> catering</h6>
                                     <div class="text">Bring the royal flavors of Diwaan to your venue with our bespoke
@@ -280,7 +280,8 @@
                     </div>
                     <div class="image-col col-lg-4 col-md-12 col-sm-12">
                         <div class="inner wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                            <div class="image-box"><img src="images/about/celebration-1.png" alt="image" title=""></div>
+                            <div class="image-box"><img src="images/about/celebration-1.webp" alt="image" title="">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -307,7 +308,7 @@
                                     Delhi. The ambiance perfectly captures India's royal heritage with modern comfort.
                                 </div>
                                 <div class="auth-info">
-                                    <div class="image"><img src="images/resource/author-thumb-4.jpg" alt="image"></div>
+                                    <div class="image"><img src="images/resource/author-thumb-4.webp" alt="image"></div>
                                     <div class="auth-title">Priya Sharma -<span class="location">New Delhi</span> </div>
                                 </div>
                             </div>
@@ -323,7 +324,7 @@
                                     trip. The Mughlai dishes were authentic yet presented with contemporary elegance.
                                 </div>
                                 <div class="auth-info">
-                                    <div class="image"><img src="images/resource/author-thumb-5.jpg" alt="image"></div>
+                                    <div class="image"><img src="images/resource/author-thumb-5.webp" alt="image"></div>
                                     <div class="auth-title">James Wilson -<span class="location"> London</span> </div>
                                 </div>
                             </div>
@@ -339,7 +340,7 @@
                                     flavor profile yet harmonized beautifully. The service was attentive without being
                                     intrusive.</div>
                                 <div class="auth-info">
-                                    <div class="image"><img src="images/resource/author-thumb-6.jpg" alt="image"></div>
+                                    <div class="image"><img src="images/resource/author-thumb-6.webp" alt="image"></div>
                                     <div class="auth-title">Anand Kumar -<span class="location"> Bangalore</span> </div>
                                 </div>
                             </div>
@@ -355,7 +356,7 @@
                                     mild flavors while adults savored the authentic spices. The staff made us feel truly
                                     special.</div>
                                 <div class="auth-info">
-                                    <div class="image"><img src="images/resource/author-thumb-4.jpg" alt="image"></div>
+                                    <div class="image"><img src="images/resource/author-thumb-4.webp" alt="image"></div>
                                     <div class="auth-title">Meera Patel -<span class="location"> Mumbai</span></div>
                                 </div>
                             </div>
@@ -371,7 +372,7 @@
                                     The attention to detail in both food and presentation shows true culinary passion.
                                 </div>
                                 <div class="auth-info">
-                                    <div class="image"><img src="images/resource/author-thumb-5.jpg" alt="image"></div>
+                                    <div class="image"><img src="images/resource/author-thumb-5.webp" alt="image"></div>
                                     <div class="auth-title">Rohit Verma -<span class="location"> Gurgaon</span></div>
                                 </div>
                             </div>
@@ -387,7 +388,7 @@
                                     while appealing to international palates. The fusion of North and South cuisines is
                                     masterful.</div>
                                 <div class="auth-info">
-                                    <div class="image"><img src="images/resource/author-thumb-6.jpg" alt="image"></div>
+                                    <div class="image"><img src="images/resource/author-thumb-6.webp" alt="image"></div>
                                     <div class="auth-title">Sophie Chen -<span class="location"> Singapore</span></div>
                                 </div>
                             </div>
@@ -410,26 +411,26 @@
                     <div class="image-gallery-slider owl-theme owl-carousel">
                         <!--Slide Item-->
                         <div class="gallery-block">
-                            <div class="image"><a href="images/gallery/g-1.JPG" class="lightbox-image"
-                                    data-fancybox="gallery"><img src="images/gallery/g-1.JPG" alt="image"></a></div>
+                            <div class="image"><a href="images/gallery/g-1.webp" class="lightbox-image"
+                                    data-fancybox="gallery"><img src="images/gallery/g-1.webp" alt="image"></a></div>
                         </div>
 
                         <!--Slide Item-->
                         <div class="gallery-block">
-                            <div class="image"><a href="images/gallery/g-2.JPG" class="lightbox-image"
-                                    data-fancybox="gallery"><img src="images/gallery/g-2.JPG" alt="image"></a></div>
+                            <div class="image"><a href="images/gallery/g-2.webp" class="lightbox-image"
+                                    data-fancybox="gallery"><img src="images/gallery/g-2.webp" alt="image"></a></div>
                         </div>
 
                         <!--Slide Item-->
                         <div class="gallery-block">
-                            <div class="image"><a href="images/gallery/g-3.JPG" class="lightbox-image"
-                                    data-fancybox="gallery"><img src="images/gallery/g-3.JPG" alt="image"></a></div>
+                            <div class="image"><a href="images/gallery/g-3.webp" class="lightbox-image"
+                                    data-fancybox="gallery"><img src="images/gallery/g-3.webp" alt="image"></a></div>
                         </div>
 
                         <!--Slide Item-->
                         <div class="gallery-block">
-                            <div class="image"><a href="images/gallery/g-4.JPG" class="lightbox-image"
-                                    data-fancybox="gallery"><img src="images/gallery/g-4.JPG" alt="image"></a></div>
+                            <div class="image"><a href="images/gallery/g-4.webp" class="lightbox-image"
+                                    data-fancybox="gallery"><img src="images/gallery/g-4.webp" alt="image"></a></div>
                         </div>
 
 
