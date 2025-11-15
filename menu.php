@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Diwaan - Restaurants HTML Template - Home 01</title>
+    <title>Diwaan - Restaurants  - Home 01</title>
     <!-- Stylesheets -->
     <?php include 'components/links.php' ?>
 

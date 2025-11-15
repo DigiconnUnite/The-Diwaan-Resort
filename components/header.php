@@ -44,8 +44,8 @@
                     <!-- Center Logo -->
                     <div class="logo-box text-center" style="flex:0 0 auto;">
                         <div class="logo">
-                            <a href="index.php" title="Diwaan - Restaurants HTML Template">
-                                <img src="images/diwaan-small-logo.png" alt="" title="Diwaan - Restaurants HTML Template">
+                            <a href="index.php" title="Diwaan - Restaurants ">
+                                <img src="images/diwaan-small-logo.png" alt="" title="Diwaan - Restaurants ">
                             </a>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
         <!-- Hidden Bar Wrapper -->
         <div class="inner-box">
             <div class="cross-icon hidden-bar-closer"><span class="far fa-close"></span></div>
-            <div class="logo-box"><a href="index.html" title="Diwaan - Restaurants HTML Template"><img src="images/diwaan-logo.png" alt="image" title="Diwaan - Restaurants HTML Template"></a></div>
+            <div class="logo-box"><a href="index.html" title="Diwaan - Restaurants "><img src="images/diwaan-logo.png" alt="image" title="Diwaan - Restaurants "></a></div>
             
             <!-- .Side-menu -->
             <div class="side-menu">
